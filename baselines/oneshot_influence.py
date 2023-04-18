@@ -123,7 +123,7 @@ if __name__ == '__main__':
     parser.add_argument("--model_name_or_path", type=str,
                         default="facebook/opt-6.7b",
                         help="HF model identifier. For LLaMA, please specify directory of model weights")
-    parser.add_argument("--data_dir", type=str, default="data_new-train400-test200")
+    parser.add_argument("--data_dir", type=str, default="data-train400-dev200")
     parser.add_argument("--out_dir", type=str, default="out_oneshot")
     parser.add_argument("--cache_dir", type=str, default="/scratch/taing",
                         help="HF cache dir")
@@ -177,25 +177,3 @@ if __name__ == '__main__':
             fp.write("\n")
         logger.info(f"Coverage: 1; Acc: {mean_acc}")
         logger.info(f"Wrote oneshot influences to '{args.result_file}'")
-
-    # Step 3: Evaluate one shot along with other baselines
-    import subprocess
-    for method in ["oneshot_influence", "best_set", "random"]:
-        eval_args = [
-            "python3",
-            "evaluate.py",
-            f"--task={args.task}",
-            f"--model_name_or_path={args.model_name_or_path}",
-            "--split=test",
-            f"--data_dir={args.data_dir}",
-            f"--method={method}",
-            f"--cache_dir={args.cache_dir}",
-        ]
-
-    result = subprocess.run(eval_args, capture_output=True, text=True)
-
-    if result.returncode == 0:
-        print(result.stdout)
-        logger.info(result.stdout)
-    else:
-        print(f"Command failed with return code {result.returncode}: {result.stderr}")

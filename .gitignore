@@ -1,0 +1,7 @@
+**/.python-version
+**/__pycache__/
+.idea/
+data/
+log/
+out/
+.DS_Store

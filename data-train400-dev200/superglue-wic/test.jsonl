@@ -1,0 +1,500 @@
+{"index": "train_1473", "input": "Keep open the possibility of a merger. [SEP] Keep my seat, please. [SEP] keep", "options": ["false", "true"], "output": "true"}
+{"index": "train_4274", "input": "Home is where the heart is. [SEP] There's no place like home. [SEP] home", "options": ["false", "true"], "output": "true"}
+{"index": "train_2190", "input": "When will the meeting be? [SEP] There were two hundred people at his funeral. [SEP] be", "options": ["false", "true"], "output": "true"}
+{"index": "train_183", "input": "Give that lamp a good rub and see if any genies come out. [SEP] He gave the hood a quick rub. [SEP] rub", "options": ["false", "true"], "output": "true"}
+{"index": "train_4504", "input": "We'll get them! [SEP] Did you get it? [SEP] get", "options": ["false", "true"], "output": "false"}
+{"index": "train_2234", "input": "Pay a debt. [SEP] Don't pay him any mind. [SEP] pay", "options": ["false", "true"], "output": "false"}
+{"index": "train_4459", "input": "The golfer asked for an official who could give him a ruling. [SEP] In most soccer games there are three officials: the referee and two linesmen. [SEP] official", "options": ["false", "true"], "output": "true"}
+{"index": "train_5411", "input": "The gauge read 'empty'. [SEP] This dictionary can be read by the computer. [SEP] read", "options": ["false", "true"], "output": "false"}
+{"index": "dev_144", "input": "Stop a car. [SEP] Stop the thief. [SEP] stop", "options": ["false", "true"], "output": "true"}
+{"index": "train_3676", "input": "I could see the roof of the bear's mouth. [SEP] The roof of the cave was very high. [SEP] roof", "options": ["false", "true"], "output": "true"}
+{"index": "dev_236", "input": "This will renovate my spirits. [SEP] They renovated the ceiling of the Sistine Chapel. [SEP] renovate", "options": ["false", "true"], "output": "false"}
+{"index": "train_4509", "input": "Please can I have a look, if I promise not to touch? [SEP] I wouldn't touch her with a ten-foot pole. [SEP] touch", "options": ["false", "true"], "output": "false"}
+{"index": "train_660", "input": "The shot was wide off the mark. [SEP] He poured a shot of whiskey. [SEP] shot", "options": ["false", "true"], "output": "false"}
+{"index": "train_4912", "input": "We like to walk every Sunday. [SEP] We must walk with our dispossessed brothers and sisters. [SEP] walk", "options": ["false", "true"], "output": "false"}
+{"index": "train_2441", "input": "The rookie made a brief appearance in the first period. [SEP] It was Bernhardt's last appearance in America. [SEP] appearance", "options": ["false", "true"], "output": "true"}
+{"index": "train_2165", "input": "Give a course. [SEP] I gave two sons to the war. [SEP] give", "options": ["false", "true"], "output": "false"}
+{"index": "train_2578", "input": "He stuck the point of the knife into a tree. [SEP] A row of points. [SEP] point", "options": ["false", "true"], "output": "false"}
+{"index": "train_3978", "input": "Sign language. [SEP] He didn't have the language to express his feelings. [SEP] language", "options": ["false", "true"], "output": "false"}
+{"index": "train_3761", "input": "The weakness of the dollar against the yen. [SEP] In a small number of horses, muscle weakness may progress to paralysis. [SEP] weakness", "options": ["false", "true"], "output": "true"}
+{"index": "dev_408", "input": "He was a bad influence on the children. [SEP] Used her parents' influence to get the job. [SEP] influence", "options": ["false", "true"], "output": "false"}
+{"index": "train_4631", "input": "They run things by the book around here. [SEP] She opened the book to page 37 and began to read aloud. [SEP] book", "options": ["false", "true"], "output": "false"}
+{"index": "train_2682", "input": "Karma's a bitch. [SEP] My bitch just had puppies: they're so cute! [SEP] bitch", "options": ["false", "true"], "output": "false"}
+{"index": "train_2575", "input": "The dollar is the United States unit of currency. [SEP] The word is a basic linguistic unit. [SEP] unit", "options": ["false", "true"], "output": "false"}
+{"index": "train_5386", "input": "Inhibit the action of the enzyme. [SEP] Inhibit the rate of a chemical reaction. [SEP] inhibit", "options": ["false", "true"], "output": "true"}
+{"index": "train_1768", "input": "Assisted procreation can help those trying to conceive. [SEP] The racist conceives such people to be inferior. [SEP] conceive", "options": ["false", "true"], "output": "false"}
+{"index": "train_1773", "input": "Hastened the period of time of his recovery. [SEP] Picasso's blue period. [SEP] period", "options": ["false", "true"], "output": "true"}
+{"index": "train_3914", "input": "The village fool threw his own shoes down the well. [SEP] You were a fool to cross that busy road without looking. [SEP] fool", "options": ["false", "true"], "output": "true"}
+{"index": "train_3574", "input": "Mount an attack. [SEP] Mount a play. [SEP] mount", "options": ["false", "true"], "output": "true"}
+{"index": "train_1383", "input": "Rub my hands. [SEP] Rub oil into her skin. [SEP] rub", "options": ["false", "true"], "output": "true"}
+{"index": "train_5358", "input": "I see that you have been promoted. [SEP] We had to see a psychiatrist. [SEP] see", "options": ["false", "true"], "output": "false"}
+{"index": "train_2691", "input": "General Smith was placed in command. [SEP] An admiral in command. [SEP] command", "options": ["false", "true"], "output": "true"}
+{"index": "train_752", "input": "He slit the bag open and the rice began pouring out. [SEP] Slit the throat of the victim. [SEP] slit", "options": ["false", "true"], "output": "true"}
+{"index": "train_4030", "input": "Drop him from the Republican ticket. [SEP] Shop til you drop. [SEP] drop", "options": ["false", "true"], "output": "false"}
+{"index": "train_3619", "input": "They hope to make a bigger profit. [SEP] She made ten points in that game. [SEP] make", "options": ["false", "true"], "output": "true"}
+{"index": "train_3221", "input": "How much do you make a month in your new job? [SEP] She made ten points in that game. [SEP] make", "options": ["false", "true"], "output": "true"}
+{"index": "train_1931", "input": "It should arrive any day now. [SEP] These days it is not unusual. [SEP] day", "options": ["false", "true"], "output": "true"}
+{"index": "train_4910", "input": "We stayed in Hawaii for a week. [SEP] The judge stayed the execution order. [SEP] stay", "options": ["false", "true"], "output": "false"}
+{"index": "train_103", "input": "A good title to an estate, or an imperfect title. [SEP] His title to fame. [SEP] title", "options": ["false", "true"], "output": "false"}
+{"index": "train_4685", "input": "She'll make a fine president. [SEP] He will make a splendid father! [SEP] make", "options": ["false", "true"], "output": "true"}
+{"index": "train_1342", "input": "Did you catch a cold? [SEP] If he catches you on the chin, you'll be on the mat. [SEP] catch", "options": ["false", "true"], "output": "false"}
+{"index": "train_3333", "input": "He was arrested on a charge of larceny. [SEP] The charges against the estate. [SEP] charge", "options": ["false", "true"], "output": "false"}
+{"index": "train_2904", "input": "The events left a permanent impression in his mind. [SEP] He left the impression of his fingers in the soft mud. [SEP] impression", "options": ["false", "true"], "output": "false"}
+{"index": "train_380", "input": "He got the sack for being late all the time. [SEP] The boss is gon na give her the sack today. [SEP] sack", "options": ["false", "true"], "output": "true"}
+{"index": "train_2187", "input": "He didn't make the choir after his voice changed. [SEP] He made twenty bucks playing poker last night. [SEP] make", "options": ["false", "true"], "output": "true"}
+{"index": "train_5143", "input": "The \"war on terror\" is a campaign against terrorist crime. [SEP] The \"war on drugs\" is a campaign against the use of narcotic drugs. [SEP] war", "options": ["false", "true"], "output": "true"}
+{"index": "train_4179", "input": "The connection between overeating and obesity. [SEP] My headache has no connection with me going out last night. [SEP] connection", "options": ["false", "true"], "output": "true"}
+{"index": "train_1639", "input": "The company tried to project an altruistic image. [SEP] Although her popular image was contrived it served to inspire music and pageantry. [SEP] image", "options": ["false", "true"], "output": "true"}
+{"index": "train_1914", "input": "The most moving scene is the final one, where he realizes he has wasted his whole life. [SEP] The first act has three scenes. [SEP] scene", "options": ["false", "true"], "output": "true"}
+{"index": "train_2918", "input": "The French doors admit onto the yard. [SEP] This pipe admits air. [SEP] admit", "options": ["false", "true"], "output": "false"}
+{"index": "train_4898", "input": "There was not a scrap left. [SEP] She jotted it on a scrap of paper. [SEP] scrap", "options": ["false", "true"], "output": "true"}
+{"index": "train_4891", "input": "They sailed south around the point. [SEP] A row of points. [SEP] point", "options": ["false", "true"], "output": "false"}
+{"index": "train_1036", "input": "Pull the trigger of the gun. [SEP] Pull the handle towards you. [SEP] pull", "options": ["false", "true"], "output": "true"}
+{"index": "train_2683", "input": "Does my policy cover accidental loss? [SEP] Cover the meat with a lot of gravy. [SEP] cover", "options": ["false", "true"], "output": "false"}
+{"index": "train_1571", "input": "The store is huge, occupying an entire city block. [SEP] He lives in the next block. [SEP] block", "options": ["false", "true"], "output": "true"}
+{"index": "train_4692", "input": "Her church group has planned an adoption shower. [SEP] He took a shower after the game. [SEP] shower", "options": ["false", "true"], "output": "false"}
+{"index": "train_5367", "input": "Pull one's horse to a stand. [SEP] Pull the ball. [SEP] pull", "options": ["false", "true"], "output": "false"}
+{"index": "train_642", "input": "Break an alibi. [SEP] He slipped on the ice and broke his leg. [SEP] break", "options": ["false", "true"], "output": "false"}
+{"index": "train_1542", "input": "He recorded the spoken language of the streets. [SEP] He uttered harsh language. [SEP] language", "options": ["false", "true"], "output": "true"}
+{"index": "train_1586", "input": "Make a stir. [SEP] Make friends. [SEP] make", "options": ["false", "true"], "output": "false"}
+{"index": "train_1131", "input": "Run a new program on the Mac. [SEP] My computer is too old to run the new OS. [SEP] run", "options": ["false", "true"], "output": "true"}
+{"index": "train_2602", "input": "I may be an hour. [SEP] It has been three years since my grandmother died. (similar to My grandmother died three years ago, but emphasizes the intervening period). [SEP] be", "options": ["false", "true"], "output": "false"}
+{"index": "train_2107", "input": "Pay an obligation. [SEP] He was allowed to go as soon as he paid. [SEP] pay", "options": ["false", "true"], "output": "true"}
+{"index": "train_2725", "input": "He wants to reconstruct the original text. [SEP] They handed out the printed text of the mayor's speech. [SEP] text", "options": ["false", "true"], "output": "true"}
+{"index": "train_4628", "input": "In the political orbit of a world power. [SEP] In the post WWII era, several eastern European countries came into the orbit of the Soviet Union. [SEP] orbit", "options": ["false", "true"], "output": "true"}
+{"index": "train_2406", "input": "The ballet dancer walked with a graceful attitude. [SEP] He assumed an attitude of surrender. [SEP] attitude", "options": ["false", "true"], "output": "true"}
+{"index": "train_5346", "input": "I can not work a miracle. [SEP] His fingers worked with tension. [SEP] work", "options": ["false", "true"], "output": "false"}
+{"index": "train_857", "input": "Block a nerve. [SEP] Block the wheels of a car. [SEP] block", "options": ["false", "true"], "output": "false"}
+{"index": "train_1117", "input": "Tease wool. [SEP] The children teased the new teacher. [SEP] tease", "options": ["false", "true"], "output": "false"}
+{"index": "train_598", "input": "Edge the tablecloth with embroidery. [SEP] He edged towards the car. [SEP] edge", "options": ["false", "true"], "output": "false"}
+{"index": "train_4265", "input": "Keep food for a week in the pantry. [SEP] I always keep batteries in the freezer. [SEP] keep", "options": ["false", "true"], "output": "true"}
+{"index": "train_1910", "input": "I was on a winning streak until the fourth game, where I was dealt terrible cards. [SEP] Had a streak of bad luck. [SEP] streak", "options": ["false", "true"], "output": "true"}
+{"index": "train_4681", "input": "I was right in the middle of a stretch when the phone rang. [SEP] There were stretches of boredom. [SEP] stretch", "options": ["false", "true"], "output": "false"}
+{"index": "train_1449", "input": "Fall into a trap. [SEP] She fell ill. [SEP] fall", "options": ["false", "true"], "output": "true"}
+{"index": "train_979", "input": "Draw the curtains. [SEP] Draw a conclusion. [SEP] draw", "options": ["false", "true"], "output": "false"}
+{"index": "train_4218", "input": "I beg your pardon. I didn't mean to cause offence. [SEP] He begged her to go to the prom with him. [SEP] beg", "options": ["false", "true"], "output": "true"}
+{"index": "train_5311", "input": "The answer to the comprehension question can be found in the third line of the accompanying text. [SEP] A nice line of shoes. [SEP] line", "options": ["false", "true"], "output": "false"}
+{"index": "train_387", "input": "He held a large block of the company's stock. [SEP] The pyramids were built with large stone blocks. [SEP] block", "options": ["false", "true"], "output": "false"}
+{"index": "train_1450", "input": "He didn't want his wife to know of the relationship. [SEP] The relationship between mothers and their children. [SEP] relationship", "options": ["false", "true"], "output": "false"}
+{"index": "train_4945", "input": "My neighbour is very irritable and grumpy at times. [SEP] They're our neighbours across the street. [SEP] neighbour", "options": ["false", "true"], "output": "true"}
+{"index": "train_2384", "input": "A unit of wheat is a bushel. [SEP] The word is a basic linguistic unit. [SEP] unit", "options": ["false", "true"], "output": "false"}
+{"index": "train_1275", "input": "He asked to see the executive who handled his account. [SEP] He predicted that although it is of small account now it will rapidly increase in importance. [SEP] account", "options": ["false", "true"], "output": "false"}
+{"index": "train_3247", "input": "Throw the car into reverse. [SEP] She threw a beautiful teapot. [SEP] throw", "options": ["false", "true"], "output": "false"}
+{"index": "train_4735", "input": "Much of the waste material is carried off in the sewers. [SEP] A life characterized by thriftlessness and waste. [SEP] waste", "options": ["false", "true"], "output": "false"}
+{"index": "train_2633", "input": "He had a great feeling for music. [SEP] The house gave me a feeling of dread. [SEP] feeling", "options": ["false", "true"], "output": "false"}
+{"index": "dev_129", "input": "They departed hurriedly because of some great urgency in their affairs. [SEP] I'll be there, barring any urgencies. [SEP] urgency", "options": ["false", "true"], "output": "true"}
+{"index": "train_4091", "input": "We hit Detroit at one in the morning but kept driving through the night. [SEP] The ball hit the fence. [SEP] hit", "options": ["false", "true"], "output": "false"}
+{"index": "train_2059", "input": "Arouse pity. [SEP] To arouse jealousy. [SEP] arouse", "options": ["false", "true"], "output": "true"}
+{"index": "train_4082", "input": "They didn't have much in the way of clothing. [SEP] They are on the way. [SEP] way", "options": ["false", "true"], "output": "false"}
+{"index": "dev_594", "input": "She used to wait down at the Dew Drop Inn. [SEP] Wait here until your car arrives. [SEP] wait", "options": ["false", "true"], "output": "false"}
+{"index": "train_4251", "input": "Do you remember that he once loved you? [SEP] I can't remember saying any such thing. [SEP] remember", "options": ["false", "true"], "output": "true"}
+{"index": "train_5221", "input": "His daily run keeps him fit. [SEP] Running is good exercise. [SEP] run", "options": ["false", "true"], "output": "true"}
+{"index": "train_5348", "input": "He earned his degree at Princeton summa cum laude. [SEP] There are 360 degrees in a circle. [SEP] degree", "options": ["false", "true"], "output": "false"}
+{"index": "train_382", "input": "A daily run of 100,000 gallons of paint. [SEP] Yesterday we did a run of 12,000 units. [SEP] run", "options": ["false", "true"], "output": "true"}
+{"index": "train_2871", "input": "Keep food for a week in the pantry. [SEP] She never keeps her promises. [SEP] keep", "options": ["false", "true"], "output": "false"}
+{"index": "train_2978", "input": "\"He presided over the economy during the period of the greatest stress and danger\" -- R.J.Samuelson. [SEP] She endured the stresses and strains of life. [SEP] stress", "options": ["false", "true"], "output": "true"}
+{"index": "train_583", "input": "He was a great actor in his time. [SEP] He waited a long time. [SEP] time", "options": ["false", "true"], "output": "true"}
+{"index": "train_2625", "input": "Rally together against a common enemy. [SEP] The enemy attacked at dawn. [SEP] enemy", "options": ["false", "true"], "output": "true"}
+{"index": "train_1320", "input": "All of human history. [SEP] The dawn of recorded history. [SEP] history", "options": ["false", "true"], "output": "false"}
+{"index": "train_1928", "input": "A chair is furniture. Sofas are also furniture. [SEP] There was only one piece of furniture in the room. [SEP] furniture", "options": ["false", "true"], "output": "true"}
+{"index": "train_1692", "input": "Throw accusations at someone. [SEP] The horse threw its inexperienced rider. [SEP] throw", "options": ["false", "true"], "output": "false"}
+{"index": "train_4817", "input": "We congratulated him on his performance at the rehearsal. [SEP] The frequent performances of the symphony testify to its popularity. [SEP] performance", "options": ["false", "true"], "output": "false"}
+{"index": "train_1919", "input": "I will check up on the car tomorrow. [SEP] Check out the engine. [SEP] check", "options": ["false", "true"], "output": "true"}
+{"index": "train_894", "input": "Roll your hair around your finger. [SEP] The thunder rolled. [SEP] roll", "options": ["false", "true"], "output": "false"}
+{"index": "train_95", "input": "Mineral origin. [SEP] Vegetable origins. [SEP] origin", "options": ["false", "true"], "output": "true"}
+{"index": "train_785", "input": "Murder in the second degree. [SEP] He earned his degree at Princeton summa cum laude. [SEP] degree", "options": ["false", "true"], "output": "false"}
+{"index": "train_1512", "input": "Cut the songs. [SEP] She cut all of her major titles again. [SEP] cut", "options": ["false", "true"], "output": "true"}
+{"index": "train_2664", "input": "The track bed had washed away. [SEP] Sea bed, river bed, lake bed. [SEP] bed", "options": ["false", "true"], "output": "false"}
+{"index": "train_1750", "input": "I think he is very smart. [SEP] Think what a scene it must have been! [SEP] think", "options": ["false", "true"], "output": "false"}
+{"index": "train_961", "input": "They had a good time together. [SEP] We had a wonderful time at the party. [SEP] time", "options": ["false", "true"], "output": "true"}
+{"index": "dev_332", "input": "Percolate coffee. [SEP] I'll percolate some coffee. [SEP] percolate", "options": ["false", "true"], "output": "true"}
+{"index": "train_5276", "input": "The car's finish was so shiny and new. [SEP] \"Almost an inspiration which gives to all work that finish which is almost art\" -- Joseph Conrad. [SEP] finish", "options": ["false", "true"], "output": "false"}
+{"index": "train_3105", "input": "Treat an oil spill. [SEP] Treat the lawn with chemicals. [SEP] treat", "options": ["false", "true"], "output": "true"}
+{"index": "train_3870", "input": "He showed me the river of living water, sparkling like crystal, flowing from the throne of God. [SEP] He asked for a drink of water. [SEP] water", "options": ["false", "true"], "output": "false"}
+{"index": "dev_141", "input": "Bell cows. [SEP] Who will bell the cat? [SEP] bell", "options": ["false", "true"], "output": "true"}
+{"index": "train_1144", "input": "The club that is now mostly used for golf was once a common weapon. [SEP] He used all his conversational weapons. [SEP] weapon", "options": ["false", "true"], "output": "false"}
+{"index": "train_3704", "input": "The people concerned have a deficit in verbal memory. [SEP] They have serious linguistic deficits. [SEP] deficit", "options": ["false", "true"], "output": "true"}
+{"index": "train_3267", "input": "I have two years left. [SEP] He had an insulin shock after eating three candy bars. [SEP] have", "options": ["false", "true"], "output": "false"}
+{"index": "train_2588", "input": "The young teacher had to substitute for the sick colleague. [SEP] The skim milk substitutes for cream -- we are on a strict diet. [SEP] substitute", "options": ["false", "true"], "output": "true"}
+{"index": "train_2545", "input": "Channelize a stream. [SEP] Channelize the country for better transportation. [SEP] channelize", "options": ["false", "true"], "output": "false"}
+{"index": "dev_26", "input": "Leave lots of time for the trip. [SEP] This leaves no room for improvement. [SEP] leave", "options": ["false", "true"], "output": "true"}
+{"index": "train_4223", "input": "Negociate securities. [SEP] The pianist negociated the difficult runs. [SEP] negociate", "options": ["false", "true"], "output": "false"}
+{"index": "train_1585", "input": "Don't pay him any mind. [SEP] Pay attention. [SEP] pay", "options": ["false", "true"], "output": "true"}
+{"index": "train_2429", "input": "A head of lettuce. [SEP] I've got to go to the head. [SEP] head", "options": ["false", "true"], "output": "false"}
+{"index": "train_3997", "input": "You really have to empathize. [SEP] You really have to empathize with their doing it. [SEP] empathize", "options": ["false", "true"], "output": "true"}
+{"index": "train_5227", "input": "His date never stopped talking. [SEP] We haven't heard from them to date. [SEP] date", "options": ["false", "true"], "output": "false"}
+{"index": "train_1311", "input": "Come into contact with a terrorist group. [SEP] The shoes came untied. [SEP] come", "options": ["false", "true"], "output": "true"}
+{"index": "train_5366", "input": "Please develop this roll of film for me. [SEP] Please develop this roll of film. [SEP] develop", "options": ["false", "true"], "output": "true"}
+{"index": "train_1371", "input": "A bird will not learn its song unless it hears it at an early age. [SEP] I love hearing the song of canary birds. [SEP] song", "options": ["false", "true"], "output": "true"}
+{"index": "train_4465", "input": "His tantrums are a statement of his need for attention. [SEP] A Cadillac makes a statement about who you are. [SEP] statement", "options": ["false", "true"], "output": "true"}
+{"index": "train_1797", "input": "Estimates of the city's loss on that job ranged as high as a million dollars. [SEP] I've got a job for you -- could you wash the dishes? [SEP] job", "options": ["false", "true"], "output": "true"}
+{"index": "train_1609", "input": "Break down a proof. [SEP] Break an alibi. [SEP] break", "options": ["false", "true"], "output": "true"}
+{"index": "train_3896", "input": "Lift an embargo. [SEP] Lift potatoes. [SEP] lift", "options": ["false", "true"], "output": "false"}
+{"index": "dev_448", "input": "From the window he could catch a glimpse of the lake. [SEP] He caught only a glimpse of the professor's meaning. [SEP] glimpse", "options": ["false", "true"], "output": "false"}
+{"index": "dev_231", "input": "Admit someone to the profession. [SEP] She was admitted to the New Jersey Bar. [SEP] admit", "options": ["false", "true"], "output": "true"}
+{"index": "train_3373", "input": "What was the date of submission of your proposal? [SEP] His submission to the will of God. [SEP] submission", "options": ["false", "true"], "output": "false"}
+{"index": "train_4531", "input": "The teaching consists of theory lessons and case studies. [SEP] A door case. [SEP] case", "options": ["false", "true"], "output": "false"}
+{"index": "train_3474", "input": "In the common interest. [SEP] An interest in music. [SEP] interest", "options": ["false", "true"], "output": "false"}
+{"index": "train_2375", "input": "A heart condition. [SEP] A skin condition. [SEP] condition", "options": ["false", "true"], "output": "true"}
+{"index": "train_1196", "input": "Drive a ball. [SEP] What are you driving at? [SEP] drive", "options": ["false", "true"], "output": "false"}
+{"index": "train_2047", "input": "He heard the phone ringing but didn't want to take the call. [SEP] He placed a phone call to London. [SEP] call", "options": ["false", "true"], "output": "true"}
+{"index": "train_3535", "input": "He dropped the logs on the ground. [SEP] They gained ground step by step. [SEP] ground", "options": ["false", "true"], "output": "false"}
+{"index": "train_4705", "input": "I used tact when I told my fat uncle that his extra weight made him look better. [SEP] By the use of tact, she was able to calm her jealous husband. [SEP] tact", "options": ["false", "true"], "output": "true"}
+{"index": "dev_473", "input": "The infielder's snap and throw was a single motion. [SEP] Children can manage snaps better than buttons. [SEP] snap", "options": ["false", "true"], "output": "false"}
+{"index": "train_4256", "input": "To raise a wall, or a heap of stones. [SEP] Raise a siege. [SEP] raise", "options": ["false", "true"], "output": "false"}
+{"index": "train_2879", "input": "Her former friends now avoid her. [SEP] I try to avoid the company of gamblers. [SEP] avoid", "options": ["false", "true"], "output": "true"}
+{"index": "train_4623", "input": "A sunburnt complexion. [SEP] A liberal political complexion. [SEP] complexion", "options": ["false", "true"], "output": "false"}
+{"index": "train_5184", "input": "I ordered two dozen doughnuts. [SEP] There shouldn't be more than two dozen Christmas cards left to write. [SEP] dozen", "options": ["false", "true"], "output": "true"}
+{"index": "train_4925", "input": "I spread the rice grains evenly over the floor. [SEP] The rumor spread. [SEP] spread", "options": ["false", "true"], "output": "false"}
+{"index": "train_2428", "input": "Political fatigue. [SEP] The American public is experiencing scandal fatigue. [SEP] fatigue", "options": ["false", "true"], "output": "true"}
+{"index": "train_3014", "input": "She enjoyed her brief taste of independence. [SEP] His cold deprived him of his sense of taste. [SEP] taste", "options": ["false", "true"], "output": "false"}
+{"index": "train_4422", "input": "I used to take The Sunday Times. [SEP] Take action. [SEP] take", "options": ["false", "true"], "output": "false"}
+{"index": "train_339", "input": "You had better pack your swollen ankle with ice. [SEP] Pack the faucet. [SEP] pack", "options": ["false", "true"], "output": "false"}
+{"index": "train_4926", "input": "The apparition of Lawyer Clippurse occasioned much speculation in that portion of the world. -- Sir W. Scott. [SEP] Natives were amazed at the apparition of this white stranger. [SEP] apparition", "options": ["false", "true"], "output": "true"}
+{"index": "train_1607", "input": "We must strike the enemy's oil fields. [SEP] Panic struck me. [SEP] strike", "options": ["false", "true"], "output": "false"}
+{"index": "train_928", "input": "Draw parallels. [SEP] Draw a conclusion. [SEP] draw", "options": ["false", "true"], "output": "true"}
+{"index": "train_4902", "input": "Drop a hint. [SEP] Shop til you drop. [SEP] drop", "options": ["false", "true"], "output": "false"}
+{"index": "train_4776", "input": "Skill is the product of hours of practice. [SEP] Skill is the product of hours of practice. [SEP] product", "options": ["false", "true"], "output": "true"}
+{"index": "train_5370", "input": "He gave a howl of pain. [SEP] Howls of laughter. [SEP] howl", "options": ["false", "true"], "output": "true"}
+{"index": "train_1130", "input": "Extend the casserole with a little rice. [SEP] Extend the TV antenna. [SEP] extend", "options": ["false", "true"], "output": "false"}
+{"index": "train_1787", "input": "This computer will connect well to the network. [SEP] Herman connected the computers. [SEP] connect", "options": ["false", "true"], "output": "true"}
+{"index": "train_139", "input": "I want to get there early; let's roll. [SEP] The drawer rolled open. [SEP] roll", "options": ["false", "true"], "output": "false"}
+{"index": "train_1633", "input": "The power of its engine determines its operation. [SEP] A multinational operation. [SEP] operation", "options": ["false", "true"], "output": "false"}
+{"index": "train_1376", "input": "The airwaves carry the sound. [SEP] Sound carries well over water. [SEP] carry", "options": ["false", "true"], "output": "true"}
+{"index": "train_2039", "input": "He played catch with his son in the backyard. [SEP] The kids love to play catch. [SEP] catch", "options": ["false", "true"], "output": "true"}
+{"index": "train_3538", "input": "Start at the beginning and go on until you come to the end. [SEP] At the end of the story, the main characters fall in love. [SEP] end", "options": ["false", "true"], "output": "true"}
+{"index": "train_4003", "input": "Marriage was scarcely his dish. [SEP] She prepared a special dish for dinner. [SEP] dish", "options": ["false", "true"], "output": "false"}
+{"index": "train_2819", "input": "You must carry your camping gear. [SEP] Sound carries well over water. [SEP] carry", "options": ["false", "true"], "output": "false"}
+{"index": "train_1186", "input": "Take a pulse. [SEP] A reading was taken of the earth's tremors. [SEP] take", "options": ["false", "true"], "output": "true"}
+{"index": "train_5057", "input": "Play cards. [SEP] We played hockey all afternoon. [SEP] play", "options": ["false", "true"], "output": "true"}
+{"index": "train_2342", "input": "This invention will make you a millionaire. [SEP] She made us look silly. [SEP] make", "options": ["false", "true"], "output": "true"}
+{"index": "train_4439", "input": "You'll pay for this opinion later. [SEP] He was allowed to go as soon as he paid. [SEP] pay", "options": ["false", "true"], "output": "false"}
+{"index": "train_2026", "input": "The room has a wooden floor. [SEP] They needed rugs to cover the bare floors. [SEP] floor", "options": ["false", "true"], "output": "true"}
+{"index": "train_3241", "input": "You need to get permission to leave early. [SEP] He got 5 years in prison. [SEP] get", "options": ["false", "true"], "output": "true"}
+{"index": "train_592", "input": "True memorability of phrase. [SEP] Continuous change results in lack of memorability. [SEP] memorability", "options": ["false", "true"], "output": "true"}
+{"index": "train_4115", "input": "The reporter fiddle with the facts. [SEP] We found out that she had been fiddling for years. [SEP] fiddle", "options": ["false", "true"], "output": "false"}
+{"index": "train_3603", "input": "This violinist is as good as Juilliard-trained violinists go. [SEP] How fast does your new car go? [SEP] go", "options": ["false", "true"], "output": "false"}
+{"index": "train_136", "input": "The unkindest cut of all. [SEP] The mayor proposed extensive cuts in the city budget. [SEP] cut", "options": ["false", "true"], "output": "false"}
+{"index": "train_621", "input": "I expected a brief account. [SEP] A person of considerable account. [SEP] account", "options": ["false", "true"], "output": "false"}
+{"index": "train_4126", "input": "Lie dormant. [SEP] The snow lies on the roof. [SEP] lie", "options": ["false", "true"], "output": "false"}
+{"index": "train_367", "input": "What did you get at the toy store? [SEP] Get someone mad. [SEP] get", "options": ["false", "true"], "output": "false"}
+{"index": "train_2389", "input": "This dough does not work easily. [SEP] He could not work the math problem. [SEP] work", "options": ["false", "true"], "output": "false"}
+{"index": "train_2029", "input": "We must develop more potential customers. [SEP] The embryo develops into a fetus. [SEP] develop", "options": ["false", "true"], "output": "false"}
+{"index": "train_1243", "input": "Don't catch your meaning. [SEP] I have some free time tonight so I think I'll catch a movie. [SEP] catch", "options": ["false", "true"], "output": "false"}
+{"index": "train_903", "input": "Could you convert my dollars into pounds? [SEP] Smith converted and his team won. [SEP] convert", "options": ["false", "true"], "output": "false"}
+{"index": "train_4440", "input": "A leak in a gas pipe. [SEP] A leak in a roof. [SEP] leak", "options": ["false", "true"], "output": "true"}
+{"index": "train_3407", "input": "Can you play on this old recorder? [SEP] Play fair. [SEP] play", "options": ["false", "true"], "output": "false"}
+{"index": "train_348", "input": "They were arrayed in line of battle. [SEP] The cast stood in line for the curtain call. [SEP] line", "options": ["false", "true"], "output": "true"}
+{"index": "train_2565", "input": "He drank a cup of coffee. [SEP] He borrowed a cup of sugar. [SEP] cup", "options": ["false", "true"], "output": "true"}
+{"index": "train_830", "input": "The opponent refused to strike. [SEP] The teacher struck the child. [SEP] strike", "options": ["false", "true"], "output": "true"}
+{"index": "train_1848", "input": "As the car salesman approached, wearing a plaid suit and slicked-back hair, he seemed to embody sleaze. [SEP] This painting embodies the feelings of the Romantic period. [SEP] embody", "options": ["false", "true"], "output": "true"}
+{"index": "train_189", "input": "The head of the compass needle is pointing due north. [SEP] 200 head of cattle. [SEP] head", "options": ["false", "true"], "output": "false"}
+{"index": "train_4858", "input": "He took his leave. [SEP] The applicant now seeks leave to appeal and, if leave be granted, to appeal against these sentences. [SEP] leave", "options": ["false", "true"], "output": "false"}
+{"index": "train_4111", "input": "Show me where the business was today. [SEP] Government and business could not agree. [SEP] business", "options": ["false", "true"], "output": "false"}
+{"index": "train_5419", "input": "Now that we're all in agreement, we can put that issue to rest. [SEP] The ocean was finally at rest. [SEP] rest", "options": ["false", "true"], "output": "true"}
+{"index": "train_2438", "input": "My neighbour has an annoying cat. [SEP] My neighbour is very irritable and grumpy at times. [SEP] neighbour", "options": ["false", "true"], "output": "true"}
+{"index": "train_1203", "input": "The war on poverty. [SEP] The \"war on terror\" is a campaign against terrorist crime. [SEP] war", "options": ["false", "true"], "output": "true"}
+{"index": "train_1591", "input": "I want to see whether she speaks French. [SEP] Could you see about lunch? [SEP] see", "options": ["false", "true"], "output": "false"}
+{"index": "train_1998", "input": "Soon the rain will stop. [SEP] The riots stopped when police moved in. [SEP] stop", "options": ["false", "true"], "output": "true"}
+{"index": "train_4463", "input": "They had sex in the back seat. [SEP] (The believers ... those ...) who abstain from sex. [SEP] sex", "options": ["false", "true"], "output": "true"}
+{"index": "dev_71", "input": "Her glasses left marks on the bridge of her nose. [SEP] Rugby players often break the bridge of their noses. [SEP] bridge", "options": ["false", "true"], "output": "true"}
+{"index": "train_4227", "input": "Turn on the spot. [SEP] The wheels are turning. [SEP] turn", "options": ["false", "true"], "output": "true"}
+{"index": "train_741", "input": "The characters were well drawn but the plot was banal. [SEP] They concocted a plot to discredit the governor. [SEP] plot", "options": ["false", "true"], "output": "false"}
+{"index": "train_523", "input": "Can you back up your claims? [SEP] I can't back this plan. [SEP] back", "options": ["false", "true"], "output": "false"}
+{"index": "dev_216", "input": "The reappearance of Halley's comet. [SEP] His reappearance as Hamlet has been long awaited. [SEP] reappearance", "options": ["false", "true"], "output": "false"}
+{"index": "train_3343", "input": "He was a member of a special police unit. [SEP] The reduced the number of units and installations. [SEP] unit", "options": ["false", "true"], "output": "true"}
+{"index": "dev_372", "input": "Fold up the newspaper. [SEP] Tony folded the flaps open. [SEP] fold", "options": ["false", "true"], "output": "true"}
+{"index": "train_5339", "input": "This will permit the rain to run off. [SEP] She permitted her son to visit her estranged husband. [SEP] permit", "options": ["false", "true"], "output": "false"}
+{"index": "train_2374", "input": "She's got a perfect smile. [SEP] She had a smile on her face. [SEP] smile", "options": ["false", "true"], "output": "true"}
+{"index": "train_5244", "input": "He came to a bad end. [SEP] The so-called glorious experiment came to an inglorious end. [SEP] end", "options": ["false", "true"], "output": "true"}
+{"index": "train_574", "input": "Please develop this roll of film for me. [SEP] Develop land. [SEP] develop", "options": ["false", "true"], "output": "false"}
+{"index": "train_396", "input": "The president wanted to disband the scandal-plagued agency. [SEP] The principal disbanded the political student organization. [SEP] disband", "options": ["false", "true"], "output": "true"}
+{"index": "train_413", "input": "Draw on a cigarette. [SEP] Draw wire. [SEP] draw", "options": ["false", "true"], "output": "false"}
+{"index": "train_142", "input": "The medical resident finished a two-week rotation in pediatrics and began one in orthopaedics. [SEP] Crop rotation makes a balanced demand on the fertility of the soil. [SEP] rotation", "options": ["false", "true"], "output": "true"}
+{"index": "train_2778", "input": "She called it a day and went to bed. [SEP] It was a busy day on the stock exchange. [SEP] day", "options": ["false", "true"], "output": "true"}
+{"index": "train_4863", "input": "The film is set in Africa. [SEP] Set the dogs on the scent of the missing children. [SEP] set", "options": ["false", "true"], "output": "false"}
+{"index": "train_1059", "input": "Pull weeds. [SEP] I'm pulling for the underdog. [SEP] pull", "options": ["false", "true"], "output": "false"}
+{"index": "train_1655", "input": "I really want to sing in the school choir. [SEP] She was singing while she was cooking. [SEP] sing", "options": ["false", "true"], "output": "true"}
+{"index": "train_1382", "input": "From noon till night. [SEP] They worked from morning to night. [SEP] night", "options": ["false", "true"], "output": "true"}
+{"index": "train_99", "input": "Tickets are $5 per head. [SEP] He is two heads taller than his little sister. [SEP] head", "options": ["false", "true"], "output": "false"}
+{"index": "train_144", "input": "I'm really seeing you in a different light today. [SEP] The light of my life. [SEP] light", "options": ["false", "true"], "output": "true"}
+{"index": "train_5404", "input": "Cut recording tape. [SEP] Cut from one scene to another. [SEP] cut", "options": ["false", "true"], "output": "false"}
+{"index": "train_2548", "input": "I can not relate these events at all. [SEP] I find it difficult to relate to others because i'm extremely introverted. [SEP] relate", "options": ["false", "true"], "output": "true"}
+{"index": "train_4529", "input": "As a Greek numeral, iota represents ten. [SEP] There are twelve iotas on that page. [SEP] iota", "options": ["false", "true"], "output": "true"}
+{"index": "train_1073", "input": "If you keep partying like this, your school-work will suffer. [SEP] Many saints suffered martyrdom. [SEP] suffer", "options": ["false", "true"], "output": "false"}
+{"index": "train_293", "input": "Many children join a sports club. [SEP] Most politicians have joined a party. [SEP] join", "options": ["false", "true"], "output": "true"}
+{"index": "train_233", "input": "Burn garbage. [SEP] The car burns only Diesel oil. [SEP] burn", "options": ["false", "true"], "output": "true"}
+{"index": "train_1626", "input": "The drums beat all night. [SEP] Beat the table with his shoe. [SEP] beat", "options": ["false", "true"], "output": "false"}
+{"index": "train_5220", "input": "He gave notice two months before he moved. [SEP] He took no notice of the changes, and went on as though nothing had happened. [SEP] notice", "options": ["false", "true"], "output": "false"}
+{"index": "train_2181", "input": "Offer resistance. [SEP] He offered his sympathy. [SEP] offer", "options": ["false", "true"], "output": "false"}
+{"index": "dev_442", "input": "In a world where financial probity may not be widespread. [SEP] He enjoys an exaggerated reputation for probity. [SEP] probity", "options": ["false", "true"], "output": "true"}
+{"index": "train_3599", "input": "The child won everyone's heart. [SEP] He stood still, his heart thumping wildly. [SEP] heart", "options": ["false", "true"], "output": "false"}
+{"index": "train_3610", "input": "$50 won't even purchase a dress. [SEP] Carmen purchased a dress for $50. [SEP] purchase", "options": ["false", "true"], "output": "true"}
+{"index": "train_975", "input": "Dissent to the laws of the country. [SEP] Several Republicans dissented. [SEP] dissent", "options": ["false", "true"], "output": "false"}
+{"index": "train_4494", "input": "The roll of a ball. [SEP] Calculate the roll of that aircraft. [SEP] roll", "options": ["false", "true"], "output": "false"}
+{"index": "train_1744", "input": "Take the gun from your pocket. [SEP] The test grader takes off a point for every misspelled word. [SEP] take", "options": ["false", "true"], "output": "true"}
+{"index": "dev_18", "input": "He was concerned with rail safety. [SEP] He traveled by rail. [SEP] rail", "options": ["false", "true"], "output": "true"}
+{"index": "train_754", "input": "Block a garment. [SEP] He blocked the basketball player's shot. [SEP] block", "options": ["false", "true"], "output": "false"}
+{"index": "train_1134", "input": "The Supreme Court upheld the principle of one person, one vote. [SEP] There were only 17 votes in favor of the motion. [SEP] vote", "options": ["false", "true"], "output": "true"}
+{"index": "train_33", "input": "The shark is a large fish. [SEP] In the living room there was a tank of colorful fish. [SEP] fish", "options": ["false", "true"], "output": "true"}
+{"index": "dev_146", "input": "A marriage of ideas. [SEP] The marriage of music and dance. [SEP] marriage", "options": ["false", "true"], "output": "true"}
+{"index": "train_596", "input": "The sight of his wife brought him back to reality. [SEP] To gain sight of land. [SEP] sight", "options": ["false", "true"], "output": "false"}
+{"index": "train_4363", "input": "Ryan wiped the tear from the paper he was crying on. [SEP] His story brought tears to her eyes. [SEP] tear", "options": ["false", "true"], "output": "true"}
+{"index": "train_125", "input": "Don't approach that house. [SEP] He was an admirable poet, and thought even to have approached Homer. -- Sir William Temple. [SEP] approach", "options": ["false", "true"], "output": "true"}
+{"index": "train_378", "input": "To carry the war from Greece into Asia. [SEP] The jar carries wine. [SEP] carry", "options": ["false", "true"], "output": "false"}
+{"index": "train_249", "input": "May God keep you. [SEP] The student was kept after school. [SEP] keep", "options": ["false", "true"], "output": "false"}
+{"index": "train_1488", "input": "The set of rational numbers, \\mathbbQ, is the prototypical field. [SEP] Field of view. [SEP] field", "options": ["false", "true"], "output": "false"}
+{"index": "train_3956", "input": "We visited a farm where they raise chickens. [SEP] Raise a family. [SEP] raise", "options": ["false", "true"], "output": "true"}
+{"index": "train_2185", "input": "A rugged complexion. [SEP] A liberal political complexion. [SEP] complexion", "options": ["false", "true"], "output": "false"}
+{"index": "train_4693", "input": "People turn to mysticism at the turn of a millennium. [SEP] The pedophile turned to boys for satisfaction. [SEP] turn", "options": ["false", "true"], "output": "true"}
+{"index": "train_1885", "input": "American industry is making increased use of computers to control production. [SEP] Frugality and industry are still regarded as virtues. [SEP] industry", "options": ["false", "true"], "output": "false"}
+{"index": "train_2641", "input": "Come out of the closet! [SEP] He came from France. [SEP] come", "options": ["false", "true"], "output": "true"}
+{"index": "train_4183", "input": "Reduce a problem to a single question. [SEP] Reduce one's standard of living. [SEP] reduce", "options": ["false", "true"], "output": "false"}
+{"index": "dev_410", "input": "Rouge Dragon is a herald at the College of Arms. [SEP] The chieftain had a herald who announced his arrival with a trumpet. [SEP] herald", "options": ["false", "true"], "output": "true"}
+{"index": "train_3362", "input": "The French doors give onto a terrace. [SEP] The wall gave in. [SEP] give", "options": ["false", "true"], "output": "false"}
+{"index": "train_1425", "input": "They had too much furniture for the small apartment. [SEP] There was only one piece of furniture in the room. [SEP] furniture", "options": ["false", "true"], "output": "true"}
+{"index": "dev_494", "input": "It was an apology for a meal. [SEP] The Apology of Socrates. [SEP] apology", "options": ["false", "true"], "output": "false"}
+{"index": "train_969", "input": "The region is a few molecules wide at the summit. [SEP] In summer, it is possible to hike to the summit of Mt. Shasta. [SEP] summit", "options": ["false", "true"], "output": "true"}
+{"index": "dev_381", "input": "To gnash the air in fury. [SEP] To gnash a carpet. [SEP] gnash", "options": ["false", "true"], "output": "true"}
+{"index": "dev_86", "input": "We decided to forge ahead with our plans even though our biggest underwriter backed out. [SEP] He forged ahead. [SEP] forge", "options": ["false", "true"], "output": "true"}
+{"index": "dev_60", "input": "What does the law say? [SEP] The clock says noon. [SEP] say", "options": ["false", "true"], "output": "false"}
+{"index": "train_1566", "input": "He is the Republican boss in Kentucky. [SEP] Party bosses have a reputation for corruption. [SEP] boss", "options": ["false", "true"], "output": "true"}
+{"index": "train_415", "input": "Tap beer in a bar. [SEP] Tap an M3 thread all the way through the hole. [SEP] tap", "options": ["false", "true"], "output": "false"}
+{"index": "train_3434", "input": "It brought the scandal to light. [SEP] He could paint the lightest light and the darkest dark. [SEP] light", "options": ["false", "true"], "output": "false"}
+{"index": "train_215", "input": "Charge a conductor. [SEP] The speaker charged up the crowd with his inflammatory remarks. [SEP] charge", "options": ["false", "true"], "output": "false"}
+{"index": "dev_632", "input": "The outward passage took 10 days. [SEP] She struggled to play the difficult passages. [SEP] passage", "options": ["false", "true"], "output": "false"}
+{"index": "train_4202", "input": "The assembly line was on a 12-hour run. [SEP] He went to Las Vegas and spent all his money over a three-day run. [SEP] run", "options": ["false", "true"], "output": "true"}
+{"index": "train_1782", "input": "I know that the President lied to the people. [SEP] I know it's time. [SEP] know", "options": ["false", "true"], "output": "true"}
+{"index": "train_1686", "input": "Work your way through every problem or task. [SEP] She was working on her second martini when the guests arrived. [SEP] work", "options": ["false", "true"], "output": "true"}
+{"index": "train_4448", "input": "The car hit a tree. [SEP] The ball hit the fence. [SEP] hit", "options": ["false", "true"], "output": "true"}
+{"index": "train_468", "input": "Strike an arc. [SEP] They were struck with fear. [SEP] strike", "options": ["false", "true"], "output": "false"}
+{"index": "train_3273", "input": "A mountain pass. [SEP] We got through the pass before it started to snow. [SEP] pass", "options": ["false", "true"], "output": "true"}
+{"index": "train_2573", "input": "A multinational operation. [SEP] A large-scale farming operation. [SEP] operation", "options": ["false", "true"], "output": "true"}
+{"index": "train_602", "input": "A racially integrated business concern. [SEP] We do business all over the world. [SEP] business", "options": ["false", "true"], "output": "false"}
+{"index": "train_4867", "input": "Levy a fine. [SEP] To levy a tax. [SEP] levy", "options": ["false", "true"], "output": "true"}
+{"index": "dev_362", "input": "They had a bitter exchange. [SEP] An exchange of cattle for grain. [SEP] exchange", "options": ["false", "true"], "output": "false"}
+{"index": "train_3570", "input": "200 head of cattle. [SEP] This song keeps going through my head. [SEP] head", "options": ["false", "true"], "output": "false"}
+{"index": "train_2868", "input": "The misery and wretchedness of those slums is intolerable. [SEP] She was exhausted by her misery and grief. [SEP] misery", "options": ["false", "true"], "output": "false"}
+{"index": "train_4188", "input": "Can you count the books on your shelf? [SEP] There are three apples; count them. [SEP] count", "options": ["false", "true"], "output": "true"}
+{"index": "train_3179", "input": "The containment of the rebellion. [SEP] The containment of the AIDS epidemic. [SEP] containment", "options": ["false", "true"], "output": "true"}
+{"index": "train_55", "input": "After the fire a still small voice. -- 1 Kings 19:12. [SEP] The voice of the law. [SEP] voice", "options": ["false", "true"], "output": "false"}
+{"index": "train_1615", "input": "I'll meet you at the foot of the stairs. [SEP] The foot of the page. [SEP] foot", "options": ["false", "true"], "output": "false"}
+{"index": "train_1206", "input": "She knotted the end of the thread. [SEP] The ends justify the means. [SEP] end", "options": ["false", "true"], "output": "false"}
+{"index": "train_934", "input": "Don't underestimate the danger of such a raft trip on this river. [SEP] He underestimated the work that went into the renovation. [SEP] underestimate", "options": ["false", "true"], "output": "true"}
+{"index": "train_508", "input": "Play sports. [SEP] Play cards. [SEP] play", "options": ["false", "true"], "output": "true"}
+{"index": "train_2316", "input": "He inserted the wedge into a split in the log. [SEP] They announced a two-for-one split of the common stock. [SEP] split", "options": ["false", "true"], "output": "false"}
+{"index": "train_1761", "input": "Set these words in italics. [SEP] Set the tray down. [SEP] set", "options": ["false", "true"], "output": "false"}
+{"index": "train_2444", "input": "The sole object of her trip was to see her children. [SEP] The object of the verb. [SEP] object", "options": ["false", "true"], "output": "false"}
+{"index": "train_2757", "input": "The wire has an extension of 50 feet. [SEP] Extension of the program to all in need. [SEP] extension", "options": ["false", "true"], "output": "false"}
+{"index": "train_3689", "input": "IBM received an order for a hundred computers. [SEP] The machine is now in working order. [SEP] order", "options": ["false", "true"], "output": "false"}
+{"index": "train_1796", "input": "Take steps. [SEP] Take the gun from your pocket. [SEP] take", "options": ["false", "true"], "output": "false"}
+{"index": "train_606", "input": "I understand how to do it. [SEP] I understand what she means. [SEP] understand", "options": ["false", "true"], "output": "true"}
+{"index": "train_5095", "input": "Being in office already gives a candidate a great advantage. [SEP] The whole office was late the morning of the blizzard. [SEP] office", "options": ["false", "true"], "output": "false"}
+{"index": "dev_149", "input": "The intention of this legislation is to boost the economy. [SEP] Good intentions are not enough. [SEP] intention", "options": ["false", "true"], "output": "true"}
+{"index": "train_4194", "input": "Thugs beat him up when he walked down the street late at night. [SEP] Agassi beat Becker in the tennis championship. [SEP] beat", "options": ["false", "true"], "output": "false"}
+{"index": "train_1966", "input": "I define myself as a techno-anarchist. [SEP] Define 'sadness'. [SEP] define", "options": ["false", "true"], "output": "false"}
+{"index": "train_684", "input": "Our sense of sight enables us to locate objects in space. [SEP] Can you locate your cousins in the Midwest? [SEP] locate", "options": ["false", "true"], "output": "false"}
+{"index": "train_1113", "input": "Clear a debt. [SEP] The sky cleared. [SEP] clear", "options": ["false", "true"], "output": "false"}
+{"index": "train_2786", "input": "The assembly line was on a 12-hour run. [SEP] I'm having a run of bad luck. [SEP] run", "options": ["false", "true"], "output": "true"}
+{"index": "train_4317", "input": "He stuck his head out the window. [SEP] Be careful when you pet that dog on the head; it may bite. [SEP] head", "options": ["false", "true"], "output": "true"}
+{"index": "train_769", "input": "It may rain in which case the picnic will be canceled. [SEP] Latin has six cases, and remnants of a seventh. [SEP] case", "options": ["false", "true"], "output": "false"}
+{"index": "train_698", "input": "The rookie made a brief appearance in the first period. [SEP] David Beckham's first appearance with the LA Galaxy at Giants Stadium against the New York Red Bulls last night drew a crowd of 66237. [SEP] appearance", "options": ["false", "true"], "output": "true"}
+{"index": "dev_201", "input": "Shake the salt out of the salt shaker. [SEP] His hands shook. [SEP] shake", "options": ["false", "true"], "output": "false"}
+{"index": "train_3250", "input": "The offensive linemen tried to block the blitz. [SEP] He blocked the basketball player's shot. [SEP] block", "options": ["false", "true"], "output": "true"}
+{"index": "train_2836", "input": "Leave the flowers that you see in the park behind. [SEP] Leave it as is. [SEP] leave", "options": ["false", "true"], "output": "true"}
+{"index": "train_695", "input": "These pipes carry waste water into the river. [SEP] Amanda carried the package. [SEP] carry", "options": ["false", "true"], "output": "true"}
+{"index": "train_5080", "input": "It brought out his better side. [SEP] Look on the bright side. [SEP] side", "options": ["false", "true"], "output": "true"}
+{"index": "train_1239", "input": "We had a wonderful time at the party. [SEP] He is not living at home because he is doing time. [SEP] time", "options": ["false", "true"], "output": "false"}
+{"index": "train_1642", "input": "The term allowed to a debtor to discharge his debt. [SEP] He was sentenced to a term of six years in prison. [SEP] term", "options": ["false", "true"], "output": "true"}
+{"index": "dev_170", "input": "Block the signals emitted by this station. [SEP] The thick curtain blocked the action on the stage. [SEP] block", "options": ["false", "true"], "output": "false"}
+{"index": "train_1049", "input": "Call a runner out. [SEP] Call a football game. [SEP] call", "options": ["false", "true"], "output": "false"}
+{"index": "train_1524", "input": "He got a refill for his notebook. [SEP] He got a refill for his ball-point pen. [SEP] refill", "options": ["false", "true"], "output": "true"}
+{"index": "train_3747", "input": "Gr\u0101mata maks\u0101 piecas kronas -- the book costs five krona. [SEP] Piecas kronas -- five krona. [SEP] krona", "options": ["false", "true"], "output": "true"}
+{"index": "train_5395", "input": "Dip the brush into the paint. [SEP] I had to dip into my savings to buy him this present. [SEP] dip", "options": ["false", "true"], "output": "false"}
+{"index": "train_4085", "input": "What makes her do this way? [SEP] A 'B' grade doesn't suffice to get me into medical school. [SEP] do", "options": ["false", "true"], "output": "false"}
+{"index": "train_4881", "input": "I have to translate when my in-laws from Austria visit the U.S. [SEP] Braque translated collage into oil. [SEP] translate", "options": ["false", "true"], "output": "false"}
+{"index": "train_4532", "input": "Every artist needs an audience. [SEP] The broadcast reached an audience of millions. [SEP] audience", "options": ["false", "true"], "output": "true"}
+{"index": "train_3435", "input": "Introduce a rule. [SEP] Introduce exotic fruits. [SEP] introduce", "options": ["false", "true"], "output": "true"}
+{"index": "train_2402", "input": "I keep a small stock of painkillers for emergencies. [SEP] There's little to earn and many to keep. [SEP] keep", "options": ["false", "true"], "output": "false"}
+{"index": "train_1458", "input": "She asked the hairdresser to wave her hair. [SEP] She waved her gun. [SEP] wave", "options": ["false", "true"], "output": "false"}
+{"index": "train_749", "input": "During his first year in office. [SEP] He rented an office in the new building. [SEP] office", "options": ["false", "true"], "output": "false"}
+{"index": "train_1476", "input": "Raise my salary. [SEP] Raise a sad cry. [SEP] raise", "options": ["false", "true"], "output": "false"}
+{"index": "train_1556", "input": "A prison term. [SEP] The term allowed to a debtor to discharge his debt. [SEP] term", "options": ["false", "true"], "output": "true"}
+{"index": "train_2021", "input": "There was an informal meeting in my living room. [SEP] His meeting with the salesmen was the high point of his day. [SEP] meeting", "options": ["false", "true"], "output": "false"}
+{"index": "train_738", "input": "He ran to safety. [SEP] Be sure that the safety is set before proceeding. [SEP] safety", "options": ["false", "true"], "output": "false"}
+{"index": "train_3629", "input": "Restore law and order. [SEP] Restore the stolen painting to its rightful owner. [SEP] restore", "options": ["false", "true"], "output": "false"}
+{"index": "train_4703", "input": "If it wasn't subsidized, the nonprofit would be bankrupt. [SEP] Employees of a nonprofit rarely make as much as greedy counterparts in the commercial world. [SEP] nonprofit", "options": ["false", "true"], "output": "true"}
+{"index": "train_1063", "input": "I move to repel the rule regarding obligatory school uniform. [SEP] He moved his hand slightly to the right. [SEP] move", "options": ["false", "true"], "output": "false"}
+{"index": "train_669", "input": "Her cancer was in remission. [SEP] His cancer is in remission. [SEP] remission", "options": ["false", "true"], "output": "true"}
+{"index": "train_3553", "input": "I apply this rule to get good results. [SEP] This thinking was applied to many projects. [SEP] apply", "options": ["false", "true"], "output": "true"}
+{"index": "train_311", "input": "Tomorrow the doctor will take the cast off her arm. [SEP] The test grader takes off a point for every misspelled word. [SEP] take", "options": ["false", "true"], "output": "true"}
+{"index": "train_4023", "input": "Measures for the control of disease. [SEP] The control condition was inappropriate for the conclusions he wished to draw. [SEP] control", "options": ["false", "true"], "output": "false"}
+{"index": "train_5381", "input": "She lost all her respect and authority after turning up drunk to the meeting. [SEP] Tennessee Valley Authority. [SEP] authority", "options": ["false", "true"], "output": "false"}
+{"index": "train_1629", "input": "We don't garage our car. [SEP] We garaged the convertible during the monsoon months. [SEP] garage", "options": ["false", "true"], "output": "true"}
+{"index": "train_4145", "input": "The rules forbid smoking. [SEP] The rules forbid our smoking. [SEP] forbid", "options": ["false", "true"], "output": "true"}
+{"index": "train_2204", "input": "There's little to earn and many to keep. [SEP] Keep count. [SEP] keep", "options": ["false", "true"], "output": "false"}
+{"index": "train_5011", "input": "It was a bewildering array of books. [SEP] His tools were in an orderly array on the basement wall. [SEP] array", "options": ["false", "true"], "output": "true"}
+{"index": "train_3794", "input": "During the Inquisition, the torturers would stretch their victims on a rack. [SEP] Let's stretch for a minute -- we've been sitting here for over 3 hours. [SEP] stretch", "options": ["false", "true"], "output": "false"}
+{"index": "train_4407", "input": "I want to go home now. [SEP] This piano wants the attention of a competent tuner. [SEP] want", "options": ["false", "true"], "output": "false"}
+{"index": "train_3254", "input": "She has a feel for music. [SEP] He has a feel for animals. [SEP] feel", "options": ["false", "true"], "output": "true"}
+{"index": "train_3634", "input": "A bald spot. [SEP] The leopard is noted for the spots of color in its fur. [SEP] spot", "options": ["false", "true"], "output": "true"}
+{"index": "train_5064", "input": "I asked for a hot drink. [SEP] Likes a drink before dinner. [SEP] drink", "options": ["false", "true"], "output": "true"}
+{"index": "train_2884", "input": "The hollow of the hand or of a tree. [SEP] He built himself a cabin in a hollow high up in the Rockies. [SEP] hollow", "options": ["false", "true"], "output": "false"}
+{"index": "train_4967", "input": "They had to devise a system that did not depend on cooperation. [SEP] The body has a system of organs for digestion. [SEP] system", "options": ["false", "true"], "output": "false"}
+{"index": "train_3371", "input": "They sat by the fire and talked. [SEP] He went through fire and damnation. [SEP] fire", "options": ["false", "true"], "output": "false"}
+{"index": "train_4639", "input": "The new railroad will connect the northern part of the state to the southern part. [SEP] Our computers connected. [SEP] connect", "options": ["false", "true"], "output": "true"}
+{"index": "train_3178", "input": "When was the last time we went out? I don't remember. [SEP] Okay, but this is the last time. No more after that! [SEP] time", "options": ["false", "true"], "output": "true"}
+{"index": "train_3294", "input": "Has a large repertory of dialects and characters. [SEP] The repertory of the supposed feats of mesmerism. [SEP] repertory", "options": ["false", "true"], "output": "true"}
+{"index": "train_1480", "input": "The depth of the water. [SEP] From the depths of darkest Africa. [SEP] depth", "options": ["false", "true"], "output": "false"}
+{"index": "train_1668", "input": "I know that the President lied to the people. [SEP] It is vital that he not know. [SEP] know", "options": ["false", "true"], "output": "true"}
+{"index": "train_4549", "input": "We hit Detroit by noon. [SEP] Jones hit for the pitcher. [SEP] hit", "options": ["false", "true"], "output": "true"}
+{"index": "train_5082", "input": "He comes from a place near Chicago. [SEP] He lost his place on the page. [SEP] place", "options": ["false", "true"], "output": "false"}
+{"index": "train_4199", "input": "This violinist is as good as Juilliard-trained violinists go. [SEP] Get going! [SEP] go", "options": ["false", "true"], "output": "false"}
+{"index": "train_1245", "input": "He managed to show a bold face despite his embarrassment. [SEP] The face of this company. [SEP] face", "options": ["false", "true"], "output": "true"}
+{"index": "train_3426", "input": "Give an excuse. [SEP] The roof finally gave under the weight of the ice. [SEP] give", "options": ["false", "true"], "output": "false"}
+{"index": "train_2084", "input": "This dough does not work easily. [SEP] Can you work an electric drill? [SEP] work", "options": ["false", "true"], "output": "false"}
+{"index": "train_655", "input": "Life has lost its point. [SEP] What is the point of discussing it? [SEP] point", "options": ["false", "true"], "output": "false"}
+{"index": "train_1091", "input": "Can you take me to the main entrance? [SEP] Take a scene. [SEP] take", "options": ["false", "true"], "output": "false"}
+{"index": "dev_607", "input": "He gave a speech as part of his installation into the hall of fame. [SEP] The telephone installation took only a few minutes. [SEP] installation", "options": ["false", "true"], "output": "false"}
+{"index": "train_5098", "input": "To hold true. [SEP] Hold that position behind the trees! [SEP] hold", "options": ["false", "true"], "output": "false"}
+{"index": "train_1282", "input": "Fortunately she had the good sense to run away. [SEP] It's common sense not to put metal objects in a microwave oven. [SEP] sense", "options": ["false", "true"], "output": "true"}
+{"index": "train_2688", "input": "We laughed at her because the label was still on her new sweater. [SEP] The label says this silk scarf should not be washed in the washing machine. [SEP] label", "options": ["false", "true"], "output": "true"}
+{"index": "train_3140", "input": "The ship made its run in record time. [SEP] The bus on the Cherry Street run is always crowded. [SEP] run", "options": ["false", "true"], "output": "true"}
+{"index": "train_4125", "input": "When you hear his sermons, you will be able to believe, too. [SEP] After that night in the church, I believed. [SEP] believe", "options": ["false", "true"], "output": "true"}
+{"index": "train_1461", "input": "It just won't make much difference to me. [SEP] There were irreconcilable differences. [SEP] difference", "options": ["false", "true"], "output": "false"}
+{"index": "train_150", "input": "An air of mystery. [SEP] The program was on the air from 9 til midnight. [SEP] air", "options": ["false", "true"], "output": "false"}
+{"index": "dev_239", "input": "Bean curd. [SEP] Lemon curd. [SEP] curd", "options": ["false", "true"], "output": "true"}
+{"index": "dev_208", "input": "The superintendence and agency of Providence in the natural world. -- Woodward. [SEP] The Central Intelligence Agency. [SEP] agency", "options": ["false", "true"], "output": "false"}
+{"index": "train_3335", "input": "He wanted to live his own life without interference from others. [SEP] The life of this milk carton may be thousands of years in this landfill. [SEP] life", "options": ["false", "true"], "output": "false"}
+{"index": "train_1481", "input": "The team is a unit. [SEP] A unit of wheat is a bushel. [SEP] unit", "options": ["false", "true"], "output": "false"}
+{"index": "train_5196", "input": "He could not touch the meaning of the poem. [SEP] They stood next to each other, their shoulders touching. [SEP] touch", "options": ["false", "true"], "output": "false"}
+{"index": "train_481", "input": "The government tried to accelerate the commercialization of this development. [SEP] My father considered the commercialization of Christmas to be a sacrilege. [SEP] commercialization", "options": ["false", "true"], "output": "true"}
+{"index": "train_1071", "input": "He had drunk more than he could carry. [SEP] The troops carried the town after a brief fight. [SEP] carry", "options": ["false", "true"], "output": "false"}
+{"index": "train_4728", "input": "I resent having to carry her all the time. [SEP] The painting of Mary carries motherly love. [SEP] carry", "options": ["false", "true"], "output": "false"}
+{"index": "train_3544", "input": "The emission of heat from a fire. [SEP] The emission of light from the sun. [SEP] emission", "options": ["false", "true"], "output": "true"}
+{"index": "train_916", "input": "He could not touch the meaning of the poem. [SEP] She never touched her husband. [SEP] touch", "options": ["false", "true"], "output": "false"}
+{"index": "train_2321", "input": "Wage stabilization is necessary for industrial peace. [SEP] Stabilization means that the product can be handled under atmospheric conditions. [SEP] stabilization", "options": ["false", "true"], "output": "true"}
+{"index": "train_2735", "input": "If you don't give me a reason to go with you, I won't. [SEP] The reason that war was declared. [SEP] reason", "options": ["false", "true"], "output": "true"}
+{"index": "dev_195", "input": "The linebackers were ready to stop a rush. [SEP] Come back after the rush. [SEP] rush", "options": ["false", "true"], "output": "false"}
+{"index": "train_1437", "input": "Fall prey to an imposter. [SEP] Her hair fell across her forehead. [SEP] fall", "options": ["false", "true"], "output": "false"}
+{"index": "train_4160", "input": "Her friends organized a baby shower for her when she was expecting. [SEP] He took a shower after the game. [SEP] shower", "options": ["false", "true"], "output": "false"}
+{"index": "train_2195", "input": "Teenagers follow their friends in everything. [SEP] Follow these simple rules. [SEP] follow", "options": ["false", "true"], "output": "false"}
+{"index": "train_1460", "input": "We raise hogs here. [SEP] Raise the question of promotions. [SEP] raise", "options": ["false", "true"], "output": "false"}
+{"index": "train_1903", "input": "Pay attention. [SEP] He paid me 5000 pounds for the car. [SEP] pay", "options": ["false", "true"], "output": "false"}
+{"index": "train_1723", "input": "The Germans were desperately trying to contain the Anzio beachhead. [SEP] The town became a beachhead in the campaign to ban smoking outdoors. [SEP] beachhead", "options": ["false", "true"], "output": "false"}
+{"index": "train_4551", "input": "He passed all the exams with ease. [SEP] They put it into containers for ease of transportation. [SEP] ease", "options": ["false", "true"], "output": "true"}
+{"index": "train_4716", "input": "He got a tip on the stock market. [SEP] They clambered to the tip of Monadnock. [SEP] tip", "options": ["false", "true"], "output": "false"}
+{"index": "train_1494", "input": "One of the planet's moons has a slower spin than the others. [SEP] He took the new car for a spin. [SEP] spin", "options": ["false", "true"], "output": "false"}
+{"index": "train_2816", "input": "You have to shift when you go down a steep hill. [SEP] Shift one's position. [SEP] shift", "options": ["false", "true"], "output": "false"}
+{"index": "train_2621", "input": "Mouths which speak such foulness must be cleansed. [SEP] He understood the foulness of sin. [SEP] foulness", "options": ["false", "true"], "output": "true"}
+{"index": "train_4164", "input": "They are up to date. [SEP] We haven't heard from them to date. [SEP] date", "options": ["false", "true"], "output": "true"}
+{"index": "train_3243", "input": "The time of year for planting. [SEP] He waited a long time. [SEP] time", "options": ["false", "true"], "output": "true"}
+{"index": "train_4733", "input": "She made the boy brush his teeth every night. [SEP] The baby was a boy. [SEP] boy", "options": ["false", "true"], "output": "true"}
+{"index": "train_461", "input": "\"The quality of mercy is not strained\" -- Shakespeare. [SEP] Security, stability, and efficiency are good qualities of an operating system. [SEP] quality", "options": ["false", "true"], "output": "true"}
+{"index": "train_512", "input": "The art of conversation. [SEP] How great thou art! [SEP] art", "options": ["false", "true"], "output": "true"}
+{"index": "train_4116", "input": "He left school before the end of term. [SEP] A prison term. [SEP] term", "options": ["false", "true"], "output": "true"}
+{"index": "train_3952", "input": "A friend in New Mexico said that the order caused no trouble out there. [SEP] Law and order. [SEP] order", "options": ["false", "true"], "output": "false"}
+{"index": "train_1406", "input": "A chain of ideas, one leading to the next. [SEP] The third link of the silver chain needs to be resoldered. [SEP] chain", "options": ["false", "true"], "output": "true"}
+{"index": "train_1125", "input": "It took more than half my time. [SEP] Take time to smell the roses. [SEP] time", "options": ["false", "true"], "output": "true"}
+{"index": "train_2708", "input": "How should I take this message? [SEP] He was often taken to be a man of means. [SEP] take", "options": ["false", "true"], "output": "true"}
+{"index": "train_357", "input": "He swore as the ball rimmed the cup and rolled away. [SEP] He drank a cup of coffee. [SEP] cup", "options": ["false", "true"], "output": "false"}
+{"index": "train_4635", "input": "Play the stock market. [SEP] Play with her feelings. [SEP] play", "options": ["false", "true"], "output": "true"}
+{"index": "train_3091", "input": "Analyze a chemical compound. [SEP] Analyze a specimen. [SEP] analyze", "options": ["false", "true"], "output": "true"}
+{"index": "train_566", "input": "He tried to blame the victim but his success on that score was doubtful. [SEP] What was your score on your homework? [SEP] score", "options": ["false", "true"], "output": "false"}
+{"index": "train_5368", "input": "I don't care what he does. [SEP] We cared about the opera. [SEP] care", "options": ["false", "true"], "output": "true"}
+{"index": "train_2090", "input": "You must carry your camping gear. [SEP] Amanda carried the package. [SEP] carry", "options": ["false", "true"], "output": "true"}
+{"index": "train_332", "input": "Pull the string gently. [SEP] Pull the rope. [SEP] pull", "options": ["false", "true"], "output": "true"}
+{"index": "train_4702", "input": "Work equals force times distance. [SEP] He arrived at work early today. [SEP] work", "options": ["false", "true"], "output": "false"}
+{"index": "train_2582", "input": "I will carry the secret to my grave. [SEP] The painting of Mary carries motherly love. [SEP] carry", "options": ["false", "true"], "output": "false"}
+{"index": "train_4528", "input": "What do you get when you add up these numbers? [SEP] Get nauseous. [SEP] get", "options": ["false", "true"], "output": "false"}
+{"index": "train_3139", "input": "He shivered from the cold. [SEP] The cold helped clear his head. [SEP] cold", "options": ["false", "true"], "output": "true"}
+{"index": "train_1153", "input": "Tickets are $5 per head. [SEP] We will consider performance issues under the head of future improvements. [SEP] head", "options": ["false", "true"], "output": "false"}
+{"index": "train_2431", "input": "The temperature could hit 110 F tomorrow. [SEP] The movie hits theaters in December. [SEP] hit", "options": ["false", "true"], "output": "true"}
+{"index": "dev_387", "input": "A right identity, x * I = x for any x in the structure. [SEP] You can lose your identity when you join the army. [SEP] identity", "options": ["false", "true"], "output": "false"}
+{"index": "train_654", "input": "Bob Dylan occupied the top slot for several weeks. [SEP] He put a quarter in the slot. [SEP] slot", "options": ["false", "true"], "output": "false"}
+{"index": "dev_173", "input": "Harass the enemy. [SEP] This man harasses his female co-workers. [SEP] harass", "options": ["false", "true"], "output": "false"}
+{"index": "train_996", "input": "Let's get down to work now. [SEP] Get working as soon as the sun rises! [SEP] get", "options": ["false", "true"], "output": "true"}
+{"index": "train_2430", "input": "These shoes come in three colors. [SEP] The sleeves come to your knuckles. [SEP] come", "options": ["false", "true"], "output": "false"}
+{"index": "train_241", "input": "To admit evidence in the trial of a cause. [SEP] We can not admit non-members into our club building. [SEP] admit", "options": ["false", "true"], "output": "true"}
+{"index": "train_4281", "input": "We were hit by really bad weather. [SEP] The temperature could hit 110 F tomorrow. [SEP] hit", "options": ["false", "true"], "output": "false"}
+{"index": "train_4050", "input": "He came to a bad end. [SEP] The end of town. [SEP] end", "options": ["false", "true"], "output": "false"}
+{"index": "train_3932", "input": "His parting shot was 'drop dead'. [SEP] I caught him with a solid shot to the chin. [SEP] shot", "options": ["false", "true"], "output": "false"}
+{"index": "train_601", "input": "The judge leniently granted a sentence with no hard time. [SEP] He is not living at home because he is doing time. [SEP] time", "options": ["false", "true"], "output": "true"}
+{"index": "train_1965", "input": "The material lost 2 inches per yard in shrinkage. [SEP] Shrinkage is the retail trade's euphemism for shoplifting. [SEP] shrinkage", "options": ["false", "true"], "output": "false"}
+{"index": "train_4501", "input": "This nest egg will ensure a nice retirement for us. [SEP] Our exertions ensured a good outcome. [SEP] ensure", "options": ["false", "true"], "output": "true"}
+{"index": "dev_557", "input": "His claim to the property has come under question. [SEP] He obeyed without question. [SEP] question", "options": ["false", "true"], "output": "true"}
+{"index": "train_2972", "input": "Use the plastic bags to store the food. [SEP] He doesn't know how to use a computer. [SEP] use", "options": ["false", "true"], "output": "true"}
+{"index": "train_1046", "input": "Liza had always had a tendency to wildness. [SEP] The element of wildness in his behavior was a protest against repressive convention. [SEP] wildness", "options": ["false", "true"], "output": "true"}
+{"index": "train_612", "input": "Will the stock market crash again? [SEP] The car crashed through the glass door. [SEP] crash", "options": ["false", "true"], "output": "false"}
+{"index": "train_5070", "input": "Women carrying home shopping didn't give me a second glance. [SEP] I carried three heavy bags of shopping up the stairs. [SEP] shopping", "options": ["false", "true"], "output": "true"}
+{"index": "train_4916", "input": "A set of teeth. [SEP] A set of books. [SEP] set", "options": ["false", "true"], "output": "true"}
+{"index": "train_3403", "input": "The patient must drink several liters each day. [SEP] He drank out of the goblet. [SEP] drink", "options": ["false", "true"], "output": "true"}
+{"index": "dev_238", "input": "Her dog likes to tree squirrels. [SEP] This lot should be treed so that the house will be shaded in summer. [SEP] tree", "options": ["false", "true"], "output": "false"}
+{"index": "train_5295", "input": "I give you credit for owning up to your mistake. [SEP] Give her credit for trying. [SEP] credit", "options": ["false", "true"], "output": "true"}
+{"index": "train_2925", "input": "The clone was a copy of its ancestor. [SEP] Please bring me the copies of those reports. [SEP] copy", "options": ["false", "true"], "output": "true"}
+{"index": "train_3021", "input": "A body of law. [SEP] A body of precedents. [SEP] body", "options": ["false", "true"], "output": "true"}
+{"index": "train_1083", "input": "The local Mafia won't touch gambling. [SEP] Are you all right? You've hardly touched your lunch. [SEP] touch", "options": ["false", "true"], "output": "false"}
+{"index": "train_1838", "input": "The insurance will replace the lost income. [SEP] We need to replace the secretary that left a month ago. [SEP] replace", "options": ["false", "true"], "output": "true"}
+{"index": "train_4708", "input": "Give one's talents to a good cause. [SEP] Can you give me lessons? [SEP] give", "options": ["false", "true"], "output": "false"}
+{"index": "dev_527", "input": "Sugar your tea. [SEP] John heavily sugars his coffee. [SEP] sugar", "options": ["false", "true"], "output": "true"}
+{"index": "train_1536", "input": "Give one's talents to a good cause. [SEP] What gives? [SEP] give", "options": ["false", "true"], "output": "false"}
+{"index": "train_3723", "input": "Hold these truths to be self-evident. [SEP] I'll hold you by your promise. [SEP] hold", "options": ["false", "true"], "output": "false"}
+{"index": "train_793", "input": "The soldiers were put on fatigue to teach them a lesson. [SEP] They were assigned to kitchen fatigues. [SEP] fatigue", "options": ["false", "true"], "output": "true"}
+{"index": "train_2647", "input": "I could hear the breath of the runner behind me. [SEP] The child's breath came quickly and unevenly. [SEP] breath", "options": ["false", "true"], "output": "true"}
+{"index": "train_5048", "input": "Can you follow her argument? [SEP] She followed the men with the binoculars. [SEP] follow", "options": ["false", "true"], "output": "false"}
+{"index": "train_2154", "input": "He built a modest dwelling near the pond. [SEP] I was doing dwelling in the cave. [SEP] dwelling", "options": ["false", "true"], "output": "true"}
+{"index": "train_3816", "input": "It was his rule to take a walk before breakfast. [SEP] He knew the rules of chess. [SEP] rule", "options": ["false", "true"], "output": "false"}
+{"index": "train_1593", "input": "Used her parents' influence to get the job. [SEP] She was the most important influence in my life. [SEP] influence", "options": ["false", "true"], "output": "false"}
+{"index": "train_2268", "input": "Those clouds show little sign of raining soon. [SEP] They welcomed the signs of spring. [SEP] sign", "options": ["false", "true"], "output": "true"}
+{"index": "train_3349", "input": "The Holocaust was insanity on an enormous scale. [SEP] The scale of the model. [SEP] scale", "options": ["false", "true"], "output": "true"}
+{"index": "train_149", "input": "The green party took 12% of the vote. [SEP] In 1992 Perot tried to organize a third party at the national level. [SEP] party", "options": ["false", "true"], "output": "true"}
+{"index": "train_57", "input": "The cycle of the seasons, or of the year. [SEP] The never-ending cycle of the seasons. [SEP] cycle", "options": ["false", "true"], "output": "true"}
+{"index": "train_58", "input": "The round of the seasons. [SEP] The story is going the rounds in Washington. [SEP] round", "options": ["false", "true"], "output": "false"}
+{"index": "train_2920", "input": "There was a saving of 50 cents. [SEP] The shift of the supplier gave us a saving of 10 percent. [SEP] saving", "options": ["false", "true"], "output": "true"}
+{"index": "train_3806", "input": "He was a successful pianist in his day. [SEP] In the days of the Roman Empire. [SEP] day", "options": ["false", "true"], "output": "true"}
+{"index": "train_4992", "input": "Do you take me for a fool? [SEP] You can't take credit for this! [SEP] take", "options": ["false", "true"], "output": "true"}
+{"index": "train_1953", "input": "Strike 'z' on the keyboard. [SEP] The horse finally struck a pace. [SEP] strike", "options": ["false", "true"], "output": "false"}
+{"index": "train_1238", "input": "The broadcast reached an audience of millions. [SEP] He requested an audience with the king. [SEP] audience", "options": ["false", "true"], "output": "false"}
+{"index": "train_268", "input": "Take the gun from your pocket. [SEP] Mother took our plates away and came back with some fruit for us to eat. [SEP] take", "options": ["false", "true"], "output": "true"}
+{"index": "train_20", "input": "He can hold his liquor. [SEP] The auditorium can't hold more than 500 people. [SEP] hold", "options": ["false", "true"], "output": "false"}
+{"index": "dev_52", "input": "He trained at putting the shot. [SEP] The shot flew twenty metres, and nearly landed on the judge's foot. [SEP] shot", "options": ["false", "true"], "output": "true"}
+{"index": "dev_502", "input": "The infection spread. [SEP] Optimism spread among the population. [SEP] spread", "options": ["false", "true"], "output": "true"}
+{"index": "train_3735", "input": "Use your common sense. [SEP] I can't use this tool. [SEP] use", "options": ["false", "true"], "output": "false"}
+{"index": "train_2589", "input": "A critical time in the school's history. [SEP] History repeats itself if we don't learn from its mistakes. [SEP] history", "options": ["false", "true"], "output": "true"}
+{"index": "train_2339", "input": "She could not help watching the sad spectacle. [SEP] This money will help the development of literacy in developing countries. [SEP] help", "options": ["false", "true"], "output": "false"}
+{"index": "train_2264", "input": "When the weather is warm, the snowman will disappear; he will melt. [SEP] Melt butter. [SEP] melt", "options": ["false", "true"], "output": "true"}
+{"index": "train_2777", "input": "I used to take The Sunday Times. [SEP] You can't take credit for this! [SEP] take", "options": ["false", "true"], "output": "false"}
+{"index": "train_3379", "input": "Run a risk. [SEP] Run a temperature. [SEP] run", "options": ["false", "true"], "output": "true"}
+{"index": "dev_183", "input": "Guests should never be late to a dinner party. [SEP] On Sundays they had a large dinner when they returned from church. [SEP] dinner", "options": ["false", "true"], "output": "false"}
+{"index": "train_1794", "input": "The sequence of reciprocals has zero as its limit. [SEP] To the limit of his ability. [SEP] limit", "options": ["false", "true"], "output": "false"}
+{"index": "train_4650", "input": "She doesn't know this composer. [SEP] We know this movie. [SEP] know", "options": ["false", "true"], "output": "true"}
+{"index": "train_4999", "input": "They had a fierce wrestle. [SEP] We watched his grappling and wrestling with the bully. [SEP] wrestle", "options": ["false", "true"], "output": "true"}
+{"index": "train_1482", "input": "Cut a Ping-Pong ball. [SEP] Cut paper dolls. [SEP] cut", "options": ["false", "true"], "output": "false"}
+{"index": "train_3271", "input": "The face of the city is changing. [SEP] He managed to show a bold face despite his embarrassment. [SEP] face", "options": ["false", "true"], "output": "true"}
+{"index": "train_3817", "input": "This product of last month's quality standards committee is quite good, even though the process was flawed. [SEP] Events now in process. [SEP] process", "options": ["false", "true"], "output": "true"}
+{"index": "train_4701", "input": "A drop of each sample was analyzed. [SEP] There was a drop in pressure in the pulmonary artery. [SEP] drop", "options": ["false", "true"], "output": "false"}
+{"index": "train_5012", "input": "A shared line. [SEP] Please speak up, the line is very faint. [SEP] line", "options": ["false", "true"], "output": "true"}
+{"index": "train_3697", "input": "She doesn't test well. [SEP] She tested high on the LSAT and was admitted to all the good law schools. [SEP] test", "options": ["false", "true"], "output": "false"}
+{"index": "train_5316", "input": "He had a number of chores to do. [SEP] It was one of the best numbers he ever did. [SEP] number", "options": ["false", "true"], "output": "false"}
+{"index": "train_476", "input": "He threw a flare to the fullback who was tackled for a loss. [SEP] Infection can cause a lupus flare. [SEP] flare", "options": ["false", "true"], "output": "false"}
+{"index": "train_2489", "input": "He's not in my line of business. [SEP] Historians can only point out those lines for which evidence is available. [SEP] line", "options": ["false", "true"], "output": "false"}
+{"index": "train_4255", "input": "It's common sense not to put metal objects in a microwave oven. [SEP] He hasn't got the sense God gave little green apples. [SEP] sense", "options": ["false", "true"], "output": "true"}
+{"index": "train_1849", "input": "The familiar conflict between Republicans and Democrats. [SEP] His conflict of interest made him ineligible for the post. [SEP] conflict", "options": ["false", "true"], "output": "false"}
+{"index": "train_509", "input": "The voting process doesn't work as well as people thought. [SEP] This method doesn't work. [SEP] work", "options": ["false", "true"], "output": "true"}
+{"index": "train_1487", "input": "These pages don't belong. [SEP] The uniform looks like it belonged to a museum collection. [SEP] belong", "options": ["false", "true"], "output": "true"}
+{"index": "train_4331", "input": "A sense of danger. [SEP] A sense of security. [SEP] sense", "options": ["false", "true"], "output": "true"}
+{"index": "train_3186", "input": "The thrust of the jet engines. [SEP] He made a thrusting motion with his fist. [SEP] thrust", "options": ["false", "true"], "output": "false"}
+{"index": "train_3365", "input": "A notice of sale. [SEP] An obituary notice. [SEP] notice", "options": ["false", "true"], "output": "true"}
+{"index": "train_4112", "input": "I'll execute your orders as soon as this meeting is adjourned. [SEP] Execute the decision of the people. [SEP] execute", "options": ["false", "true"], "output": "true"}
+{"index": "train_2462", "input": "Suddenly her gigantic power melted into softness for the baby. [SEP] He attributes the disappointing results to softness in the economy. [SEP] softness", "options": ["false", "true"], "output": "false"}
+{"index": "train_1428", "input": "Control the budget. [SEP] Control an account. [SEP] control", "options": ["false", "true"], "output": "false"}
+{"index": "train_5211", "input": "This play will either make or break the playwright. [SEP] The figurine broke. [SEP] break", "options": ["false", "true"], "output": "false"}
+{"index": "train_3825", "input": "This is the one I ordered. [SEP] He is the best one. [SEP] one", "options": ["false", "true"], "output": "true"}
+{"index": "train_3071", "input": "How it got out is a mystery. [SEP] The truth behind the events remains a mystery. [SEP] mystery", "options": ["false", "true"], "output": "true"}
+{"index": "train_230", "input": "He is on the purchasing side of the business. [SEP] Look on the bright side. [SEP] side", "options": ["false", "true"], "output": "true"}
+{"index": "train_3112", "input": "The photo is a little dark in that area. [SEP] The area of a rectangle. [SEP] area", "options": ["false", "true"], "output": "true"}
+{"index": "train_2571", "input": "Put down 5 and carry 2. [SEP] I am carrying his child. [SEP] carry", "options": ["false", "true"], "output": "false"}
+{"index": "train_1483", "input": "Spray paint on the wall. [SEP] Spray water on someone. [SEP] spray", "options": ["false", "true"], "output": "true"}
+{"index": "train_2822", "input": "Flatten a road. [SEP] Mary would flatten the dough before rolling it into pretzels. [SEP] flatten", "options": ["false", "true"], "output": "true"}
+{"index": "train_3586", "input": "She may not make the grade. [SEP] Make a stir. [SEP] make", "options": ["false", "true"], "output": "false"}
+{"index": "train_4321", "input": "To die to pleasure or to sin. [SEP] She died from cancer. [SEP] die", "options": ["false", "true"], "output": "true"}

@@ -1,0 +1,11 @@
+{
+    "ai2_arc_challenge": "multi-choice",
+    "ai2_arc_easy": "multi-choice",
+    "hellaswag": "multi-choice",
+    "openbookqa": "multi-choice",
+    "piqa": "classification",
+    "superglue-boolq": "classification",
+    "superglue-rte": "classification",
+    "superglue-wic": "classification",
+    "superglue-wsc": "classification"
+}

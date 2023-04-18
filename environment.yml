@@ -1,0 +1,14 @@
+name: icl-influences
+channels:
+  - conda-forge
+dependencies:
+  - python=3.9
+  - pip:
+    - scikit-learn==1.2.0
+    - transformers==4.28
+    - torch==1.13.1
+    - datasets==2.8.0
+    - accelerate==0.15.0
+    - bitsandbytes==0.37.1
+    - evaluate==0.4.0
+    - sentencepiece==0.1.96

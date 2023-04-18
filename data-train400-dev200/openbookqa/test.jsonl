@@ -1,0 +1,500 @@
+{"index": "train_4441", "input": "Why might a polar bear grow white hair?", "options": ["blend in", "stand out", "random", "look fancy"], "output": 0}
+{"index": "train_2388", "input": "Where deer and rabbits generally reside tends to be", "options": ["dark caverns", "leaf colored", "under water", "lava filled"], "output": 1}
+{"index": "train_357", "input": "To positively impact the environment", "options": ["toss plastic bottles in trash receptacles", "use plastic knives and forks for every meal", "scrap metal from old buildings is processed to be used for new construction", "buy a less fuel efficient car"], "output": 2}
+{"index": "train_1060", "input": "What is a way to be born besides live birth?", "options": ["coming through a tough shell", "digging out of the sand", "cooking up an egg", "living in a nest"], "output": 0}
+{"index": "train_2990", "input": "In America, we know that January is a Winter month. But in other parts of the world, its another season. due to", "options": ["store", "coma", "differing hemisphere", "different world"], "output": 2}
+{"index": "dev_397", "input": "A running car engine could", "options": ["leave the hood hot to the touch", "cause the trunk to pop open", "leave the hood cold to the touch", "cause the car doors to spring open"], "output": 0}
+{"index": "train_1857", "input": "A rainy day leaves a lot of moisture in the air and rainbows occur", "options": ["when light is burned", "when light proceeds through", "when light is black", "when light is dim"], "output": 1}
+{"index": "train_3899", "input": "A heavy glacier moving across a continent affects what's underneath it by", "options": ["compaction", "salt tectonics", "arctic foxes", "exfoliation"], "output": 0}
+{"index": "train_4391", "input": "Plants use the water for their", "options": ["heart ache", "emotions", "buddies", "fare"], "output": 3}
+{"index": "train_1940", "input": "Plants preparing for dormancy is a sign", "options": ["the earth is tilting", "readiness an total alertness", "extreme fatigue and tiredness", "of a beautiful sunset"], "output": 0}
+{"index": "train_763", "input": "Standing in a canyon and yelling your name", "options": ["will cause the canyon to shake", "will cause your name to reverberate thru the canyon", "will cause complete silence", "will cause animals to run up to you"], "output": 1}
+{"index": "train_1606", "input": "An example of an instinctive behavior could be", "options": ["wind", "fire", "revenge", "air"], "output": 2}
+{"index": "train_1774", "input": "Plateaus are typically", "options": ["Where dogs live", "frequented by lightening", "Have more rivers", "Where cats live"], "output": 1}
+{"index": "train_3131", "input": "a complete lunar cycle takes about", "options": ["a month", "a year", "a week", "a day"], "output": 0}
+{"index": "train_14", "input": "In the desert, a hawk may enjoy an occasional", "options": ["coyote", "reptile", "bat", "scorpion"], "output": 1}
+{"index": "train_650", "input": "What is an example of predators eating prey?", "options": ["a boa constrictor devouring a monkey", "a horse trampling a mouse", "a cat eating a piece of grass", "a whale eating tons of algae"], "output": 0}
+{"index": "dev_479", "input": "When the Earth's Northern axis is tilted away from the Sun the amount of daylight is", "options": ["brighter", "lengthened", "shortened", "turned back"], "output": 2}
+{"index": "train_4312", "input": "An example of a change in the Earth is when a volcano, resembling a tall mountain, violently explodes and", "options": ["turns a deep crater into igneous rock and ice", "gushes upward, revealing mounds of snow", "drops downward, becoming a huge lake of lava", "fills a deep crater with very hot water"], "output": 2}
+{"index": "train_3524", "input": "When is hotter?", "options": ["desert", "night", "morning", "noon"], "output": 3}
+{"index": "train_489", "input": "Deer are less safe in the woods because wolves", "options": ["have fur", "howl", "have claws", "have tails"], "output": 2}
+{"index": "train_1637", "input": "A cat is laying outdoors in the sunlight. Suddenly, a large, dark cloud blocks the sun and the temperature drops several degrees. The cat's physical reaction to this abrupt change will most likely be", "options": ["finding someone to dye them pink", "involuntary body tremors and shudders", "creating a new telephone system", "hopping a plane to warmer climates"], "output": 1}
+{"index": "train_3113", "input": "If a deer eats a berry plant, the plant eats", "options": ["a berry juice slurry", "large slices of meat", "its self created nutriment", "small bugs that glow"], "output": 2}
+{"index": "train_4881", "input": "What does the earth orbit that causes the seasons to change?", "options": ["venus", "pluto", "neptune", "plasma star"], "output": 3}
+{"index": "dev_291", "input": "Plants grow because they", "options": ["decide the time is right", "can breathe a lot of air", "use what people breathe out to survive", "take photos of other plants"], "output": 2}
+{"index": "train_2117", "input": "Which of the following areas would most likely contain a sandbar?", "options": ["the bottom of a pond", "where water continuously moves sand and small rocks downstream", "a school play area", "a car manufacturing plant"], "output": 1}
+{"index": "train_4686", "input": "There are 4 seasons a year, meaning a new one", "options": ["starts every day", "starts every quarter", "is fake", "is seven"], "output": 1}
+{"index": "train_2068", "input": "Long decayed plant life would most likely fuel our", "options": ["nuclear power plants", "dogs", "motorcycles", "bodies"], "output": 2}
+{"index": "train_2366", "input": "Frogs withstand noisy areas easily when they eat insects because they have", "options": ["croaking sounds", "problems jumping", "zero eardrums", "slimy skin"], "output": 2}
+{"index": "train_983", "input": "One full rotation on Earth's axis takes", "options": ["12 hours", "1 month", "2 days", "1440 minutes"], "output": 3}
+{"index": "train_1662", "input": "the nervous system sends observations in the form of electrical signals to what?", "options": ["cell towers", "persons flesh", "computers", "plugs"], "output": 1}
+{"index": "train_4252", "input": "What can you make with the stove?", "options": ["ice cream sundaes", "whipped cream", "egg noodles", "ice cream sandwiches"], "output": 2}
+{"index": "train_3992", "input": "if a person commits arson, which of these might be found as the source in the remains?", "options": ["a new cold water bottle", "a new portable stove", "a new hot coffee", "a blue plastic comb"], "output": 1}
+{"index": "train_775", "input": "Humans grow thinner when they", "options": ["lack food", "eat too much.", "overeat", "eat food"], "output": 0}
+{"index": "train_1285", "input": "At a campsite one night we all gather round a fire to roast marshmallows; this is an example of", "options": ["dinner", "fusion", "maillard reaction", "competition"], "output": 2}
+{"index": "train_1684", "input": "A species' habitat is those places where it can find food, shelter, protection and", "options": ["predators to escape", "rivers to cross", "mountains to climb", "mates for reproduction"], "output": 3}
+{"index": "train_3684", "input": "Which would likely displace a family of chipmunks?", "options": ["wind", "thunder", "rain", "mall construction"], "output": 3}
+{"index": "train_638", "input": "Winter in the Northern Hemisphere means", "options": ["the Northern Hemisphere is experiencing scorching hot weather", "the Northern Hemisphere is experiencing daily torrential rain", "the Southern Hemisphere is experiencing warm sunny days", "the Southern Hemisphere is experiencing frigid temperatures"], "output": 2}
+{"index": "train_4472", "input": "Above your head, the daylight sky is gloomy and dark, despite the hour of day. The wisest thing to bring with you on this summer afternoon is", "options": ["a bikini", "a picnic lunch", "garden shears", "an umbrella"], "output": 3}
+{"index": "train_1199", "input": "What is larger then the human planet and causes cycles of day and night?", "options": ["the moon", "sun", "ocean and", "mars"], "output": 1}
+{"index": "train_2973", "input": "High can be visually represented by", "options": ["valleys", "mountains", "basins", "deep sea"], "output": 1}
+{"index": "train_4664", "input": "Which would freeze last?", "options": ["a thimble of water", "a pond of water", "a glass of water", "an ocean of water"], "output": 3}
+{"index": "train_2833", "input": "Hummingbirds contribute to seed dispersal by", "options": ["consuming flower sustenance", "eating pizza", "swimming in bleach", "going to space"], "output": 0}
+{"index": "train_3231", "input": "To witness physical change you would need to observe the life cycle of a", "options": ["chicken", "monkey", "alligator", "newt"], "output": 3}
+{"index": "train_1679", "input": "Dogs are known to chew their food once or twice, but like all organisms they can", "options": ["sense the flavor", "hate it", "choke", "sell it"], "output": 0}
+{"index": "train_4438", "input": "Laser anemometers help manufacturers of cars, airplanes and spacecraft to produce efficient vehicle designs that", "options": ["increase the gas mileage of the vehicles", "increase the drag from air moving past them", "decrease exhaust fumes from the vehicles", "reduce resistance from air moving past them"], "output": 3}
+{"index": "train_4222", "input": "Magma is sourced in volcanoes and", "options": ["is high enough kelvin to melt steel", "on the desert plains", "is beneath the aliens", "can freeze water at all times"], "output": 0}
+{"index": "train_4734", "input": "Why are electric cars better for the atmosphere than traditional cars?", "options": ["they have Bluetooth", "more breathable air", "they go faster", "they are bigger"], "output": 1}
+{"index": "train_1010", "input": "When the digestive system is working", "options": ["it is bad to eat", "it is dismantling nutrients", "food is cleared out", "it is time for dinner"], "output": 1}
+{"index": "train_3790", "input": "If one electrical conductor touches another one what will flow through them both?", "options": ["zapping power", "tea", "water", "milk"], "output": 0}
+{"index": "train_2716", "input": "Where could you most likely jump to the top of a mountain?", "options": ["near the equator", "on the moon", "near the sea", "in a laboratory"], "output": 1}
+{"index": "train_1710", "input": "Spring for north of the equator and Autumn for below the equator are attributed to", "options": ["earth's rotors", "earth's slant", "earth's games", "earth's tone"], "output": 1}
+{"index": "train_2771", "input": "A reflective surface fogging up is", "options": ["reflection", "refraction", "evaporation", "condensation"], "output": 3}
+{"index": "train_3843", "input": "Another term for wind energy is clean energy because the wind and air contains", "options": ["Seven", "under energy", "zero pollutants", "moon"], "output": 2}
+{"index": "train_2739", "input": "The cracks in a sidewalk could be caused by", "options": ["black holes", "Pine", "time travel", "emotions"], "output": 1}
+{"index": "train_2460", "input": "Which of the following would require more effort to move?", "options": ["Venus", "the Sun", "a dog", "100lb weight"], "output": 1}
+{"index": "train_490", "input": "An example of a simple machine requiring mechanical energy in order to function would be", "options": ["a light that needs a crank to be turned", "a radio that needs four batteries", "a computer that needs to be plugged in", "a stove that works on gas"], "output": 0}
+{"index": "train_2361", "input": "What could you use to thaw something quickly?", "options": ["water vapor", "a refrigerator", "a freezer", "ice"], "output": 0}
+{"index": "train_1659", "input": "A moth can adjust its", "options": ["age", "ancestry", "shape", "genus"], "output": 2}
+{"index": "train_61", "input": "Which animal lacks the ability to see by sensing light?", "options": ["Southern cave crayfish", "lobster", "cod", "salmon"], "output": 0}
+{"index": "train_206", "input": "A pile of iron will", "options": ["tug devices for locating directions", "give false locations to planes", "be a huge distraction", "cause ships to crash"], "output": 0}
+{"index": "train_697", "input": "which of these would most likely cause a car to lose control?", "options": ["a nice dry asphalt highway", "a highway after cloud precipitation", "a dry cobble stone road", "all of these"], "output": 1}
+{"index": "train_1520", "input": "Invisible forces work to keep the moon near the", "options": ["sun", "uranus", "mars", "our home planet"], "output": 3}
+{"index": "train_1051", "input": "What separates animals that thrive and those that go extinct are", "options": ["the type of animal", "lacking ability to conform", "ability to stay in one place", "the ability to adapt"], "output": 3}
+{"index": "train_4571", "input": "What would you likely notice the taste of?", "options": ["ice", "tropical twist", "water", "air"], "output": 1}
+{"index": "train_536", "input": "Ripping a paper in half", "options": ["alters the shape of the paper", "leaves the paper unchanged", "enlarges the piece of paper", "makes the paper into its gas form"], "output": 0}
+{"index": "train_2508", "input": "If a thing is a resource which is considered renewable, it can be used", "options": ["once", "endlessly", "only three times", "only twice"], "output": 1}
+{"index": "train_3601", "input": "Which child's plaything is inflated with gas when it's in use?", "options": ["Nintendo", "Miracle Bubble", "Bicycle", "Sidewalk chalk"], "output": 1}
+{"index": "train_2760", "input": "Which of the following relies on vibrating matter to work?", "options": ["soda cans", "dog food", "baseball caps", "violas"], "output": 3}
+{"index": "train_1533", "input": "As a flower becomes more aromatic it will bring in a growing crowd of", "options": ["lazy tourists", "leaf miners", "pollinators", "caterpillars"], "output": 2}
+{"index": "train_805", "input": "A herd of deer may be forced to search for a new home if", "options": ["resources in an area become too few to maintain the herd", "water in an area becomes slightly briny", "more babies are born in the spring", "moose move into an area that deer are in"], "output": 0}
+{"index": "train_2593", "input": "Ice wedging might create", "options": ["buildings", "Beds", "cars", "mountainsides"], "output": 3}
+{"index": "train_4129", "input": "Which is a source of kinetic energy?", "options": ["Endurance", "Motion", "Velocity", "Speed"], "output": 1}
+{"index": "dev_277", "input": "What is an example of the appearance of stars seeming to move in relation to the horizon at night?", "options": ["constellations may appear higher or lower in the sky depending on the hour", "constellations may appear to be upside down some nights", "depending on weather, constellations may be clearly visible at night", "some stars are unable to be seen on certain nights"], "output": 0}
+{"index": "train_2737", "input": "If an entity in intergalactic space has thrust placed upon it, what is the expected result?", "options": ["it will start moving with acceleration", "it will make a loud noise", "spontaneously teleport a light year away", "remain in the same location"], "output": 0}
+{"index": "train_460", "input": "Burning natural gas can", "options": ["keep you cozy on a frigid night", "conserve valuable planetary resources", "aid in cooling down the planet", "keep a car running in the cold"], "output": 0}
+{"index": "train_4498", "input": "Which is likely to rot?", "options": ["flying birds", "a formerly-living organism", "compressed oxygen", "a shiny rock"], "output": 1}
+{"index": "train_2747", "input": "If pollution is caused by many things, it is least likely to be caused by", "options": ["using styrofoam", "pedaling forward", "driving cars", "smoking cigarettes"], "output": 1}
+{"index": "train_1832", "input": "A bird in an arid place can find water, despite a lack of puddles, lakes or rainfall if it", "options": ["pokes a tough plant", "eats a small stone", "takes out a loan", "cries for a minute"], "output": 0}
+{"index": "train_4948", "input": "Food is a source of energy for what?", "options": ["anteaters", "sand", "water", "plastic"], "output": 0}
+{"index": "train_4429", "input": "A decrease in trees may be attributed to", "options": ["dendrophilia", "hiking enthusiasts", "increased chainsaw sales", "nature photographers"], "output": 2}
+{"index": "train_810", "input": "Competition is fierce among lions", "options": ["when new prey species arrive in the community", "when population of lions decreases", "when there are a plethora of prey choices", "when the antelopes are scare"], "output": 3}
+{"index": "train_945", "input": "when light hits a reflective object , that light", "options": ["never reaches it", "illuminates the backside", "goes above it", "redirected from it"], "output": 3}
+{"index": "train_3132", "input": "If crops are rotated then the crops planted would look like", "options": ["tomato, tomato, tomato, tomato", "beans, corn, peas, cucumbers", "beans, beans, beans, beans", "corn, corn, corn, corn,"], "output": 1}
+{"index": "train_358", "input": "A skill some humans have is", "options": ["ten fingers", "vision", "heart beating", "talking"], "output": 3}
+{"index": "train_2062", "input": "A deer, shark, human and rose share which common activity?", "options": ["eating cheese", "marrying", "defecating", "building ships"], "output": 2}
+{"index": "train_4797", "input": "Something that may effect a child negatively could be", "options": ["unicorns", "magic", "time travel", "punching"], "output": 3}
+{"index": "train_4345", "input": "When the sun rises, there is light and it is daytime. When is it night time?", "options": ["when its blue and Pink", "when its down and lightless", "when its seven and eight.", "when its dead and gone"], "output": 1}
+{"index": "train_1534", "input": "What do hawks eat?", "options": ["lizard droppings", "bearded dragons", "cows", "grass"], "output": 1}
+{"index": "train_2059", "input": "A successful combination of things is", "options": ["tomatoes and peppers", "nylon and carpet", "milk and honey", "sand and socks"], "output": 2}
+{"index": "train_3114", "input": "Where do some Metallica band members live?", "options": ["trees", "space", "underwater", "houses"], "output": 3}
+{"index": "train_1405", "input": "A man is at the beach and is napping in the sun. He falls into a deep sleep and forgets to wake up. After hours of this, he", "options": ["may flood beaches", "may make whiskey", "may cease existence", "may file lawsuit"], "output": 2}
+{"index": "train_642", "input": "Microscopes", "options": ["make tiny atoms look smaller", "enhance the size of amoebas for easier viewing", "make magnifying things much more difficult", "make huge samples look minuscule"], "output": 1}
+{"index": "train_1410", "input": "A small creek becomes a rushing river after years of heavy rains in a particular location. In addition to the larger water source, there are also greater", "options": ["rock fights", "sheep herds", "bunny rolls", "speaking deer"], "output": 1}
+{"index": "train_1243", "input": "A vehicle stops when brakes are pressed because", "options": ["the tires are being halted by pressure", "the streets are bumpy", "the roads have friction", "the tires are unable to create friction"], "output": 0}
+{"index": "train_1403", "input": "A person in space will find a lack of something to drink if they land on", "options": ["Mars", "the earth", "the moon", "third planet"], "output": 2}
+{"index": "train_439", "input": "Our eyes can help us with", "options": ["a radio recording", "shove from behind", "a label", "a loud noise"], "output": 2}
+{"index": "train_2026", "input": "Amphibians such as frogs start their lives in eggs in", "options": ["the pond out front", "in a camp fire", "in the turn of the air", "dark under belly of grass"], "output": 0}
+{"index": "train_3077", "input": "if a child gets certain traits from the parent, what delivers these to them?", "options": ["the epidermis of the skin", "the platelets of the blood", "the plasma in the blood", "the body's nucleic acid"], "output": 3}
+{"index": "train_102", "input": "If a room is going to be humid, or dry, depends on how much water vapor is in the air, so if a room wants to be humid", "options": ["run a bath", "use a dehumidifier", "open a window", "hope it rains"], "output": 0}
+{"index": "train_3026", "input": "A bee can enjoy a lovely snack on", "options": ["iris dust", "fresh whale", "hard leather", "old shoes"], "output": 0}
+{"index": "train_4332", "input": "Living things all require energy for what?", "options": ["dying", "observing", "staying perky", "decaying"], "output": 2}
+{"index": "train_470", "input": "The skeletal system", "options": ["is made up of tissue and organs", "is made up of the lungs and heart", "is made up of white blood cells", "is made up of calcified material"], "output": 3}
+{"index": "train_4325", "input": "moist means high in what?", "options": ["rock", "solids", "watery", "heat"], "output": 2}
+{"index": "train_4803", "input": "What loosens soil?", "options": ["gopher homes", "wind", "heat", "bird nests"], "output": 0}
+{"index": "train_1058", "input": "A television may turn on at the push of a button because", "options": ["the circuit has shorted out", "the television is pretty short", "the path of electricity is completed", "the button was plastic"], "output": 2}
+{"index": "train_4540", "input": "This is likely magnetic:", "options": ["the innards of a cow", "the innards of an iPhone", "the innards of a head", "the innards of a tree"], "output": 1}
+{"index": "dev_121", "input": "Some vapor is condensing now because it has less", "options": ["gas", "heat", "water", "steam"], "output": 1}
+{"index": "train_1554", "input": "Tectonic expression can give massive amounts of data to a", "options": ["seismograph", "lie detector", "geiger counter", "glass of water"], "output": 0}
+{"index": "train_427", "input": "Melissa is creating a new product to quench people's thirst. She thinks it will be more popular if it is less flat. She decides to", "options": ["add more salt to the drink", "add some dissolved carbon dioxide", "shake up the drink bottles before shipping them to the stores", "boil the drink in a large vat"], "output": 1}
+{"index": "train_512", "input": "A destroyed habitat can lead to", "options": ["raccoons losing their homes", "birds migrating to the north", "a boom in animal reproduction", "hibernation of local bears"], "output": 0}
+{"index": "train_2262", "input": "Which of the following requires water to live?", "options": ["birds", "dirt", "soil", "rocks"], "output": 0}
+{"index": "train_418", "input": "Mountains exist on a planet next to", "options": ["Saturn", "Mars", "Neptune", "Uranus"], "output": 1}
+{"index": "train_2406", "input": "The motion of a ball's motion when touching a concrete sidewalk will be countered due to", "options": ["abrasion", "lipids", "dairy", "thinking"], "output": 0}
+{"index": "train_4568", "input": "Which would an ecologically minded individual most support?", "options": ["windmills", "oil", "fracking", "gas"], "output": 0}
+{"index": "train_1657", "input": "A lake is unsafe for swimming because it is a bit below some farmlands that use", "options": ["pesticides", "water", "soil", "solar energy"], "output": 0}
+{"index": "train_2153", "input": "A person loves spring, and it has just passed by. They will enjoy it again the next time", "options": ["the stars go out", "most irises begins budding", "a week goes by", "the days grow shorter"], "output": 1}
+{"index": "train_684", "input": "A big cat looks for prey", "options": ["at 3pm", "at 11pm", "at 9am", "at noon"], "output": 1}
+{"index": "train_4132", "input": "A source of heat could be", "options": ["a cold soda", "an ice cube", "a mini flashlight", "snow"], "output": 2}
+{"index": "train_2048", "input": "A highly polished surface will", "options": ["absorb light energy", "redirect light energy", "attract shadows", "shatter"], "output": 1}
+{"index": "train_526", "input": "The amount of water in the ocean compared to fifty years ago is", "options": ["fluctuating", "larger", "smaller", "the same"], "output": 1}
+{"index": "train_2403", "input": "Which would be the best conditions to drive in?", "options": ["heavy snowfall + cold weather", "blizzard conditions + hurricanes", "blizzard conditions + lightning", "blizzard conditions + earthquakes"], "output": 0}
+{"index": "train_1172", "input": "A sunburn is most likely to happen after hiking in a", "options": ["desert", "forest", "wetland", "jungle"], "output": 0}
+{"index": "train_1366", "input": "Tearing an object changes its what?", "options": ["temperature", "configuration", "moistness", "elements"], "output": 1}
+{"index": "train_4294", "input": "Which can happen during an experiment that might be dangerous?", "options": ["lemon juice splashing", "students speaking", "backpacks opening", "ice melting"], "output": 0}
+{"index": "train_4106", "input": "Wind can", "options": ["feel emotions like love", "turn a statue to dust", "raise a family of four", "have a baby child"], "output": 1}
+{"index": "train_2341", "input": "Within a power station meant to process coal, electricity is", "options": ["broken", "reaped", "destroyed", "devasted"], "output": 1}
+{"index": "train_4319", "input": "To discover how tough a certain mineral may be, one would", "options": ["measure the weight of it", "smash it to see the inside", "attempt to leave a mark on it", "see if it is able to be crushed"], "output": 2}
+{"index": "train_45", "input": "The only stage of the water cycle process that is nonexistent is", "options": ["evaporation", "evaluation", "precipitation", "condensation"], "output": 1}
+{"index": "train_2194", "input": "Which vehicle would make less pollution?", "options": ["semi truck", "Tesla Model S", "Ford Explorer", "Toyota Tundra"], "output": 1}
+{"index": "train_3620", "input": "humans changing animal habitats usually causes harm to", "options": ["the residential things", "sneakers", "rocks", "clouds"], "output": 0}
+{"index": "train_893", "input": "What has a positive impact on body strength?", "options": ["frequent physical contact", "irregular body motion", "decreased physical effort", "active physical effort"], "output": 3}
+{"index": "dev_453", "input": "A refraction of light that splits into all different colors often occurs after", "options": ["clouds", "rain", "heat", "earthquakes"], "output": 1}
+{"index": "train_1337", "input": "A person wants to show that they have lost money with their business, and they want to show someone. They decide to use a graph that shows", "options": ["more money", "circled things", "pictures of cats", "ups and downs"], "output": 3}
+{"index": "train_1749", "input": "A bunch of seals are about to deliver and need to make sure they have returned to home for", "options": ["positive feedback", "silly nonsense", "magical purposes", "reproductive behavior"], "output": 3}
+{"index": "train_142", "input": "Precipitation sometimes leads to", "options": ["mountains", "earthquakes", "volcanoes", "caves"], "output": 3}
+{"index": "train_2977", "input": "Boulders are most likely to be reduced into fragments due to heat in a", "options": ["cereal bowl", "ocean", "desert", "tundra"], "output": 2}
+{"index": "train_484", "input": "Cardinals", "options": ["have live births", "eat only meat", "incubate their food", "incubate their young"], "output": 3}
+{"index": "dev_119", "input": "Human planet that is orbited by what?", "options": ["stars", "moon", "the ocean", "sun"], "output": 1}
+{"index": "train_2013", "input": "What is used to catch prey by some birds?", "options": ["a bill", "fire", "nets", "cups"], "output": 0}
+{"index": "train_856", "input": "How many seasons occur in the span of three years", "options": ["ten", "twelve", "eight", "four"], "output": 1}
+{"index": "train_328", "input": "Moving your face further from a mirror", "options": ["will make your face appear bigger", "will make your face appear in macro", "will make your wrinkles less obvious", "will make it easier to see your pores"], "output": 2}
+{"index": "train_3727", "input": "if you increase the mass of a celestial body, it will", "options": ["lose rotation", "lose gravitational force", "gain gravitational force", "maintain it's gravity"], "output": 2}
+{"index": "train_1699", "input": "A person wants to conserve toothpaste so they will", "options": ["use it generously", "use it indiscriminately", "throw it out", "use it stingily"], "output": 3}
+{"index": "train_1996", "input": "The lunar face appears to change 52 times", "options": ["a millennium", "a month", "a day", "annually"], "output": 3}
+{"index": "train_449", "input": "what could it be indicative of, if an animal's fur has grown thicker?", "options": ["it could be up to something bad", "the hemisphere could be facing away from the sun", "it could be summer", "it could be dying"], "output": 1}
+{"index": "train_615", "input": "What do predators live near in the same environment?", "options": ["Their future Prey", "Their water source", "Their offspring", "Their dens"], "output": 0}
+{"index": "train_4218", "input": "Which is more likely the result of a big earthquake", "options": ["a mountain", "a big house", "a modern airplane.", "a fancy car"], "output": 0}
+{"index": "train_4888", "input": "This organ will help in providing nutrients to your body", "options": ["lungs", "esophagus", "kidney", "bladder"], "output": 1}
+{"index": "train_2950", "input": "A series of horrible earthquakes can effect deer populations by forcing", "options": ["relocation", "planting seeds", "breeding", "studying"], "output": 0}
+{"index": "train_1579", "input": "What is an example of navigation?", "options": ["reading novels", "directing rudder", "cooking", "sleeping"], "output": 1}
+{"index": "train_2543", "input": "If someone is dying of liquid needs, they can hydrate the body by", "options": ["high temp snow", "catching falling ash", "visiting a valley", "pray"], "output": 0}
+{"index": "train_1641", "input": "A dead deer was found partially eaten in a forest. How could it have been caught?", "options": ["It was caught by appendages on the feet of a feline", "A raccoon jumped on the deer's back and killed and ate it", "It was caught by a horse's mouth", "It was shot by a bear"], "output": 0}
+{"index": "train_3671", "input": "If you are having trouble seeing the TV, what can you do to see it more clearly?", "options": ["closing your eyes", "moving closer", "eating", "dying"], "output": 1}
+{"index": "train_39", "input": "When the moon is full is has a different", "options": ["size", "weight", "distance", "appearance"], "output": 3}
+{"index": "train_640", "input": "If I am feeling faint after a lot of activity I can", "options": ["Use the bathroom", "Exercise More", "Eat an Apple", "Throw a Party"], "output": 2}
+{"index": "train_2298", "input": "Which of the following would slow the flow of electricity?", "options": ["a metal fork", "a pencil eraser", "a paper clip", "aluminum foil"], "output": 1}
+{"index": "train_4434", "input": "This seed carries food:", "options": ["rock", "strawberry", "thunder", "water"], "output": 1}
+{"index": "train_4552", "input": "if two objects have the same charge then those two materials will effect each other how?", "options": ["pull together", "attract", "unattract", "bug repellent"], "output": 2}
+{"index": "train_3522", "input": "A pulley is used to lift a flag on a flagpole by", "options": ["putting something in the air", "yanking string up a wheel", "moving a rope sideways", "moving things with wheels"], "output": 1}
+{"index": "train_1517", "input": "What kind of substance will get less warm when it touches a cold object?", "options": ["a dream", "ideas", "cold", "fresh baked poptart"], "output": 3}
+{"index": "train_24", "input": "A child will only grow if they are provided with", "options": ["a bed", "education", "inspiration", "energy"], "output": 3}
+{"index": "train_4515", "input": "Which likely has a negative impact?", "options": ["water on the glaicial environment", "life on the glaicial environment", "cold on the glaicial environment", "heat on the glaicial environment"], "output": 3}
+{"index": "train_4685", "input": "If you were to miss winter how many seasons would you have to wait till you saw it again", "options": ["4", "36", "12", "1"], "output": 0}
+{"index": "train_1315", "input": "A quick way to adjust the formation of portions of the crust of the earth is for it to", "options": ["experience trembling", "make believe", "fall down", "fly away"], "output": 0}
+{"index": "train_3186", "input": "Where might you find some animals being held outside of nature?", "options": ["under the deep sea", "up into the sky", "deep into the earth", "artificial habitats in captivity"], "output": 3}
+{"index": "train_129", "input": "Chimpanzees dig for insects with sticks; what is another example of using tools?", "options": ["birds using twigs to build nests", "otters using rocks to open clams", "anteaters using their tongue to catch ants", "koalas using their pouch to hold infants"], "output": 1}
+{"index": "train_2965", "input": "Dirt is moved from one part of a forest to another, and travels across a field to get there. The movement is", "options": ["caused by gusts", "due to clouds", "made by trees", "because of litter"], "output": 0}
+{"index": "train_4554", "input": "Shivering is when an animal creates heat by shaking to keep the body what?", "options": ["frozen", "freezing", "cold", "agreeable temperature"], "output": 3}
+{"index": "train_2451", "input": "A rock quarry can contain in its rocks", "options": ["sunflowers", "foil material", "candles", "broken toys"], "output": 1}
+{"index": "train_997", "input": "The celestial object closest to Earth is", "options": ["Mercury and Venus are equally closest", "the object the Earth orbits", "the third planet from the Sun", "the large object that illuminates a night sky"], "output": 3}
+{"index": "train_1174", "input": "A boy might have brown hair due to", "options": ["inheritance", "luck", "magic", "fire"], "output": 0}
+{"index": "train_2234", "input": "Sweat is produced", "options": ["when sleeping peacefully at night", "when on a long jog in sweltering weather", "when sitting in a recliner in an air conditioned house", "when sitting on the front porch on a breezy day"], "output": 1}
+{"index": "train_1768", "input": "There is more carbon dioxide in", "options": ["a forest", "a garden", "a park", "a crowded airplane"], "output": 3}
+{"index": "dev_155", "input": "What is the largest organ of the human body?", "options": ["kidneys", "the heart", "epidermis", "liver"], "output": 2}
+{"index": "train_3943", "input": "Frozen steak which has been in the sun all day will", "options": ["defrost", "freeze", "give birth", "become sentient"], "output": 0}
+{"index": "train_3376", "input": "A bear is fortunate enough to", "options": ["see a rainbow", "learn history", "time travel", "have magic"], "output": 0}
+{"index": "train_3442", "input": "What kind of energy causes evaporation?", "options": ["hotness", "sound", "cold", "kinetic"], "output": 0}
+{"index": "train_4937", "input": "deserts are known for having what type of climates?", "options": ["moderate", "comfortable", "freezing", "scorching"], "output": 3}
+{"index": "train_1402", "input": "Shortly after the moon is in ecliptical longitude with the Sun, one will see", "options": ["a waning crescent", "a waxing crescent", "a waning gibbous", "a waxing gibbous"], "output": 1}
+{"index": "train_3893", "input": "A gull will build a nest because", "options": ["it saw other gulls doing the same", "of something in its genes", "it wants to tidy up the area", "it's mother taught it to do that"], "output": 1}
+{"index": "train_1083", "input": "which of these is an accurate scenario?", "options": ["the sun traveling around the earth", "none of these", "the sun orbiting Mars", "the earth traveling around the sun"], "output": 3}
+{"index": "train_1557", "input": "Rain helps", "options": ["candy", "communities thrive", "cooking", "bread"], "output": 1}
+{"index": "train_1941", "input": "A soda can may become hot if it is close to an object used for", "options": ["mixing soda", "cooking food", "cooling food", "pouring soda"], "output": 1}
+{"index": "train_3890", "input": "Tectonic plates are like a large", "options": ["pizza", "jenga", "marshmallow", "candy cane"], "output": 1}
+{"index": "train_2576", "input": "Which is more accurate:", "options": ["sharks use gills to swim underwater for longer than humans can", "humans use gills to extract carbon from the water", "sharks use gills to extract carbon from the water", "sharks are unable to find oxygen while underwater"], "output": 0}
+{"index": "train_2622", "input": "If a person is selling beads every day and then zero people choose to buy more beads, the seller will", "options": ["make more money", "have stalled income", "increase profits", "have more income"], "output": 1}
+{"index": "train_2454", "input": "A guy wants to be able to remember the evening. He can be sure that he has a visual and audio backup of the night by", "options": ["bringing his camera", "bringing his son", "bringing a drink", "bringing a chair"], "output": 0}
+{"index": "train_1841", "input": "What lives in some zoo exhibits?", "options": ["animal statues", "felines", "extinct species", "people"], "output": 1}
+{"index": "train_3419", "input": "Seed dispersal is when the seeds of a plant are moved to a new environment from where?", "options": ["plant charts", "sky", "space", "parent flora"], "output": 3}
+{"index": "train_3581", "input": "An example of conservation is", "options": ["jogging", "reducing ethanol use", "hiking", "raking leaves"], "output": 1}
+{"index": "train_930", "input": "The mass of ground sliding down an embankment can be propagated by what?", "options": ["a storm", "forest fires", "global warming", "trees growing"], "output": 0}
+{"index": "train_231", "input": "Some minerals originated from a material that was", "options": ["hard", "clear", "light", "far away"], "output": 3}
+{"index": "train_1266", "input": "A person in the woods who accidentally runs into a wild wolf will have little to fear because", "options": ["wolves love people", "wolves carry people", "wolves evade people", "wolves smoke people"], "output": 2}
+{"index": "train_3500", "input": "If a blind person needs to know which cat has long hair and which has short hair, they can", "options": ["look at it", "hear it", "grab it", "smell it"], "output": 2}
+{"index": "train_3468", "input": "You shiver when your body temperature drops, which happens when it is", "options": ["Pants", "Chilly", "Hot", "Funny"], "output": 1}
+{"index": "train_1314", "input": "The production of lightbulbs effects the", "options": ["brain", "blood cells", "air", "ocean"], "output": 3}
+{"index": "train_4253", "input": "A man will most likely be unable to see if he gets lost in", "options": ["a dense forest", "a long river", "a desert", "a mountain"], "output": 0}
+{"index": "train_3168", "input": "if a toy car needed to be measured for its content capacity, which of these might help?", "options": ["an aluminum coated barometer", "a metal wind vane", "a mercury filled thermometer", "a cylinder with standardized markings"], "output": 3}
+{"index": "train_3013", "input": "Northern countries have extensive erosion due to", "options": ["glacial liquification", "cola mining", "more frequent tornadoes", "meteors"], "output": 0}
+{"index": "train_151", "input": "In a strong tempest, a large boulder may be", "options": ["broken", "smoothed", "sharpened", "stained"], "output": 1}
+{"index": "dev_324", "input": "A canyon is created by a strong force such as", "options": ["water dripping", "thunder rusting", "lightening striking", "rapids crashing"], "output": 3}
+{"index": "train_119", "input": "Having reliable plant sources in a field, a rabbit may react by", "options": ["having larger litters", "finding a mate", "eating more food", "finding new food"], "output": 0}
+{"index": "train_1976", "input": "A tree is dead", "options": ["when a raccoon scurries up it's trunk", "when a beaver uses it to a stop up a flowing river", "when a possum hides in its branches", "when an owl lives in it"], "output": 1}
+{"index": "train_3283", "input": "If food is being digested then it is in the body", "options": ["under foot", "in the ear", "in the leg", "above the knees"], "output": 3}
+{"index": "train_2019", "input": "A light is turned on and the circuit is closed so", "options": ["the house is old", "the connections get warm", "the light is off", "the light is broken"], "output": 1}
+{"index": "dev_256", "input": "which one of these methods can a potential prey use to escape attack?", "options": ["making sounds like a known larger animal", "presenting itself to its predator", "none of these", "salting itself to be more palatable"], "output": 0}
+{"index": "train_281", "input": "What makes a body stronger?", "options": ["parking far away", "travelling by air", "reading technical books", "having multiple children"], "output": 0}
+{"index": "train_4033", "input": "which one of these is approximately opposite in acquisition to doing chores?", "options": ["instinctive behavior", "cleaning the yard", "mowing the lawn", "washing the dishes"], "output": 0}
+{"index": "train_2418", "input": "Which would alter your position over time?", "options": ["running in place", "walking straight", "jumping up/down", "sleeping"], "output": 1}
+{"index": "dev_218", "input": "A wasp will use it's stinger", "options": ["if the wasp is flying about unimpeded", "if a person grabs the wasp", "if a person ignores the wasp", "if a wasp is hanging out in it's nest"], "output": 1}
+{"index": "train_648", "input": "The further a ship sails away from a light house", "options": ["the less they will be guided by it's beam", "the more they will be guided by it's beam", "the more likely the ship is to sail successfully", "rough ocean waters will decrease"], "output": 0}
+{"index": "train_3240", "input": "What can you point to as an example of water vapor?", "options": ["a mountain that looks like a bear", "the smoke coming from a distant fire", "a group of birds that looks like a wine glass", "a white puff in the sky that is shaped like a bird"], "output": 3}
+{"index": "train_854", "input": "braille is read by using your fingers to", "options": ["hold the book", "hold the flashlight", "turn the page", "feel the words"], "output": 3}
+{"index": "dev_109", "input": "What increases the number of pollinators a flower will attract?", "options": ["The amount of petals", "The amount of of fragrance the flower has", "The height of the stem", "The amount of leaves on the stem"], "output": 1}
+{"index": "train_4027", "input": "Paul's dog has just pooped on the lawn. The dog has", "options": ["had a nutritious meal within the last day", "gotten himself into trouble", "had a lot to drink", "been a good boy"], "output": 0}
+{"index": "train_109", "input": "Oil is a source of a material used for an object with", "options": ["wood planks", "cardboard", "a large stone", "wheels"], "output": 3}
+{"index": "train_3321", "input": "If a large glacier is moving passed a beach, it can deposit this because it is made of ice", "options": ["fluid", "corn", "meat", "trees"], "output": 0}
+{"index": "train_3122", "input": "A horse is outside alone in the middle of summer on a sunny day in a desert. The horse is getting wet. The wetness is coming from", "options": ["orange juice", "sunshine", "rain", "sweat glands"], "output": 3}
+{"index": "train_7", "input": "What doesn't eliminate waste?", "options": ["plants", "mushrooms", "bacteria", "robots"], "output": 3}
+{"index": "train_574", "input": "Decomposition is important for", "options": ["water", "medicine", "sunlight", "food"], "output": 3}
+{"index": "train_84", "input": "Water in a sealed jar might do what when placed in the freezer?", "options": ["evaporate", "break it", "melt", "run off"], "output": 1}
+{"index": "train_3586", "input": "eating food that contains pesticides can have a negative impact on humans and", "options": ["rocks", "golden retrievers", "sticks", "blankets"], "output": 1}
+{"index": "train_3787", "input": "What to humans do that causes animals to lose their habitats?", "options": ["make apartments", "take walks", "sing songs", "eat corn"], "output": 0}
+{"index": "train_4394", "input": "Which does light from the sun arrive at in final time length?", "options": ["Uranus", "Mars", "Pluto", "Earth"], "output": 2}
+{"index": "train_3161", "input": "Which is likely to cause changing weather in a specific location?", "options": ["delogging", "human campers", "rabbit mating", "pet hamsters"], "output": 0}
+{"index": "dev_353", "input": "The cell membrane keeps a cell from", "options": ["replicating", "getting lost", "falling apart", "running away"], "output": 2}
+{"index": "train_373", "input": "When a person gets hurt physically, the person feels pain because there are", "options": ["magic receptors", "electric reactions", "making nervous", "loud nerves"], "output": 1}
+{"index": "train_4719", "input": "Butterflies will often times have coloring that at look like eyes on their wings for", "options": ["to look pretty", "fun", "to see flowers", "protection"], "output": 3}
+{"index": "train_2868", "input": "which one of these items might have been a flower at some point?", "options": ["a quartz stone in a ring", "a bowl of chicken soup", "an apple in the fridge", "a piece of cake"], "output": 2}
+{"index": "train_3299", "input": "What is the most likely cause of split rocks on a mountain slope?", "options": ["pine tree roots", "true enlightenment", "sea urchins", "heavy metal music"], "output": 0}
+{"index": "train_3917", "input": "An example of conservation is avoiding the use of", "options": ["clothes", "gasoline", "snow", "air"], "output": 1}
+{"index": "train_852", "input": "Books can be made out of", "options": ["card stock", "cement", "glass", "copper."], "output": 0}
+{"index": "train_21", "input": "A mouse is being hunted by a Great Horned Owl. The owl watches the mouse carefully, and the mouse is unaware that it is being hunted. The mouse is unable to tell where the owl is, because", "options": ["the owl is invisible", "the mouse is oblivious", "the mouse is blind", "the owl matches its background"], "output": 3}
+{"index": "train_4184", "input": "Using what the surface of the Earth is made of, you could build", "options": ["a tire", "computer", "a castle", "a telephone"], "output": 2}
+{"index": "train_1672", "input": "Kiln fired clay ingots can insulate from", "options": ["ionic discharge", "falling meteors", "snowmen", "underground rivers"], "output": 0}
+{"index": "train_984", "input": "What is pulling your finger over a guitar string an example of?", "options": ["tightening a guitar string", "Stopping a musical sound", "making music with an instrument", "Putting a guitar away"], "output": 2}
+{"index": "train_3966", "input": "A mother births what?", "options": ["light", "elements", "younglings", "nothing"], "output": 2}
+{"index": "train_3279", "input": "One way to recycle paper is by using it to", "options": ["build oceans", "build spaceships", "wipe grime", "build cars"], "output": 2}
+{"index": "dev_88", "input": "What is a good example of camouflage?", "options": ["when a creature adjusts the shape and color of its body to appear as something else", "when a rabbit hides in a patch of grass", "when a cat presses its body flat to the ground to hide", "when a fish swims with a large group of fish to hide itself"], "output": 0}
+{"index": "dev_346", "input": "After spring ends, the next time it will be spring is", "options": ["next month", "next decade", "next week", "next year"], "output": 3}
+{"index": "train_2811", "input": "If a thing changes through a chemical process, it will have different and new chemical properties, such as", "options": ["adding cats to a home", "adding cream to tile", "adding lemon juice to milk", "adding salt to sand"], "output": 2}
+{"index": "train_646", "input": "An animal's brain", "options": ["acts as a conduit for the lungs", "acts as a command base for the body", "lacks the ability to use spacial reasoning", "only assists in movements"], "output": 1}
+{"index": "train_2071", "input": "A person wants to use a raw material to make a toy, so they use", "options": ["bronze", "plastic", "denim", "logs"], "output": 3}
+{"index": "train_1018", "input": "If you scrape an object, small pieces or particles may break off of the object; what's an example of this?", "options": ["rubbing an emery board across your nail", "rubbing a cloth over a counter", "using a towel after you shower", "wiping your chin after drinking some milk"], "output": 0}
+{"index": "train_1601", "input": "A pony is living in a small barn and its owner dies and the pony is unable to fend for itself. The pony dies because", "options": ["it is elderly", "it is bored", "it is vital", "it required nutriment"], "output": 3}
+{"index": "train_4635", "input": "Which would likely occur as a result of logging?", "options": ["an eagle and mouse compete for resources", "an eagle and hawk compete for resources", "an eagle and horse compete for resources", "an eagle and tree compete for resources"], "output": 1}
+{"index": "train_2983", "input": "Animals are unable reproduce if they are dead or cannot find a mate, so it is in their best interest to avoid animals that want to", "options": ["laugh", "sing to them", "murder them", "kiss them"], "output": 2}
+{"index": "train_996", "input": "What do some animals do to adjust to hot temperatures?", "options": ["they run", "they hunt", "they perspire", "they fly"], "output": 2}
+{"index": "train_4404", "input": "An object converts electrical energy into sound on a", "options": ["iphone", "soft carpet", "outside wall", "wooden table"], "output": 0}
+{"index": "train_3350", "input": "Overpopulation may result", "options": ["from the deaths of many organisms", "from a boom in reproduction of an organism", "from natural predators hunting organisms", "from organisms self regulating their population"], "output": 1}
+{"index": "train_1645", "input": "Large eared, small mammal preferred by bald eagles as prey", "options": ["hare", "dog", "hawk", "bear"], "output": 0}
+{"index": "train_2557", "input": "What will increase as the animal eats more food?", "options": ["starvation", "trees", "belly size", "hunger"], "output": 2}
+{"index": "train_116", "input": "Corn can sometimes", "options": ["be grown in arctic environments", "be used as kindling", "fuel a steam locomotive", "fuel an economy car"], "output": 3}
+{"index": "train_4703", "input": "What entity does the earth orbit that causes the seasons to change?", "options": ["mercury", "venus", "pluto", "plasma star"], "output": 3}
+{"index": "train_2332", "input": "Which would be excluded from a list of forms of reproduction?", "options": ["sexual reproduction", "bisexual reproduction", "asexual reproduction", "reproduction"], "output": 1}
+{"index": "train_952", "input": "Some bacteria are beneficial and some bacteria", "options": ["cause droughts", "cause thriving populations", "cause rosacea", "cause upset stomach"], "output": 3}
+{"index": "train_1691", "input": "chloroplasts are rarely found in", "options": ["root hair cells", "Eukaryotic cells", "leaf guard cells", "rose petal cells"], "output": 0}
+{"index": "train_1686", "input": "Glaciers doing what has a negative impact on the glacial environment?", "options": ["liquifying", "growing", "freezing", "cooling"], "output": 0}
+{"index": "dev_432", "input": "Beaches are harmed", "options": ["when beach goers leave behind detritus on the sand", "when turtles lay their eggs", "when children play in the ocean", "when seagulls nest in dunes"], "output": 0}
+{"index": "dev_24", "input": "Winter solstice occurs on a day when", "options": ["the sun is brightest", "the sun is eclipsed", "the moon is full", "the darkness is greatest"], "output": 3}
+{"index": "train_4802", "input": "It is illegal to kill animals in", "options": ["Yosemite", "space", "Bluerock", "eleven"], "output": 0}
+{"index": "train_1817", "input": "An animal will become thicker if it does all aside from", "options": ["gorge", "refuse food", "feed", "eat food"], "output": 1}
+{"index": "train_4450", "input": "What kind of impact does exercise have on a humans health?", "options": ["terrible", "low", "skyrocketing", "bad"], "output": 2}
+{"index": "train_2069", "input": "A lily wants to spread its genetic material around and so relies upon", "options": ["beads", "assistance", "shopping", "patients"], "output": 1}
+{"index": "train_3010", "input": "Nerves all have", "options": ["microscopic parts", "short arms", "viable organs", "liver transplants"], "output": 0}
+{"index": "dev_67", "input": "What's an example of the idea that if one mineral can scratch another mineral then that other mineral is softer than that one mineral?", "options": ["diamonds can be smashed by rocks", "diamond cuts into glass", "steel is harder than stone", "diamonds are harder than diamonds"], "output": 1}
+{"index": "train_4083", "input": "Pollution is a source of what?", "options": ["dirtying agents", "purity", "fertilization", "cleanliness"], "output": 0}
+{"index": "train_354", "input": "if a person gets some fruit wine for a gift, how can they measure its volume?", "options": ["they can use a cylinder with unit markings", "none of these", "they can use a tape measure", "they can use a thermometer"], "output": 0}
+{"index": "train_3919", "input": "The movement of lava might be compared to that of a", "options": ["sloth", "Cheetah", "Sail fish", "Spaceship"], "output": 0}
+{"index": "train_3797", "input": "A contractor could take the granite off your kitchen counter and", "options": ["break it with feathers", "damage it with a couple ice cubes", "destroy it in a volcano", "make it really feel badly about itself"], "output": 2}
+{"index": "train_383", "input": "Birds build nests out of things such as", "options": ["fragments from plants", "small glass shards", "entire tree trunks", "several flower buds"], "output": 0}
+{"index": "train_3417", "input": "If you eat food that lots of microorganisms have been on, you could get", "options": ["float", "Fly", "grow a beak", "get an ailment"], "output": 3}
+{"index": "dev_267", "input": "Which requires respiration to use energy?", "options": ["solar collector", "car", "skunk", "oil well"], "output": 2}
+{"index": "train_2065", "input": "A hard wind blowing at the back of a bike that is being peddled forward will", "options": ["make it stop", "speed it up", "slow it down", "blow it up"], "output": 1}
+{"index": "train_218", "input": "Transpiration involves", "options": ["H2O traveling about a daffodil's system", "pollen traveling about the plant's system", "the production of new oxygen molecules", "the production of new seedlings"], "output": 0}
+{"index": "train_720", "input": "You can see further from which of these locations on the moon?", "options": ["mountains", "crater", "buildings", "surface"], "output": 0}
+{"index": "train_4410", "input": "A series of small holes that lead to various locations are found in soil where these legless things burrow:", "options": ["frogs", "moles", "earthworms", "salamanders"], "output": 2}
+{"index": "train_3174", "input": "Who is most likely to get a job at a lumber yard?", "options": ["deep sea divers", "liberal art majors", "sawyers", "astronauts"], "output": 2}
+{"index": "dev_299", "input": "What happens when someone on top of a bicycle starts pushing it's peddles in a circular motion?", "options": ["the bike wheelies", "the bike turns", "the bike brakes", "the bike accelerates"], "output": 3}
+{"index": "train_289", "input": "A remote device may be powered by", "options": ["a burning flame", "a gusting breeze", "a running sheep", "a small explosion"], "output": 1}
+{"index": "train_985", "input": "Organisms with only one cell", "options": ["are prohibited from specializing", "can freely specialize openly", "are unsure what specializing is", "learn how to specialize"], "output": 0}
+{"index": "train_956", "input": "if a student needed to warm up, which of these would help?", "options": ["all of these", "sitting by the fireplace", "sitting next to a running engine", "turning up the room heater"], "output": 0}
+{"index": "train_1350", "input": "A quiet desert town will see more _____ than a big city will.", "options": ["buildings", "cars", "people", "stars"], "output": 3}
+{"index": "train_889", "input": "Miletinae in the air above will have gone through a transmutation and would have already gone through what pre imago but post egg stage ?", "options": ["egg stage", "old stage", "stage after larva", "moth stage"], "output": 2}
+{"index": "train_4821", "input": "Which of the following actions qualifies as cooking food?", "options": ["setting it in the sun", "shaking it up and down", "putting it in the freezer", "running it under water"], "output": 0}
+{"index": "train_2962", "input": "Deer are most likely to give a wide berth to a", "options": ["personal garden", "field of alfalfa", "cool mountain stream", "decomposing body"], "output": 3}
+{"index": "train_2487", "input": "What will air usually do when heated up beyond a certain point?", "options": ["it will fall", "it will remain", "it will ascend", "it will die"], "output": 2}
+{"index": "train_2162", "input": "A plant needing to photosynthesize will want to be placed nearest to a", "options": ["fridge", "bed", "skylight", "basement"], "output": 2}
+{"index": "train_1771", "input": "what do planets orbit?", "options": ["asteroids", "moons", "burning hydrogen ball", "they are orbitless"], "output": 2}
+{"index": "train_312", "input": "Riding a two wheeled human powered vehicle is good for the environment because", "options": ["it runs without fuel", "it helps people stay in shape", "they are cheaper to maintain", "they are more fun to drive"], "output": 0}
+{"index": "train_274", "input": "while passing Jupiter the", "options": ["better the view", "stronger the gravity", "moon orbits you", "gravitational force weakens"], "output": 1}
+{"index": "train_946", "input": "an example of converting potential energy to kinetic energy is", "options": ["a resting bird", "a still rock", "our own sun", "cars spinning tires"], "output": 3}
+{"index": "train_3404", "input": "As a sled runs off the snow and on to the asphalt it's runners start", "options": ["fly off", "turn sideways", "to heat up", "cooling down"], "output": 2}
+{"index": "train_4944", "input": "There's more time to go for walks when", "options": ["it's winter", "owls are hunting", "it's summer", "there's an evacuation"], "output": 2}
+{"index": "train_2231", "input": "If a person has a respiratory system then they are able to remove from a room", "options": ["time of day", "all warmth", "the paint color", "breathable gas"], "output": 3}
+{"index": "train_910", "input": "When a plant is watered, spraying water on leaves is less useful than", "options": ["spritzing the stem of the plant", "putting the plant in the rain", "using a sprinkler system", "pouring water on soil"], "output": 3}
+{"index": "dev_151", "input": "If a lot of people have forgotten about a product, the amount of money made by the person selling it will be", "options": ["much higher", "unchanged", "rising slowly", "lower than before"], "output": 3}
+{"index": "train_1501", "input": "Twenty four hours contains one", "options": ["high tide", "4 million seconds", "solar cycle", "week"], "output": 2}
+{"index": "train_3202", "input": "If a hog is going to eat dinner it can", "options": ["produce fresh food", "make a reservation", "search for it", "make its own"], "output": 2}
+{"index": "train_1704", "input": "An example of something that contains sugar is", "options": ["air", "cats", "wind", "Peppers"], "output": 3}
+{"index": "train_4215", "input": "Heat causes you to sweat, so at which time of day will you sweat most?", "options": ["high noon", "night time", "early morning", "during a snowstorm"], "output": 0}
+{"index": "train_1207", "input": "When something is condensed", "options": ["it is made into a wetter form", "it is a liquid lake", "it becomes molten liquid", "it is damp inside"], "output": 0}
+{"index": "train_1610", "input": "A person takes a bucket full of water and adds it to a full pool. After adding fifty buckets of water to the pool, it", "options": ["drains", "dries", "bloats", "sinks"], "output": 2}
+{"index": "train_3900", "input": "Cold-blooded animals are unable to live in cold climates, which is why you always see this type of creature in  hot areas", "options": ["remote", "eggshells", "Iguanas", "candy blooded"], "output": 2}
+{"index": "train_2815", "input": "a bird builds a nest in a tree before the forest was lumbered down. Which of these is a result?", "options": ["the bird gets a bigger home", "the bird gains more space", "the bird loses its home", "the bird is happy"], "output": 2}
+{"index": "train_3775", "input": "If a thing is a producer of pollen and seeds, it may be located in", "options": ["a cabinet", "a bag", "a microwave", "a vase"], "output": 3}
+{"index": "train_3094", "input": "What could loosen the soil by creating tunnels?", "options": ["candles", "spaceships", "love", "rabbits"], "output": 3}
+{"index": "train_886", "input": "As water gets warmer", "options": ["it can cause hypothermia", "it will stick to metal surfaces", "it can freeze solids", "it can turn ice into a puddle faster"], "output": 3}
+{"index": "train_1088", "input": "Sedimentary rock is where you'll find most", "options": ["pterodactyl bodies", "flutes", "pebbles", "wings."], "output": 0}
+{"index": "train_384", "input": "A thermal insulator between a stove and a pan would make the pan get hot", "options": ["slower", "immediately", "same speed", "faster"], "output": 0}
+{"index": "train_4079", "input": "What requires warmth for survival?", "options": ["the moon", "an ocean", "a bloodhound", "a computer"], "output": 2}
+{"index": "train_3487", "input": "Which of the following uses electrical energy?", "options": ["curling iron", "iron weight", "iron wrench", "potential energy"], "output": 0}
+{"index": "train_178", "input": "Why would a species camouflage as a dangerous animal?", "options": ["to mate", "to avoid crocodiles", "to catch prey", "to  build nests"], "output": 1}
+{"index": "train_4704", "input": "Plants and trees suck up carbon dioxide, so if trees are cut down, carbon levels will", "options": ["cry", "fly", "escalate", "go down"], "output": 2}
+{"index": "train_260", "input": "many vehicles emitting pollution into the air may occur when", "options": ["horses pull carriage over snow", "child is propelling scooter", "trolley collects current from overhead wire", "EMT transports panting patient"], "output": 3}
+{"index": "train_668", "input": "A calf that dies will eventually", "options": ["disintegrate", "fall", "starve", "wrinkle"], "output": 0}
+{"index": "train_4185", "input": "In which situation would there be the greatest amount of humidity?", "options": ["in the desert", "during snowfall", "before a hurricane", "on a mountain"], "output": 2}
+{"index": "train_4788", "input": "To replenish the shade in a city that had been provided by trees that were felled by a storm:", "options": ["grow gills and live on a raft", "use a large lawn mower", "get out your weed whacker", "introduce replacement timber items"], "output": 3}
+{"index": "train_222", "input": "If a snail is heated to the point of being burned, the snail will", "options": ["be discomforted", "be energized", "be hungry", "be sad"], "output": 0}
+{"index": "train_4820", "input": "Which is a cause of greenhouse gases?", "options": ["elephants", "pears", "boulders", "oaks"], "output": 0}
+{"index": "train_1466", "input": "A rod that is wobbling from being struck with a stick will", "options": ["be sold", "be silent", "be audible", "be frozen"], "output": 2}
+{"index": "train_2240", "input": "A shout is made into the night sky and carries", "options": ["a paper bag", "a baby", "a stick", "on the gales"], "output": 3}
+{"index": "train_4736", "input": "If a person dies from a snake bite, the person was probably bitten by a", "options": ["bull snake", "python", "black mamba", "boa."], "output": 2}
+{"index": "train_2169", "input": "A person can create the most friction by rolling a ball over", "options": ["glass", "gravel", "ice", "marble"], "output": 1}
+{"index": "train_1904", "input": "A sandbar is in the shallow portion of water where", "options": ["water is bloody", "water is harder", "water is falling", "water adjusts things"], "output": 3}
+{"index": "train_4337", "input": "If someone wants you to stop, they want you to", "options": ["be fast", "eat cheese", "be slow", "be still"], "output": 3}
+{"index": "train_54", "input": "Scales", "options": ["measure how much belly fat the user has", "measure height of the user", "help users know if they need to drop some lbs.", "help users determine their blood sugar levels"], "output": 2}
+{"index": "train_1567", "input": "I just read about using cardboard in layers for building, but the surfaces should be waxed to keep out water.  This premise is used by some _____________ to keep water in:", "options": ["balloons", "plastic bottles", "leaves", "books"], "output": 2}
+{"index": "train_3207", "input": "Which of these has resonating wood?", "options": ["a lute", "a bell", "a metal flute", "a saxophone"], "output": 0}
+{"index": "train_3136", "input": "A bear in the arctic can go a long time without eating", "options": ["if it is focused", "if it is determined", "if it is working", "if it has excess chub"], "output": 3}
+{"index": "train_683", "input": "The creation of sediment is produced by", "options": ["the break down of other materials", "materials joining together into one", "solar interaction with the earth", "chemicals compounds combining together"], "output": 0}
+{"index": "train_1936", "input": "An example of feeling could be", "options": ["the sun on the leaves of a plant", "clothes on the thighs", "water running in a river", "air blowing trees around"], "output": 1}
+{"index": "train_1698", "input": "A person lost in a maze will need to find their way out alone, but a person lost in a forest may", "options": ["rely on television", "rely on magnets", "rely on spirits", "rely on deer"], "output": 1}
+{"index": "train_2724", "input": "If a tree is being discussed and those talking want to know its age, they will", "options": ["think about it", "bury it", "look at leaves", "look inside it"], "output": 3}
+{"index": "dev_351", "input": "Brackish water is often found where", "options": ["a sea is large", "the ocean is deep", "several large rivers meet", "a river cuts through a canyon"], "output": 2}
+{"index": "train_3562", "input": "An example of an electromagnet is", "options": ["running", "recorders", "grass", "rock climbing"], "output": 1}
+{"index": "train_1035", "input": "Freezing point refers to:", "options": ["the temperature below which gas turns to liquid", "the temperature above which liquid stops being liquid", "the temperature below which solid turns to liquid", "the temperature below which liquid stops being liquid"], "output": 3}
+{"index": "train_4751", "input": "Some humans live in what?", "options": ["lakes", "trees", "oceans", "homes"], "output": 3}
+{"index": "train_251", "input": "If an animal is living, then", "options": ["it is taking in air", "it tries to breathe", "it is using water", "it needs to reproduce"], "output": 0}
+{"index": "train_623", "input": "What kind of animal returns to the same beaches each year to give birth?", "options": ["saltwater crocodile", "carnivorous bird", "semiaquatic mammal", "tiger shark"], "output": 2}
+{"index": "train_122", "input": "December is in the summer in what", "options": ["the southern part of cities", "the northern part of Earth", "the southern part of the third rock", "the southern part of every rock"], "output": 2}
+{"index": "train_4022", "input": "an earthquake causes the ground to", "options": ["recite poetry", "bounce and jump", "grow fruit", "run marathons"], "output": 1}
+{"index": "train_3785", "input": "Which is likely to be a step in a shrub's reproductive process?", "options": ["a logger chops the shrub down", "a fire ravages the shrub and its local ecosystem", "a human makes a smoothie out of some raspberries", "a hare eats its berries and deposits leftovers far away"], "output": 3}
+{"index": "train_4356", "input": "Much iron is in", "options": ["Earth's second layer", "cups of coffee", "the sky", "empty"], "output": 0}
+{"index": "train_3336", "input": "humans will have to flee if their home is", "options": ["being built", "being painted", "demolished", "prepared"], "output": 2}
+{"index": "train_331", "input": "something could get wedged during winter if which of these happens?", "options": ["trapped water changes physical form repeatedly", "water flows down a stream", "water drank by a person", "none of these"], "output": 0}
+{"index": "train_1561", "input": "A person has a glass of water and a friend pranks them by making their water taste different. They prankster added", "options": ["ice", "water", "soda", "air"], "output": 2}
+{"index": "train_71", "input": "Refraction", "options": ["makes objects appear to be twice their size", "moves heat energy thru sound waves", "is the phenomenon involved in mirrors", "makes a straw appear broken when in a cup of water"], "output": 3}
+{"index": "train_3977", "input": "Where are you most likely to see a healthy amount of pollinating insects?", "options": ["Where water is plentiful and flowers are everywhere", "Where water is plentiful and flowers are few", "Where flowers are everywhere and spiders are hungry", "Where water is depleted and flowers are everywhere"], "output": 0}
+{"index": "train_2253", "input": "Lava is found above the ground because when there is lava there is", "options": ["a soft song", "a frontal lobe", "a small indent", "a movement happening"], "output": 3}
+{"index": "train_3323", "input": "Animals need to get ready for the changing seasons in various ways. One way bears get ready for the Winter is by having their", "options": ["ears fall off", "fur get thinner", "fur get thicker", "nose get blue"], "output": 2}
+{"index": "train_3510", "input": "Earthquakes can devastate an area even though they usually last", "options": ["half an hour", "half a minute", "30 minutes", "20 minutes"], "output": 1}
+{"index": "train_3783", "input": "A sea cow would be most uncomfortable in", "options": ["a desert", "a fjord", "an ocean park", "lots of water"], "output": 0}
+{"index": "train_977", "input": "An example of a mixture is", "options": ["gin and tonic martini", "plant potted in soil", "pebbles on a sandy beach", "a leaf that fell in water"], "output": 0}
+{"index": "train_4380", "input": "Erosion can make a source of H2O", "options": ["stay exactly the same", "remain static over time", "calibrate from its previous capacity", "begin hosting underwater birds"], "output": 2}
+{"index": "train_4136", "input": "Duracell's convert chemicals to", "options": ["ocean current", "sunlight", "magic", "voltage"], "output": 3}
+{"index": "train_3097", "input": "The earth being tilted on its axis causes what?", "options": ["happiness", "solar flares", "temp changes", "earthquakes"], "output": 2}
+{"index": "train_3817", "input": "One type of electrical circuit that requires a switch could be", "options": ["running", "diving", "dimming table lights", "swimming"], "output": 2}
+{"index": "train_955", "input": "What is an example that ecosystems are an interconnected world?", "options": ["animals' numbers decreasing when food decreases", "animals' numbers increasing when predator numbers increase", "animals' numbers increasing when plants decrease", "animals' numbers decreasing when food increases"], "output": 0}
+{"index": "train_4538", "input": "Which plant absorbs the most sunlight?", "options": ["the one that dates grow on", "the one that eats insects", "the one that grows in the tundra", "the one that ladybugs like the best"], "output": 0}
+{"index": "dev_491", "input": "What is the earth's surface made of?", "options": ["Grass", "Asphalt", "Water", "Aggregate minerals"], "output": 3}
+{"index": "train_4287", "input": "During the rainy season in a city, the amount of sunlight in the city will", "options": ["stay the same", "decrease", "expand", "increase"], "output": 1}
+{"index": "train_1444", "input": "Some fruits are berries and have _____ visible on the outside, but others have them on the inside", "options": ["corn", "songs", "mice", "kernels"], "output": 3}
+{"index": "train_1462", "input": "We can thank the sloth and its feces for giving us", "options": ["guacamole dip", "bacteria on lettuce", "funny Youtube videos", "brown rice"], "output": 0}
+{"index": "train_4146", "input": "After a storm", "options": ["drinking water will be in short supply", "ponds may dry out", "creek beds may be spilling over", "flowers will wilt and wither"], "output": 2}
+{"index": "train_443", "input": "In a forest without anyone around, a fire may be started by", "options": ["electricty", "a bird", "a landslide", "a flash flood"], "output": 0}
+{"index": "train_2306", "input": "A protected environment will probably be", "options": ["on fire", "fenced", "illegal", "underground"], "output": 1}
+{"index": "train_1764", "input": "An example of a flexible container could be", "options": ["A car", "A bird", "play dough", "A building"], "output": 2}
+{"index": "train_4865", "input": "If a space that is lacking walls or a roof is continuously dampened from above, data may be collected to inform those living there about the results. The information would be", "options": ["measuring distance", "creating rain", "measuring dampness", "enjoying nature"], "output": 2}
+{"index": "train_3645", "input": "little balls of H2O on the inside of a closed window came from", "options": ["rain", "condensed water", "snow", "ice cream"], "output": 1}
+{"index": "train_734", "input": "Ethyl alcohol can be made by distilling and fermenting simple sugars from", "options": ["a starchy slurry", "wet sand", "dry sawdust", "rice fields"], "output": 0}
+{"index": "train_2842", "input": "Who is likeliest to overuse hot water?", "options": ["a rabbit", "a squirrel", "a bird", "the Johnson family"], "output": 3}
+{"index": "train_3972", "input": "An example of a learned behavior is", "options": ["catching a frisbee", "cows eating grass", "having blue eyes", "birds growing wings"], "output": 0}
+{"index": "train_711", "input": "For it to survive, the horse relied on its owner to bring it", "options": ["a harness", "a lead.", "grain", "a saddle"], "output": 2}
+{"index": "train_398", "input": "To positively affect the environment", "options": ["cut down trees and shrubs", "drive a gas guzzling car", "use Styrofoam plates and cups", "cultivate dogwoods and oaks"], "output": 3}
+{"index": "train_270", "input": "seeds are often found inside a", "options": ["banana", "cherry", "olive", "strawberry"], "output": 1}
+{"index": "train_1025", "input": "When the acid spilled on the plant, the plant began to", "options": ["smoke.", "sing", "flower", "grow"], "output": 0}
+{"index": "train_740", "input": "Tiny particles of moisture may be found", "options": ["in what we all breathe", "under the ocean waves", "exclusively in hot steam", "only in cumulus clouds"], "output": 0}
+{"index": "train_3507", "input": "A plant would prefer", "options": ["orange juice", "Dasani", "apple juice", "fire"], "output": 1}
+{"index": "train_936", "input": "How many ecosystems does the earth contain?", "options": ["a scant amount", "a copious amount", "a middling amount", "a negligible amount"], "output": 1}
+{"index": "train_2042", "input": "Solar energy called sunlight originates from", "options": ["jupiter", "center of universe", "our celestial star", "deep space"], "output": 2}
+{"index": "train_3123", "input": "What would be more attracted to a magnet?", "options": ["wood", "A dog", "a cloud", "A zipper"], "output": 3}
+{"index": "train_3228", "input": "What might you find in the depths of the ocean?", "options": ["Mountainous ranges", "magic", "Unicorns", "Love"], "output": 0}
+{"index": "train_2671", "input": "A close object will seem to be", "options": ["miniscule", "minute", "puny", "ginormous"], "output": 3}
+{"index": "train_335", "input": "a lighter object hue can lead to what?", "options": ["none of these", "positive charge in electricity", "a bad electric conduction", "ability to see yourself in it better"], "output": 3}
+{"index": "train_531", "input": "Organic matter in soil can be increased by", "options": ["digging up flowers from the soil", "skunks spraying their scent on the soil", "the dead body of a mouse breaking down", "animals eating crops planted in the soil"], "output": 2}
+{"index": "train_741", "input": "What is a greenhouse?", "options": ["A place for foreign plants", "A house painted green", "A secret Army base", "The opposite of the White House"], "output": 0}
+{"index": "train_2866", "input": "Rain storms and blizzards can be very dangerous to drive in due to the amount of precipitation they produce, which will do what to the roads visibility?", "options": ["make it worse", "Make it tasty", "make it better", "make it hot"], "output": 0}
+{"index": "train_408", "input": "An example of a change in the Earth is", "options": ["the sands of Mars moving", "the moon appearing larger in the night sky", "a volcano erupting in Hawaii burning through a forest", "a skyscraper being built"], "output": 2}
+{"index": "train_3324", "input": "What is a source of nectar?", "options": ["daffodils", "flower toys", "sunlight", "groundwater"], "output": 0}
+{"index": "train_1232", "input": "A rainy environment results in", "options": ["more overcast days", "more sunny days", "less overcast days", "a dry environment"], "output": 0}
+{"index": "train_1747", "input": "What purpose does a plant light serve?", "options": ["Comfort them", "Mimic sunlight", "Keep plants warm", "Protect from bugs"], "output": 1}
+{"index": "train_745", "input": "Wind is a resource that", "options": ["is a fresh idea", "can be retrieved repeatedly", "is a source of water", "is useless in farming"], "output": 1}
+{"index": "train_4778", "input": "A thing which has something firmly raked over it may", "options": ["lose a pebble", "be built up", "lose a portion", "grow larger"], "output": 2}
+{"index": "train_2841", "input": "A sky that is mostly this color will likely be precipitating:", "options": ["yellow", "gold", "blue", "gray"], "output": 3}
+{"index": "train_456", "input": "A glacier is made of", "options": ["ice trays", "solid water", "warm water", "buckets of oil"], "output": 1}
+{"index": "train_3641", "input": "If your body is hot, it will cool down if you put what on it", "options": ["hot water", "an ice pack", "Fire", "the sun"], "output": 1}
+{"index": "train_238", "input": "Mothers have many roles, one of which is", "options": ["gestating and birthing", "making good dinner", "creating fun activities", "watching the babies"], "output": 0}
+{"index": "train_2151", "input": "Which would be formed by layering sediment over time?", "options": ["ammonite", "shells", "ominous", "ammunition"], "output": 0}
+{"index": "train_2110", "input": "Large fluffy clouds in winter may", "options": ["sink", "burn", "melt", "precipitate"], "output": 3}
+{"index": "train_1765", "input": "two women have a baby, it is unlikely to be", "options": ["their biological child", "a human", "formula fed", "an adopted child"], "output": 0}
+{"index": "train_2126", "input": "A person seeking out natural resources would start looking", "options": ["in a closet", "in a pond", "in a spaceship", "in a satellite"], "output": 1}
+{"index": "train_2616", "input": "The ocean contains large amounts of what?", "options": ["people", "salty biscuits", "fires", "saline liquids"], "output": 3}
+{"index": "train_3716", "input": "If a hilly area that reaches incredible peaks is existing, then what happened long ago was", "options": ["things were steamed", "rocks were tiny", "stones crumpling together", "plants were eaten"], "output": 2}
+{"index": "dev_376", "input": "Pouring lemon juice into water", "options": ["flavors milk with lemons", "creates a beverage lemon flavored", "is mostly water still", "uses only real lemons"], "output": 1}
+{"index": "train_83", "input": "There are now many more people because of", "options": ["efficient farming", "more cities", "computers", "global warming"], "output": 0}
+{"index": "train_3213", "input": "The wheels of a skateboard spin around a", "options": ["shaft", "street", "person", "board"], "output": 0}
+{"index": "train_2651", "input": "What could be an example of a thermal conductor", "options": ["a penny", "grass", "a wood block", "cotton"], "output": 0}
+{"index": "train_4694", "input": "Which is likely to cause a spark?", "options": ["ocean sand", "wet dirt", "swamp mud", "loose brush"], "output": 3}
+{"index": "train_248", "input": "What can show how a rainbow is formed by refraction of light by splitting light into all different colors?", "options": ["watching sunlight bounce off a mirror", "shining a flashlight on a gem", "shining a flashlight at a mirror", "looking at a freshly formed diamond"], "output": 1}
+{"index": "train_375", "input": "Roads need repaved in spring because", "options": ["they are cold", "road need it", "they are lumpy", "ice ruins them"], "output": 3}
+{"index": "train_1862", "input": "Squirrels eat a variety of foods including", "options": ["beef", "tender leaf buds", "pork", "cotton candy"], "output": 1}
+{"index": "train_659", "input": "Light produced by deep sea animals is used for?", "options": ["Navigation", "Camouflage", "Sexual Display", "Catching Pray"], "output": 3}
+{"index": "train_1087", "input": "In which situation might most rescues be conducted via air?", "options": ["eviction", "flooding", "fire", "bomb"], "output": 1}
+{"index": "train_1225", "input": "What does the digestive system break down into simple substances?", "options": ["metals", "stones", "plastic food", "nutriment"], "output": 3}
+{"index": "train_2393", "input": "A cloud that begins to precipitate onto the ground is", "options": ["fluttering", "laughing", "crowing", "leaking"], "output": 3}
+{"index": "train_502", "input": "How long does it take Earth to fully revolve one time", "options": ["28 hours", "46 hours", "1400 minutes", "1440 minutes"], "output": 3}
+{"index": "train_757", "input": "A balance can measure the weight of", "options": ["sugar", "tea", "salt water", "chocolate milk"], "output": 0}
+{"index": "train_3012", "input": "Grow lamps provide artificial sun to", "options": ["bricks", "dogs", "succulents", "fish"], "output": 2}
+{"index": "train_4234", "input": "In the food chain process what has the role of producer?", "options": ["eaters", "flora", "carnivore", "consumers"], "output": 1}
+{"index": "train_2347", "input": "A tiny daffodil is next to a large carnation. Bees looking for nectar will swarm", "options": ["the daffodil", "a stick", "a rock", "the carnation"], "output": 3}
+{"index": "train_2974", "input": "When the amount of food goes down, the amount of conflict between the organisms searching for it will", "options": ["nothing.", "remain the same", "go down", "go up"], "output": 3}
+{"index": "train_3703", "input": "If a person wants to move heat quickly, they could use the sun's warmth. The best thing for absorbing it would be", "options": ["a brass sheet", "a wool cap", "a rubber duck", "a plastic ball"], "output": 0}
+{"index": "train_577", "input": "A producer makes its own what?", "options": ["air", "grass", "body", "sustenance"], "output": 3}
+{"index": "train_1531", "input": "Gravitational force never affects", "options": ["balloons", "stars", "sunshine", "air"], "output": 2}
+{"index": "train_4499", "input": "A producer makes its own:", "options": ["sustenance", "air", "shelter", "body"], "output": 0}
+{"index": "train_1493", "input": "A simple pulley example could be", "options": ["Going running on a treadmill", "Swimming lap in a pool", "Riding a bike outside", "pulling water from a well"], "output": 3}
+{"index": "train_687", "input": "If a cat is given cyanide, it will", "options": ["expire", "cough", "puke", "eat"], "output": 0}
+{"index": "train_4045", "input": "which one of these would be an original form of what powers most autos?", "options": ["a can of water", "a deposit of crude", "a large river dam", "a big oak tree"], "output": 1}
+{"index": "train_27", "input": "A car is driving on a highway trying to get up the the speed limit. However, there are strong winds hitting the windshield of the car. Even though the driver is trying to speed up, the high winds", "options": ["flip the car over", "help the car go faster", "conflict with the driver's goal", "move the car sideways"], "output": 2}
+{"index": "train_4226", "input": "A thing which may be found at a special location for reusing materials is a", "options": ["fresh cat litter", "new brick house", "rusted aluminum tray", "old used wax"], "output": 2}
+{"index": "dev_56", "input": "An example of a seasonal change that a furry animal might adopt could be similar to:", "options": ["A pumpkin growing seeds internally", "A store setting up their Christmas displays", "A man looking for breakfast after many hours without food", "humans pulling out their heavy outerwear"], "output": 3}
+{"index": "train_2669", "input": "Long naps increase the bodies", "options": ["shoe size", "physical state", "tan lines", "hair color"], "output": 1}
+{"index": "train_2492", "input": "A boy has a scar from an oven on his leg, so his leg was likely", "options": ["snagged", "seared", "removed", "frozen"], "output": 1}
+{"index": "train_3086", "input": "If a fuel is a biofuel, it may be", "options": ["water", "corn", "sunlight", "oil"], "output": 1}
+{"index": "train_4805", "input": "Which is an example of measuring?", "options": ["a fisherman using a fishing rod", "a runner using a pedometer", "a cat playing with a mouse", "a dog using a stick"], "output": 1}
+{"index": "train_3649", "input": "Consumers eat other what?", "options": ["islands", "winds", "currents", "fauna"], "output": 3}
+{"index": "train_4699", "input": "What environment is often green?", "options": ["tree zones", "arctics", "deserts", "oceans"], "output": 0}
+{"index": "train_2274", "input": "Which would likely result in a chemical change?", "options": ["a piece of paper in marbles", "a piece of meat submerged in lemon juice", "a blade of grass in sand", "a piece of cotton in water"], "output": 1}
+{"index": "train_1920", "input": "Materials that react with other substances to delivery energy, and derived from the remains of living organisms are", "options": ["excellent for the environment", "a resource being depleted", "never going to run out", "hardly used anywhere by anyone"], "output": 1}
+{"index": "train_4412", "input": "If a person's age is celebrated in adulthood, then it happens every", "options": ["12 months", "24 days", "six weeks", "twelve hours"], "output": 0}
+{"index": "train_125", "input": "Hummingbirds take what with them", "options": ["Bees", "energy", "Pollen", "Honey"], "output": 2}
+{"index": "train_4890", "input": "Where do mushrooms thrive?", "options": ["the Amazon", "the arctic", "international space station", "the Sahara"], "output": 0}
+{"index": "dev_348", "input": "A plant's stem", "options": ["supplies only the roots with water and nutrients", "supplies carbon dioxide through the root system", "acts as the lungs for the plant", "acts as the subway delivering it's water and nutrient passengers to the rest of the plant"], "output": 3}
+{"index": "train_4551", "input": "Which is most accurate?", "options": ["melting is when solids are heated above their melting point; freezing is when solids are cooled from liquid to solid", "melting is when solids are heated above their melting point; melting is when solids are cooled from liquid to solid", "freezing is when solids are heated above their melting point; melting is when solids are cooled from liquid to solid", "freezing is when solids are heated above their melting point; freezing is when solids are cooled from liquid to solid"], "output": 0}
+{"index": "train_3678", "input": "humans sometimes eat", "options": ["plant reproduction vessels", "unicorns", "lava", "clouds"], "output": 0}
+{"index": "train_3199", "input": "Reproduction means a development of genes like", "options": ["time travel", "a personality", "magical powers", "hairline"], "output": 3}
+{"index": "train_2390", "input": "A camouflaged creature in a patterned room will be", "options": ["quick to spot", "fast to locate", "rough to spot", "easy to see"], "output": 2}
+{"index": "train_2844", "input": "As our globe makes a complete quick cycle it can and does see the passage of", "options": ["multiple hours", "eons", "several years", "decades"], "output": 0}
+{"index": "train_3274", "input": "Which of the following most likely led to certain rocks having less friction?", "options": ["a babbling brook", "people", "a light wind", "money"], "output": 0}
+{"index": "train_1903", "input": "the strength of a hurricane will increase when", "options": ["it hits the arctic circle", "it meets a tornado", "it from South Africa to Mexico", "it travels around Antarctica"], "output": 2}
+{"index": "train_1288", "input": "How might you figure out what a parts are needed to let your car drive?", "options": ["think very hard until you figure it out", "ask the person who invented it", "throw it in a lake and see if it floats", "break it down and determine what it is composed of"], "output": 3}
+{"index": "train_2392", "input": "A raccoon be most likely to live near which of the following?", "options": ["a human garbage dump", "an icy barren tundra", "an arid desert plain", "a tropical rain forest"], "output": 0}
+{"index": "train_2461", "input": "A dry bush may burst into flames due to", "options": ["raining skies", "wetter air", "higher temps", "faster birds"], "output": 2}
+{"index": "train_2310", "input": "Which is a carnivore?", "options": ["a cow", "a caterpillar", "a vegan", "a shark"], "output": 3}
+{"index": "dev_344", "input": "What season is December in the southern hemisphere?", "options": ["when snow starts to fall", "when the weather gets hot and dry", "when the flowers start to bloom", "when the trees change colors"], "output": 1}
+{"index": "train_2152", "input": "A son inherits a feature from his father through DNA, so the son is likely to have his dad's", "options": ["sense of humor", "temper", "aversion to garlic", "nose"], "output": 3}
+{"index": "train_4598", "input": "Which Disney character was a herbivore?", "options": ["Pluto", "Cheshire Cat", "Bambi", "Simba"], "output": 2}
+{"index": "train_2661", "input": "what is a simple way to determine the age a tree?", "options": ["by counting its branches", "by counting its round inner markings", "by counting its leaves", "by counting its roots"], "output": 1}
+{"index": "train_1830", "input": "Heat energy has been added to", "options": ["red velvet cupcakes", "Greek yogurt", "ceviche", "Caesar salad"], "output": 0}
+{"index": "train_3772", "input": "steam is a kind of water above", "options": ["the stove", "373 kelvin", "the moon", "jupiter"], "output": 1}
+{"index": "train_2922", "input": "Who would be healthier?", "options": ["a sleeper", "an party animal", "insomniac", "a workaholic"], "output": 0}
+{"index": "train_2804", "input": "If a duck lays seven eggs and last year they laid zero eggs, this year they are", "options": ["male", "increasing young", "producing zero", "producing live young"], "output": 1}
+{"index": "train_3706", "input": "If a field is planted with something that will be sold later in the refrigerated section, then that something was intended to be consumed by", "options": ["elephants", "toddlers", "bears", "bees"], "output": 1}
+{"index": "train_3544", "input": "Roses utilize chlorophyll to", "options": ["turn themselves blue and pink", "take in sun rays", "turn oxygen into CO2", "take in dust particles from the air"], "output": 1}
+{"index": "train_3980", "input": "There are 5 steps in the water cycle, it starts with evaporation, ends with infiltration, and then", "options": ["cries", "goes away", "dies", "Restarts"], "output": 3}
+{"index": "train_2186", "input": "An electric car will have difficulty receiving energy at", "options": ["a power outlet", "an electric station", "a charging station", "a gasoline station"], "output": 3}
+{"index": "train_3847", "input": "What can reproduce", "options": ["Spoon", "Keyboard", "Deceased cat", "Living dog"], "output": 3}
+{"index": "train_33", "input": "As a plant's roots get bigger, they split apart", "options": ["worms", "water", "granite", "atoms"], "output": 2}
+{"index": "train_204", "input": "A bird makes its home in various places, such as", "options": ["groves of plants", "waterways", "city streets", "public parks"], "output": 0}
+{"index": "train_4424", "input": "friction acts to counter the motion of two objects when their surfaces are what?", "options": ["converging", "separated", "in vision", "apart"], "output": 0}
+{"index": "train_3534", "input": "Stepping in a lake causes", "options": ["tsunamis", "ripples", "typhoons", "earthquakes"], "output": 1}
+{"index": "train_4308", "input": "Which is least likely to be an ecosystem?", "options": ["the plains", "the moon base", "the desert", "the fields"], "output": 1}
+{"index": "train_4311", "input": "It is vital to your health to have a", "options": ["good time", "jet ski", "plane", "colony of bacteria"], "output": 3}
+{"index": "train_1204", "input": "do all insects have to undergo every stage of change before becoming full grown?", "options": ["all of these", "insects are born live", "pupa stage is sometimes skipped", "pupa is a required stage"], "output": 2}
+{"index": "train_611", "input": "When a bear eats berries he will be contributing to what process?", "options": ["food for young", "hunters", "seed propagation", "hunger"], "output": 2}
+{"index": "train_4327", "input": "Which of these animals could keep itself warmest?", "options": ["a squirrel", "a whale", "a chihuahua", "a cat"], "output": 1}
+{"index": "train_2719", "input": "An example of an electrical circuit running properly would be", "options": ["dimming lights", "swimming in pools", "running outside", "riding bikes"], "output": 0}
+{"index": "train_1727", "input": "Radiaton can make something", "options": ["cooler", "warmer", "heavier", "harder"], "output": 1}
+{"index": "train_1370", "input": "A greenhouse is used to protect plants from what?", "options": ["nutrients", "freezing winds", "socializing", "fresh air"], "output": 1}
+{"index": "train_4054", "input": "A plane travels through the air surrounding a", "options": ["planet", "black hole", "submarine", "cave"], "output": 0}
+{"index": "train_1789", "input": "To explore the regions of a super nova you will need", "options": ["take a picture", "to look up", "great vision", "cylinder with mirrors"], "output": 3}
+{"index": "train_15", "input": "A magnet will stick to", "options": ["a belt buckle", "a wooden table", "a plastic cup", "a paper plate"], "output": 0}
+{"index": "train_4437", "input": "if an object undergoes chemical change then that object will have new chemical what?", "options": ["warmth", "temperature", "appearance", "attributes"], "output": 3}
+{"index": "train_2172", "input": "Which of the following animals would be most likely to be in disguise?", "options": ["a chameleon", "a dog", "a bird", "a cat"], "output": 0}
+{"index": "train_1955", "input": "Sunlight is important for", "options": ["communities", "pollution", "space", "bats"], "output": 0}
+{"index": "train_4907", "input": "Illness has a negative impact on the health of what?", "options": ["rocks", "bricks", "llamas", "plastics"], "output": 2}
+{"index": "train_1675", "input": "A mother is six feet tall and the father is almost seven feet tall. When their son reaches maturation, he will likely", "options": ["measure similarly", "be very short", "be invisible", "be under weight"], "output": 0}
+{"index": "dev_282", "input": "What do bees convert nectar into?", "options": ["different types of corn syrup", "rather large rock formations", "bees of different sizes", "sweet stuff sold in grocery stores"], "output": 3}
+{"index": "dev_309", "input": "It would be harder to grow a palm tree in", "options": ["Texas", "Idaho", "Arizona", "South Carolina"], "output": 1}
+{"index": "train_3755", "input": "wildfire that is passed through the tree tops are dangerous, why?", "options": ["it changes at the tip of a hat", "it has magic powers", "it creates a blackhole to suck up Earth", "it has the power to travel in time"], "output": 0}
+{"index": "train_2213", "input": "A compass' needle points north the same way that geese know to fly south in winter, because of", "options": ["unknown circumstances", "magnetic pants", "Earth's pull", "magnetic shoes"], "output": 2}
+{"index": "train_4050", "input": "Alligators have a", "options": ["carrot", "glasses", "scarf", "wide nose"], "output": 3}
+{"index": "dev_136", "input": "What does the earth orbit that causes the seasons to change?", "options": ["plasma star", "venus", "mercury", "pluto"], "output": 0}
+{"index": "train_2277", "input": "A storm is covering a town in sleet, which means that things", "options": ["will be dry", "will be burning", "will be slick", "will be toasty"], "output": 2}
+{"index": "train_3000", "input": "Animals the exemplify relationship behaviors are", "options": ["air", "space", "metal", "killdeer"], "output": 3}
+{"index": "train_176", "input": "nutrients from food and water are necessary to an organism's", "options": ["friendships", "habitat", "survival", "caloric needs"], "output": 2}
+{"index": "train_3814", "input": "How is a place of lower elevation affected by flooding when compared to a higher location?", "options": ["It is more resistant than a higher place", "The lower area is already flooded", "It is more affected by the flood", "It is impossible to flood a lower elevation location"], "output": 2}
+{"index": "train_1020", "input": "A hurricane is growing on the east coast, and it's coming off of the ocean, as they do. By the time the hurricane hits the east coast, it will have built up quite a bit, and this is because of", "options": ["the salt from the ocean", "the ocean being quite wet", "seas have humidity from raised temperatures and fluid", "the sea being cool and calm"], "output": 2}
+{"index": "train_4171", "input": "migration is when what move to different locations in an annual cycle?", "options": ["animal figurines", "sedentary animals", "habitual creatures", "currents"], "output": 2}

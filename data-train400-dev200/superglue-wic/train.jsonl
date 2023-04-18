@@ -1,0 +1,400 @@
+{"index": 3664, "input": "Raise a shout. [SEP] Raise a sad cry. [SEP] raise", "options": ["false", "true"], "output": "true"}
+{"index": 219, "input": "I tried to call you all night. [SEP] The new dean calls meetings every week. [SEP] call", "options": ["false", "true"], "output": "false"}
+{"index": 4083, "input": "The frequency of modulation was 40 cycles per second. [SEP] The frequency of his seizures increased as he grew older. [SEP] frequency", "options": ["false", "true"], "output": "true"}
+{"index": 4829, "input": "A slight move of the tiller, and the boat will go off course. [SEP] His move put him directly in my path. [SEP] move", "options": ["false", "true"], "output": "true"}
+{"index": 1237, "input": "The seat of these trousers is almost worn through. [SEP] He booked their seats in advance. [SEP] seat", "options": ["false", "true"], "output": "false"}
+{"index": 5415, "input": "Here we enter the region of opinion. [SEP] The farming regions of France. [SEP] region", "options": ["false", "true"], "output": "false"}
+{"index": 1784, "input": "There was a small opening between the trees. [SEP] The opening established the basic theme. [SEP] opening", "options": ["false", "true"], "output": "false"}
+{"index": 1558, "input": "An account of a battle. [SEP] He gave an inaccurate account of the plot to kill the president. [SEP] account", "options": ["false", "true"], "output": "true"}
+{"index": 1767, "input": "Pull the string gently. [SEP] Pull the handle towards you. [SEP] pull", "options": ["false", "true"], "output": "true"}
+{"index": 1418, "input": "The foot of the mountain. [SEP] His bare feet projected from his trousers. [SEP] foot", "options": ["false", "true"], "output": "false"}
+{"index": 3196, "input": "Penny was in the scullery, pressing the body of her new dress. [SEP] They moved their arms and legs and bodies. [SEP] body", "options": ["false", "true"], "output": "true"}
+{"index": 4924, "input": "The battery had a short life. [SEP] He lived a long and happy life. [SEP] life", "options": ["false", "true"], "output": "true"}
+{"index": 322, "input": "Do you want to work after the age of 60? [SEP] My wife never worked. [SEP] work", "options": ["false", "true"], "output": "true"}
+{"index": 2131, "input": "He held me up at the point of a gun. [SEP] The one with the most points will win the game. [SEP] point", "options": ["false", "true"], "output": "false"}
+{"index": 2612, "input": "Would you like some tea? [SEP] Would you be a dear and get me a cup of tea, please? [SEP] tea", "options": ["false", "true"], "output": "true"}
+{"index": 3911, "input": "The Vietnamese cut a lot of timber while they occupied Cambodia. [SEP] Cut recording tape. [SEP] cut", "options": ["false", "true"], "output": "false"}
+{"index": 1318, "input": "Execute the decision of the people. [SEP] Your orders have been executed, sir! [SEP] execute", "options": ["false", "true"], "output": "true"}
+{"index": 4029, "input": "Come into contact with a terrorist group. [SEP] The water came to a boil. [SEP] come", "options": ["false", "true"], "output": "true"}
+{"index": 1329, "input": "He suffered from fatigue and emotional tension. [SEP] Tension holds the belt in the pulleys. [SEP] tension", "options": ["false", "true"], "output": "false"}
+{"index": 960, "input": "Make a phone call. [SEP] Make one's way into the forest. [SEP] make", "options": ["false", "true"], "output": "false"}
+{"index": 5380, "input": "You can not even begin to understand the problem we had to deal with during the war. [SEP] The semester begins with a convocation ceremony. [SEP] begin", "options": ["false", "true"], "output": "false"}
+{"index": 4000, "input": "Clear the leaves from the lawn. [SEP] The balloon cleared the tree tops. [SEP] clear", "options": ["false", "true"], "output": "false"}
+{"index": 1386, "input": "Burn a CD. [SEP] Witches were burned in Salem. [SEP] burn", "options": ["false", "true"], "output": "false"}
+{"index": 2242, "input": "We must move quickly. [SEP] To move in a matter. [SEP] move", "options": ["false", "true"], "output": "true"}
+{"index": 5416, "input": "Can I charge this purchase? [SEP] The suspect was charged with murdering his wife. [SEP] charge", "options": ["false", "true"], "output": "false"}
+{"index": 4124, "input": "The sudden apparition of the Spaniards. -- William H. Prescott. [SEP] Natives were amazed at the apparition of this white stranger. [SEP] apparition", "options": ["false", "true"], "output": "true"}
+{"index": 2014, "input": "Polish my shoes. [SEP] He polished up the chrome until it gleamed. [SEP] polish", "options": ["false", "true"], "output": "true"}
+{"index": 2847, "input": "He went to law school out of respect for his father's wishes. [SEP] He inspires respect. [SEP] respect", "options": ["false", "true"], "output": "false"}
+{"index": 4582, "input": "They were pleased about their move to the country. [SEP] The move into my fianc\u00e9's house took two long days. [SEP] move", "options": ["false", "true"], "output": "true"}
+{"index": 791, "input": "He's packin' a piece! [SEP] He needed a piece of granite. [SEP] piece", "options": ["false", "true"], "output": "false"}
+{"index": 3701, "input": "Shake the salt out of the salt shaker. [SEP] I couldn't shake the car that was following me. [SEP] shake", "options": ["false", "true"], "output": "false"}
+{"index": 838, "input": "When I realized that I had hurt my friend, I felt deep shame. [SEP] One mistake brought shame to all his family. [SEP] shame", "options": ["false", "true"], "output": "true"}
+{"index": 1842, "input": "When was the last time we went out? I don't remember. [SEP] He called four times. [SEP] time", "options": ["false", "true"], "output": "true"}
+{"index": 4356, "input": "We had the chance to meet the president last week. [SEP] Now is your chance. [SEP] chance", "options": ["false", "true"], "output": "true"}
+{"index": 5302, "input": "Play the casinos in Trouville. [SEP] Play the stock market. [SEP] play", "options": ["false", "true"], "output": "false"}
+{"index": 2917, "input": "I want to see results. [SEP] You'll see a lot of cheating in this school. [SEP] see", "options": ["false", "true"], "output": "true"}
+{"index": 3045, "input": "Extend a loan. [SEP] The facts extend beyond a consideration of her personal assets. [SEP] extend", "options": ["false", "true"], "output": "false"}
+{"index": 3116, "input": "To counterfeit the signature of another, coins, notes, etc. [SEP] They counterfeited dollar bills. [SEP] counterfeit", "options": ["false", "true"], "output": "true"}
+{"index": 971, "input": "There's a cranky curmudgeon working at the hospital who gives all the patients and other doctors flak. [SEP] John Doe's old age and stubborn aversion to new ideas make him a curmudgeon of a candidate. [SEP] curmudgeon", "options": ["false", "true"], "output": "true"}
+{"index": 1709, "input": "We are enjoying a long engagement, but haven't yet set a date. [SEP] The teacher tried to increase his students' engagement in class activities. [SEP] engagement", "options": ["false", "true"], "output": "false"}
+{"index": 1397, "input": "Can you see the bird in that tree? [SEP] I saw her bake the cake. [SEP] see", "options": ["false", "true"], "output": "true"}
+{"index": 4192, "input": "Detach a regiment. [SEP] His retina detached and he had to be rushed into surgery. [SEP] detach", "options": ["false", "true"], "output": "false"}
+{"index": 1303, "input": "You drive nails into wood with a hammer. [SEP] We drive the turnpike to work. [SEP] drive", "options": ["false", "true"], "output": "false"}
+{"index": 88, "input": "He gave his fingers a snap. [SEP] Servants appeared at the snap of his fingers. [SEP] snap", "options": ["false", "true"], "output": "false"}
+{"index": 2255, "input": "The most moving scene is the final one, where he realizes he has wasted his whole life. [SEP] There were some very erotic scenes in the movie, although it was not classified as pornography. [SEP] scene", "options": ["false", "true"], "output": "true"}
+{"index": 48, "input": "The book wallah. [SEP] A kitchen wallah. [SEP] wallah", "options": ["false", "true"], "output": "true"}
+{"index": 77, "input": "To carry well, i.e. to hold the head high, with arching neck. [SEP] She holds her head high. [SEP] hold", "options": ["false", "true"], "output": "true"}
+{"index": 4619, "input": "Hold these truths to be self-evident. [SEP] About a dozen animals were held inside the stockade. [SEP] hold", "options": ["false", "true"], "output": "false"}
+{"index": 1840, "input": "You look like someone drug you behind a horse for half a mile. [SEP] They drugged the kidnapped tourist. [SEP] drug", "options": ["false", "true"], "output": "true"}
+{"index": 3943, "input": "He has a smooth line but I didn't fall for it. [SEP] Toe the line. [SEP] line", "options": ["false", "true"], "output": "false"}
+{"index": 286, "input": "Now we have a fine mess. [SEP] What do we have here? [SEP] have", "options": ["false", "true"], "output": "true"}
+{"index": 1682, "input": "They gained ground step by step. [SEP] They fought to regain the lost ground. [SEP] ground", "options": ["false", "true"], "output": "true"}
+{"index": 1826, "input": "Open a window and let in some air. [SEP] Air pollution. [SEP] air", "options": ["false", "true"], "output": "true"}
+{"index": 1053, "input": "The newsman wanted to break a big story, something that would make him famous. [SEP] When news of their divorce broke, ... [SEP] break", "options": ["false", "true"], "output": "true"}
+{"index": 1145, "input": "He will hold office until the spring of next year. [SEP] The emerging buds were a sure sign of spring. [SEP] spring", "options": ["false", "true"], "output": "true"}
+{"index": 3999, "input": "Dew dripped from the face of the leaf. [SEP] They climbed the north face of the mountain. [SEP] face", "options": ["false", "true"], "output": "true"}
+{"index": 800, "input": "He lived a long and happy life. [SEP] Life depends on many chemical and physical processes. [SEP] life", "options": ["false", "true"], "output": "false"}
+{"index": 173, "input": "He wanted to feel a part of something bigger than himself. [SEP] She played the part of Desdemona. [SEP] part", "options": ["false", "true"], "output": "false"}
+{"index": 2913, "input": "It worked up to right now. [SEP] Now is a good time to do it. [SEP] now", "options": ["false", "true"], "output": "true"}
+{"index": 3386, "input": "The plane's operation in high winds. [SEP] A multinational operation. [SEP] operation", "options": ["false", "true"], "output": "false"}
+{"index": 4791, "input": "The fabric of our lives. [SEP] It is part of the fabric of society. [SEP] fabric", "options": ["false", "true"], "output": "true"}
+{"index": 5060, "input": "Can you shed light on this problem? [SEP] He finally saw the light. [SEP] light", "options": ["false", "true"], "output": "true"}
+{"index": 3575, "input": "I took the noon flight to Chicago. [SEP] Where is the departure gate for flight 747? / Go straight down and to the right. [SEP] flight", "options": ["false", "true"], "output": "true"}
+{"index": 4748, "input": "They were soon out of view. [SEP] Consider what follows from the positivist view. [SEP] view", "options": ["false", "true"], "output": "false"}
+{"index": 4354, "input": "Draw a weapon. [SEP] Draw a wagon. [SEP] draw", "options": ["false", "true"], "output": "false"}
+{"index": 4721, "input": "Pay up, please! [SEP] It pays to go through the trouble. [SEP] pay", "options": ["false", "true"], "output": "false"}
+{"index": 3142, "input": "The appointment had to be approved by the whole committee. [SEP] He erred by the appointment of unsuitable men. [SEP] appointment", "options": ["false", "true"], "output": "true"}
+{"index": 630, "input": "Come out of the closet! [SEP] He comes from humble origins. [SEP] come", "options": ["false", "true"], "output": "false"}
+{"index": 3429, "input": "Hold your tongue. [SEP] About a dozen animals were held inside the stockade. [SEP] hold", "options": ["false", "true"], "output": "false"}
+{"index": 1783, "input": "It was a mountainous area. [SEP] It was a closed area of employment. [SEP] area", "options": ["false", "true"], "output": "false"}
+{"index": 237, "input": "The Holocaust was insanity on an enormous scale. [SEP] There are some who question the scale of our ambitions. [SEP] scale", "options": ["false", "true"], "output": "true"}
+{"index": 199, "input": "I've been suffering your insults for years. [SEP] He suffered the penalty. [SEP] suffer", "options": ["false", "true"], "output": "true"}
+{"index": 2593, "input": "He took a deep breath and dived into the pool. [SEP] I could feel the runner's breath on my shoulder. [SEP] breath", "options": ["false", "true"], "output": "false"}
+{"index": 1492, "input": "Yet Butler professes to stick to plain facts, not to sophisticate, not to refine. -- M. Arnold. [SEP] Their manners had sophisticated the young girls. [SEP] sophisticate", "options": ["false", "true"], "output": "false"}
+{"index": 3165, "input": "Softness is not something permitted of good leaders. [SEP] Orders have recently picked up after a period of extreme softness. [SEP] softness", "options": ["false", "true"], "output": "false"}
+{"index": 673, "input": "I can't get these boots off (or on). [SEP] Get me those books over there, please. [SEP] get", "options": ["false", "true"], "output": "true"}
+{"index": 3924, "input": "Run a temperature. [SEP] Let the dogs run free. [SEP] run", "options": ["false", "true"], "output": "false"}
+{"index": 746, "input": "Drive the forest. [SEP] We drove to the university every morning. [SEP] drive", "options": ["false", "true"], "output": "false"}
+{"index": 3598, "input": "Book fair. [SEP] World fair. [SEP] fair", "options": ["false", "true"], "output": "true"}
+{"index": 1793, "input": "Your wish will come true. [SEP] Winter comes after autumn. [SEP] come", "options": ["false", "true"], "output": "true"}
+{"index": 3696, "input": "Make a wall of stones. [SEP] Make a cake. [SEP] make", "options": ["false", "true"], "output": "true"}
+{"index": 3782, "input": "Your mother is a right pain. [SEP] As the intensity increased the sensation changed from tickle to pain. [SEP] pain", "options": ["false", "true"], "output": "false"}
+{"index": 2540, "input": "I carry her image in my mind's eye. [SEP] His voice carried a lot of anger. [SEP] carry", "options": ["false", "true"], "output": "false"}
+{"index": 1640, "input": "We live in a litigious age. [SEP] The Tithonian Age was the last in the Late Jurassic epoch. [SEP] age", "options": ["false", "true"], "output": "true"}
+{"index": 1974, "input": "Cold is a vasoconstrictor. [SEP] Come in out of the cold. [SEP] cold", "options": ["false", "true"], "output": "true"}
+{"index": 1416, "input": "I can see what will happen. [SEP] I can see a risk in this strategy. [SEP] see", "options": ["false", "true"], "output": "true"}
+{"index": 3472, "input": "I'll give you three books for four CDs. [SEP] Give thought to. [SEP] give", "options": ["false", "true"], "output": "false"}
+{"index": 384, "input": "Clarify beer. [SEP] Clarify the butter. [SEP] clarify", "options": ["false", "true"], "output": "true"}
+{"index": 1583, "input": "A wave of conservatism in the country led by the hard right. [SEP] There was a sudden wave of buying before the market closed. [SEP] wave", "options": ["false", "true"], "output": "true"}
+{"index": 4979, "input": "Write your name in the space provided. [SEP] It all happened in the space of 10 minutes. [SEP] space", "options": ["false", "true"], "output": "false"}
+{"index": 175, "input": "He was suffering from museum fatigue. [SEP] Political fatigue. [SEP] fatigue", "options": ["false", "true"], "output": "true"}
+{"index": 623, "input": "Don't go to lunch if we don't have enough coverage for the help-desk phones. [SEP] The enemy fire is increasing -- can we get some immediate coverage from those bunkers? [SEP] coverage", "options": ["false", "true"], "output": "true"}
+{"index": 1795, "input": "It is growing rapidly with no limitation in sight. [SEP] Statute of limitations. [SEP] limitation", "options": ["false", "true"], "output": "false"}
+{"index": 1949, "input": "Block the wheels of a car. [SEP] Block his election. [SEP] block", "options": ["false", "true"], "output": "false"}
+{"index": 1287, "input": "Ground the electrical connections for safety reasons. [SEP] The storm grounded the ship. [SEP] ground", "options": ["false", "true"], "output": "false"}
+{"index": 5325, "input": "It is good practice to check each door and window before leaving. [SEP] It is the usual practice of employees there to wear neckties only when meeting with customers. [SEP] practice", "options": ["false", "true"], "output": "true"}
+{"index": 5334, "input": "They were beaten by a more aggressive team. [SEP] Beat the egg whites. [SEP] beat", "options": ["false", "true"], "output": "false"}
+{"index": 2246, "input": "The word is a basic linguistic unit. [SEP] The reduced the number of units and installations. [SEP] unit", "options": ["false", "true"], "output": "true"}
+{"index": 3289, "input": "Drift the cattle herds westwards. [SEP] The balloon was drifting in the breeze. [SEP] drift", "options": ["false", "true"], "output": "false"}
+{"index": 4, "input": "We like to summer in the Mediterranean. [SEP] We summered in Kashmir. [SEP] summer", "options": ["false", "true"], "output": "true"}
+{"index": 5121, "input": "The court is now in session. [SEP] The girls were playing in the court. [SEP] court", "options": ["false", "true"], "output": "false"}
+{"index": 3287, "input": "I will purchase the vacation package if you will include car rental. [SEP] We must include this chemical element in the group. [SEP] include", "options": ["false", "true"], "output": "true"}
+{"index": 47, "input": "Follow God's light. [SEP] Magoon's governorship in Cuba was viewed in a negative light by many Cuban historians for years thereafter. [SEP] light", "options": ["false", "true"], "output": "false"}
+{"index": 1975, "input": "Strike a medal. [SEP] The teacher struck the child. [SEP] strike", "options": ["false", "true"], "output": "false"}
+{"index": 2614, "input": "Those clouds show little sign of raining soon. [SEP] Signs of disease are objective, whereas symptoms are subjective. [SEP] sign", "options": ["false", "true"], "output": "true"}
+{"index": 816, "input": "Declare dividends. [SEP] Declare bankruptcy. [SEP] declare", "options": ["false", "true"], "output": "false"}
+{"index": 2961, "input": "Answer the door. [SEP] Nobody answered when I knocked on the door. [SEP] answer", "options": ["false", "true"], "output": "true"}
+{"index": 5237, "input": "Introduce exotic fruits. [SEP] Introduce legislation. [SEP] introduce", "options": ["false", "true"], "output": "false"}
+{"index": 4591, "input": "Open a window and let in some air. [SEP] As he waited he could feel the air on his neck. [SEP] air", "options": ["false", "true"], "output": "false"}
+{"index": 3378, "input": "Prepare a speech. [SEP] The prince was prepared to become King one day. [SEP] prepare", "options": ["false", "true"], "output": "false"}
+{"index": 733, "input": "The game was interrupted by a brief shower. [SEP] He took a shower after the game. [SEP] shower", "options": ["false", "true"], "output": "false"}
+{"index": 4779, "input": "A place in my heart. [SEP] He has a special place in my thoughts. [SEP] place", "options": ["false", "true"], "output": "true"}
+{"index": 5223, "input": "Deliver the mail. [SEP] The guard delivered the criminal to the police. [SEP] deliver", "options": ["false", "true"], "output": "false"}
+{"index": 4469, "input": "Trace a pattern. [SEP] Trace the student's progress. [SEP] trace", "options": ["false", "true"], "output": "false"}
+{"index": 564, "input": "She could not cut the long days in the office. [SEP] His opponent cut upward toward his chin. [SEP] cut", "options": ["false", "true"], "output": "false"}
+{"index": 862, "input": "The trapped miners found a pocket of air. [SEP] The battle was won except for cleaning up pockets of resistance. [SEP] pocket", "options": ["false", "true"], "output": "false"}
+{"index": 543, "input": "The conflict between the government and the rebels began three years ago. [SEP] He was immobilized by conflict and indecision. [SEP] conflict", "options": ["false", "true"], "output": "false"}
+{"index": 4043, "input": "Her red hat gave her outfit a splash of color. [SEP] He made a great splash and then disappeared. [SEP] splash", "options": ["false", "true"], "output": "false"}
+{"index": 2129, "input": "To offset one charge against another. [SEP] Offset deposits and withdrawals. [SEP] offset", "options": ["false", "true"], "output": "true"}
+{"index": 5369, "input": "A student's attendance is an important factor in her grade. [SEP] The class sat down so that the teacher could take attendance. [SEP] attendance", "options": ["false", "true"], "output": "false"}
+{"index": 619, "input": "Common sense is not so common. [SEP] He hasn't got the sense God gave little green apples. [SEP] sense", "options": ["false", "true"], "output": "true"}
+{"index": 4479, "input": "Give priority to. [SEP] Give one's name. [SEP] give", "options": ["false", "true"], "output": "false"}
+{"index": 3678, "input": "Would you please cut the cake? [SEP] Cut a hole. [SEP] cut", "options": ["false", "true"], "output": "false"}
+{"index": 937, "input": "Come out of the closet! [SEP] He came through the door. [SEP] come", "options": ["false", "true"], "output": "true"}
+{"index": 3884, "input": "I feel I hardly know him; I just wish he'd communicate with me a little more. [SEP] Do you communicate well with your advisor? [SEP] communicate", "options": ["false", "true"], "output": "true"}
+{"index": 1336, "input": "Arouse pity. [SEP] To arouse compassion. [SEP] arouse", "options": ["false", "true"], "output": "true"}
+{"index": 5356, "input": "Can you unravel the mystery? [SEP] Mother couldn't unravel the ball of wool after the cat had played with it. [SEP] unravel", "options": ["false", "true"], "output": "true"}
+{"index": 5188, "input": "Hold your fire until you can see the whites of their eyes. [SEP] Barbecue over an open fire. [SEP] fire", "options": ["false", "true"], "output": "false"}
+{"index": 4141, "input": "There is a law against kidnapping. [SEP] By law, one is not allowed to own a wallaby in New York City. [SEP] law", "options": ["false", "true"], "output": "false"}
+{"index": 5409, "input": "They began to fight like fun. [SEP] She asked for money and then the fun began. [SEP] fun", "options": ["false", "true"], "output": "true"}
+{"index": 3094, "input": "When is your baby due? [SEP] The baby of the Supreme Court. [SEP] baby", "options": ["false", "true"], "output": "false"}
+{"index": 4345, "input": "I may be an hour. [SEP] When will the meeting be? [SEP] be", "options": ["false", "true"], "output": "false"}
+{"index": 944, "input": "The iPhone application VR+ connects to major social networks. [SEP] He has tried several different word processing applications. [SEP] application", "options": ["false", "true"], "output": "true"}
+{"index": 498, "input": "They had a nice stay in Paris. [SEP] A lengthy hospital stay. [SEP] stay", "options": ["false", "true"], "output": "true"}
+{"index": 1081, "input": "The figure was about a thousand. [SEP] She made the best score on compulsory figures. [SEP] figure", "options": ["false", "true"], "output": "false"}
+{"index": 4760, "input": "Kill the engine. [SEP] She was killed in the collision of three cars. [SEP] kill", "options": ["false", "true"], "output": "false"}
+{"index": 4298, "input": "He longed for the touch of her hand. [SEP] This room needs a woman's touch. [SEP] touch", "options": ["false", "true"], "output": "false"}
+{"index": 963, "input": "Can you connect the two loudspeakers? [SEP] Herman connected the computers together. [SEP] connect", "options": ["false", "true"], "output": "true"}
+{"index": 174, "input": "I can feel the sadness in his poems. [SEP] It feels nice to be home again. [SEP] feel", "options": ["false", "true"], "output": "false"}
+{"index": 1119, "input": "A shared line. [SEP] I tried to make a call, but the line was dead. [SEP] line", "options": ["false", "true"], "output": "true"}
+{"index": 4609, "input": "He was on the heavy side. [SEP] A cube has six sides. [SEP] side", "options": ["false", "true"], "output": "false"}
+{"index": 640, "input": "She loves to ride her new motorcycle through town. [SEP] The cab rode him downtown. [SEP] ride", "options": ["false", "true"], "output": "true"}
+{"index": 1441, "input": "The word \"kerosine\" is a variant of \"kerosene\". [SEP] All breeds of dog are variants of the species \"Canis lupus familiaris\". [SEP] variant", "options": ["false", "true"], "output": "true"}
+{"index": 1301, "input": "We had sex in the back seat. [SEP] All you ever think about is sex. [SEP] sex", "options": ["false", "true"], "output": "true"}
+{"index": 503, "input": "The surface had a greasy feeling. [SEP] The wool on my arm produced a strange feeling. [SEP] feeling", "options": ["false", "true"], "output": "true"}
+{"index": 423, "input": "The voice of experience. [SEP] The wee small voice of conscience. [SEP] voice", "options": ["false", "true"], "output": "true"}
+{"index": 3608, "input": "Please, help! [SEP] Can you help me carry this table? [SEP] help", "options": ["false", "true"], "output": "true"}
+{"index": 4022, "input": "What do we have here? [SEP] Have a lover. [SEP] have", "options": ["false", "true"], "output": "false"}
+{"index": 3327, "input": "He's a master of the business deal. [SEP] It was a package deal. [SEP] deal", "options": ["false", "true"], "output": "true"}
+{"index": 1257, "input": "Make lead into gold. [SEP] We barely made the plane. [SEP] make", "options": ["false", "true"], "output": "false"}
+{"index": 3332, "input": "I feel that we need to try harder. [SEP] It feels nice to be home again. [SEP] feel", "options": ["false", "true"], "output": "true"}
+{"index": 3438, "input": "While there's life there's hope. [SEP] Having experienced both, the vampire decided that he preferred (un)death to life. [SEP] life", "options": ["false", "true"], "output": "true"}
+{"index": 3402, "input": "She seems to avoid much in the way of recognition or acknowledgement of feminist work prior to her own. [SEP] Give her recognition for trying. [SEP] recognition", "options": ["false", "true"], "output": "false"}
+{"index": 3491, "input": "The battery had a short life. [SEP] While there's life there's hope. [SEP] life", "options": ["false", "true"], "output": "false"}
+{"index": 827, "input": "The room has a wooden floor. [SEP] We spread our sleeping bags on the dry floor of the tent. [SEP] floor", "options": ["false", "true"], "output": "true"}
+{"index": 2371, "input": "It's a quarter til 4. [SEP] A quarter after 4 o'clock. [SEP] quarter", "options": ["false", "true"], "output": "true"}
+{"index": 1865, "input": "Give a course. [SEP] Give a gulp. [SEP] give", "options": ["false", "true"], "output": "false"}
+{"index": 462, "input": "Make enemies. [SEP] He made a fool of himself at the meeting. [SEP] make", "options": ["false", "true"], "output": "false"}
+{"index": 227, "input": "Stop playing with the seam of the tablecloth! You will unravel it. [SEP] Mother couldn't unravel the ball of wool after the cat had played with it. [SEP] unravel", "options": ["false", "true"], "output": "true"}
+{"index": 5274, "input": "A prison term. [SEP] He was sentenced to a term of six years in prison. [SEP] term", "options": ["false", "true"], "output": "true"}
+{"index": 2883, "input": "Drop me a line when you get there. [SEP] They attacked the enemy's line. [SEP] line", "options": ["false", "true"], "output": "false"}
+{"index": 3357, "input": "It all happened in the space of 10 minutes. [SEP] The architect left space in front of the building. [SEP] space", "options": ["false", "true"], "output": "false"}
+{"index": 2744, "input": "Life depends on many chemical and physical processes. [SEP] The battery had a short life. [SEP] life", "options": ["false", "true"], "output": "false"}
+{"index": 1515, "input": "Normalize relations with China. [SEP] Normalize the spelling. [SEP] normalize", "options": ["false", "true"], "output": "true"}
+{"index": 4282, "input": "To militate in favor of a particular result. [SEP] Politeness militated against this opinion being expressed. [SEP] militate", "options": ["false", "true"], "output": "true"}
+{"index": 3698, "input": "We had to dress quickly. [SEP] Dress the patient. [SEP] dress", "options": ["false", "true"], "output": "true"}
+{"index": 1824, "input": "These pipes carry waste water into the river. [SEP] Amanda carried the package to New York from home. [SEP] carry", "options": ["false", "true"], "output": "true"}
+{"index": 7, "input": "The organism has reached a crucial stage in its development. [SEP] Our news team brings you the latest developments. [SEP] development", "options": ["false", "true"], "output": "false"}
+{"index": 704, "input": "I take it you're not going? [SEP] How should I take this message? [SEP] take", "options": ["false", "true"], "output": "true"}
+{"index": 1504, "input": "We have a big barrel to catch the rainwater. [SEP] Catch the mood. [SEP] catch", "options": ["false", "true"], "output": "false"}
+{"index": 4009, "input": "The sale will run for ten days. [SEP] They ran twenty blood tests on me and they still don't know what's wrong. [SEP] run", "options": ["false", "true"], "output": "false"}
+{"index": 5377, "input": "He was cut down on a close play at third. [SEP] A simple harmony written in major thirds. [SEP] third", "options": ["false", "true"], "output": "false"}
+{"index": 5006, "input": "Mastering a second language requires a lot of work. [SEP] He arrived at work early today. [SEP] work", "options": ["false", "true"], "output": "false"}
+{"index": 2387, "input": "A course of bricks. [SEP] On a building that size, two crews could only lay two courses in a day. [SEP] course", "options": ["false", "true"], "output": "true"}
+{"index": 4261, "input": "A solid border around a table of figures. [SEP] There's a nice frilly border around the picture frame. [SEP] border", "options": ["false", "true"], "output": "true"}
+{"index": 5071, "input": "You'll be sent home if you pull another stunt like that. [SEP] He regularly pulls 12-hour days, sometimes 14. [SEP] pull", "options": ["false", "true"], "output": "true"}
+{"index": 3077, "input": "I love beer but I know it is bad for you. [SEP] Beer is brewed all over the world. [SEP] beer", "options": ["false", "true"], "output": "true"}
+{"index": 406, "input": "The woman does not even have one stick of furniture moved in yet. [SEP] There was only one piece of furniture in the room. [SEP] furniture", "options": ["false", "true"], "output": "true"}
+{"index": 2452, "input": "A novel application of electronics to medical diagnosis. [SEP] December 31 is the deadline for applications. [SEP] application", "options": ["false", "true"], "output": "false"}
+{"index": 3111, "input": "I need to charge my car battery. [SEP] Don't forget to charge the drill. [SEP] charge", "options": ["false", "true"], "output": "true"}
+{"index": 2837, "input": "I've got to go to the head. [SEP] This song keeps going through my head. [SEP] head", "options": ["false", "true"], "output": "false"}
+{"index": 2322, "input": "His paintings reveal a sensitive interpreter of nature. [SEP] Programs written in the BASIC language are usually run through an interpreter, though some can be compiled. [SEP] interpreter", "options": ["false", "true"], "output": "false"}
+{"index": 2479, "input": "The conflict between the government and the rebels began three years ago. [SEP] A conflict of loyalties. [SEP] conflict", "options": ["false", "true"], "output": "false"}
+{"index": 3274, "input": "Life has lost its point. [SEP] He broke the point of his pencil. [SEP] point", "options": ["false", "true"], "output": "false"}
+{"index": 5229, "input": "They sat down to talk business. [SEP] Although I don't speak Chinese I managed to talk with the villagers using signs and gestures. [SEP] talk", "options": ["false", "true"], "output": "true"}
+{"index": 5284, "input": "The helm of the Commonwealth. [SEP] The President is at the helm of the Ship of State. [SEP] helm", "options": ["false", "true"], "output": "true"}
+{"index": 369, "input": "Draw a chicken. [SEP] The participants in the experiment were drawn from a representative population. [SEP] draw", "options": ["false", "true"], "output": "false"}
+{"index": 1501, "input": "Don't drift from the set course. [SEP] The stock market drifted upward. [SEP] drift", "options": ["false", "true"], "output": "false"}
+{"index": 4384, "input": "Offer prayers to the gods. [SEP] The Shakespeare Company is offering 'King Lear' this month. [SEP] offer", "options": ["false", "true"], "output": "false"}
+{"index": 1140, "input": "They moved in under a mask of friendship. [SEP] No mask could conceal his ignorance. [SEP] mask", "options": ["false", "true"], "output": "true"}
+{"index": 4585, "input": "An early movie simply showed a long kiss by two actors of the contemporary stage. [SEP] We went out of town together by stage about ten or twelve miles. [SEP] stage", "options": ["false", "true"], "output": "false"}
+{"index": 720, "input": "You need to get permission to leave early. [SEP] I got a computer from my parents for my birthday. [SEP] get", "options": ["false", "true"], "output": "true"}
+{"index": 1240, "input": "He had to appear in court last month. [SEP] Homo sapiens appeared millions of years ago. [SEP] appear", "options": ["false", "true"], "output": "false"}
+{"index": 3347, "input": "I shall be writing to you soon. [SEP] Ignorance is bliss. [SEP] be", "options": ["false", "true"], "output": "true"}
+{"index": 3232, "input": "Please follow the guide through the museum. [SEP] She followed a guru for years. [SEP] follow", "options": ["false", "true"], "output": "false"}
+{"index": 586, "input": "The check will clear within 2 business days. [SEP] Clear the leaves from the lawn. [SEP] clear", "options": ["false", "true"], "output": "false"}
+{"index": 5131, "input": "Authority for the program was renewed several times. [SEP] He is an authority on corporate law. [SEP] authority", "options": ["false", "true"], "output": "false"}
+{"index": 3265, "input": "He examined the child's head for vermin. [SEP] Bring these gypsy vermin to the Palace of Justice. [SEP] vermin", "options": ["false", "true"], "output": "false"}
+{"index": 1221, "input": "He needed silence in order to sleep. [SEP] He gestured for silence. [SEP] silence", "options": ["false", "true"], "output": "false"}
+{"index": 2100, "input": "The surface had a greasy feeling. [SEP] She had a feeling of euphoria. [SEP] feeling", "options": ["false", "true"], "output": "false"}
+{"index": 1541, "input": "The ball rolled into the corner pocket. [SEP] The ball travelled 90 mph on his serve. [SEP] ball", "options": ["false", "true"], "output": "true"}
+{"index": 2095, "input": "The coast is clear. [SEP] The children lined up for a coast down the snowy slope. [SEP] coast", "options": ["false", "true"], "output": "false"}
+{"index": 2414, "input": "He tries to hit on women in bars. [SEP] We were hit by really bad weather. [SEP] hit", "options": ["false", "true"], "output": "false"}
+{"index": 4942, "input": "She cut the deck for a long time. [SEP] Soap cuts grease. [SEP] cut", "options": ["false", "true"], "output": "false"}
+{"index": 1508, "input": "His best finish in a major tournament was third. [SEP] Excitement grew as the finish neared. [SEP] finish", "options": ["false", "true"], "output": "false"}
+{"index": 4249, "input": "A head of cauliflower. [SEP] He is two heads taller than his little sister. [SEP] head", "options": ["false", "true"], "output": "false"}
+{"index": 1696, "input": "Will $100 do? [SEP] A 'B' grade doesn't suffice to get me into medical school. [SEP] do", "options": ["false", "true"], "output": "true"}
+{"index": 466, "input": "How does this shirt fit? [SEP] The small shirt doesn't fit me, so I'll buy the medium size. [SEP] fit", "options": ["false", "true"], "output": "true"}
+{"index": 4219, "input": "The separation of wheat from chaff. [SEP] He hid in the separation between walls. [SEP] separation", "options": ["false", "true"], "output": "false"}
+{"index": 4234, "input": "Chief of Staff is the second highest position in the army. [SEP] The position of the hands on the clock. [SEP] position", "options": ["false", "true"], "output": "false"}
+{"index": 4040, "input": "Develop a passion for painting. [SEP] Develop the rook. [SEP] develop", "options": ["false", "true"], "output": "false"}
+{"index": 2995, "input": "The patient was bleeding on the right side. [SEP] He had a pain in his side. [SEP] side", "options": ["false", "true"], "output": "true"}
+{"index": 2201, "input": "The voice of experience. [SEP] He said his voices told him to do it. [SEP] voice", "options": ["false", "true"], "output": "true"}
+{"index": 3547, "input": "I back you all the way. [SEP] Back this enterprise. [SEP] back", "options": ["false", "true"], "output": "true"}
+{"index": 2198, "input": "The news spread rapidly through the medical profession. [SEP] His conduct is against the established practices of the legal profession. [SEP] profession", "options": ["false", "true"], "output": "true"}
+{"index": 178, "input": "We must strike the enemy's oil fields. [SEP] In the fifth inning, the Giants struck, sending three runners home to win the game 5 to 2. [SEP] strike", "options": ["false", "true"], "output": "true"}
+{"index": 1454, "input": "Block an attack. [SEP] He blocked the basketball player's shot. [SEP] block", "options": ["false", "true"], "output": "true"}
+{"index": 3499, "input": "What is the point of discussing it? [SEP] He stuck the point of the knife into a tree. [SEP] point", "options": ["false", "true"], "output": "false"}
+{"index": 1611, "input": "There is not a drop of pity in that man. [SEP] Put three drops of oil into the mixture. [SEP] drop", "options": ["false", "true"], "output": "true"}
+{"index": 3710, "input": "Toe the line. [SEP] They attacked the enemy's line. [SEP] line", "options": ["false", "true"], "output": "false"}
+{"index": 1198, "input": "He had become an institution in the theater. [SEP] The institution of slavery. [SEP] institution", "options": ["false", "true"], "output": "true"}
+{"index": 2707, "input": "My neighborhood voted for Bush. [SEP] It is a friendly neighborhood. [SEP] neighborhood", "options": ["false", "true"], "output": "true"}
+{"index": 2433, "input": "Rack one's brains. [SEP] Rack a camera. [SEP] rack", "options": ["false", "true"], "output": "false"}
+{"index": 2604, "input": "The face of the city is changing. [SEP] He washed his face. [SEP] face", "options": ["false", "true"], "output": "false"}
+{"index": 906, "input": "Get an idea. [SEP] Get nauseous. [SEP] get", "options": ["false", "true"], "output": "true"}
+{"index": 2530, "input": "Play fair. [SEP] Play it safe. [SEP] play", "options": ["false", "true"], "output": "true"}
+{"index": 4186, "input": "I'll meet you at the foot of the stairs. [SEP] His bare feet projected from his trousers. [SEP] foot", "options": ["false", "true"], "output": "false"}
+{"index": 4737, "input": "He misplayed his promising position. [SEP] I misplayed the tennis shot, I should have hit it to her right instead of left and she'd have had more trouble returning it. [SEP] misplay", "options": ["false", "true"], "output": "true"}
+{"index": 5343, "input": "I regret I can't come to the party. [SEP] I regret that I have to do this, but I don't have a choice. [SEP] regret", "options": ["false", "true"], "output": "false"}
+{"index": 2658, "input": "I ordered two dozen doughnuts. [SEP] Pack the shirts in dozens, please. [SEP] dozen", "options": ["false", "true"], "output": "true"}
+{"index": 5193, "input": "Take vengeance. [SEP] Take steps. [SEP] take", "options": ["false", "true"], "output": "true"}
+{"index": 2764, "input": "He hit the ball to deep center. [SEP] His stories made him the center of the party. [SEP] center", "options": ["false", "true"], "output": "false"}
+{"index": 4818, "input": "He attributes the disappointing results to softness in the economy. [SEP] Orders have recently picked up after a period of extreme softness. [SEP] softness", "options": ["false", "true"], "output": "true"}
+{"index": 3211, "input": "The beer had a large head of foam. [SEP] Admission is three dollars a head. [SEP] head", "options": ["false", "true"], "output": "false"}
+{"index": 1870, "input": "Victorian furniture is an interest of mine. [SEP] Lexicography is one of my interests. [SEP] interest", "options": ["false", "true"], "output": "true"}
+{"index": 5359, "input": "I give you my word that I will be there on time. [SEP] He gave his word. [SEP] word", "options": ["false", "true"], "output": "true"}
+{"index": 876, "input": "To admit evidence in the trial of a cause. [SEP] She admitted us here. [SEP] admit", "options": ["false", "true"], "output": "true"}
+{"index": 1625, "input": "This dish could use a touch of garlic. [SEP] At his touch the room filled with lights. [SEP] touch", "options": ["false", "true"], "output": "false"}
+{"index": 842, "input": "Strike coins. [SEP] The thought struck terror in our minds. [SEP] strike", "options": ["false", "true"], "output": "false"}
+{"index": 5385, "input": "Fall into a trap. [SEP] Fall asleep. [SEP] fall", "options": ["false", "true"], "output": "true"}
+{"index": 3507, "input": "The saw buckled when it hit a knot. [SEP] A small knot of women listened to his sermon. [SEP] knot", "options": ["false", "true"], "output": "false"}
+{"index": 3548, "input": "The world's foremost authority on orangutans. [SEP] Tennessee Valley Authority. [SEP] authority", "options": ["false", "true"], "output": "true"}
+{"index": 3692, "input": "I had a brush with danger on my way to work. [SEP] He tried to avoid any brushes with the police. [SEP] brush", "options": ["false", "true"], "output": "true"}
+{"index": 4806, "input": "Some actresses have more than one face lift. [SEP] Take the lift to the fourth floor. [SEP] lift", "options": ["false", "true"], "output": "false"}
+{"index": 2514, "input": "The letter of a room. [SEP] There are twenty-six letters in the English alphabet. [SEP] letter", "options": ["false", "true"], "output": "false"}
+{"index": 4135, "input": "Turn the flour onto a plate. [SEP] Turn towards me. [SEP] turn", "options": ["false", "true"], "output": "false"}
+{"index": 3305, "input": "There are several species of wild flowers growing in this field. [SEP] This racehorse is the strongest in a weak field. [SEP] field", "options": ["false", "true"], "output": "false"}
+{"index": 2147, "input": "Construct an argument. [SEP] Construct a proof. [SEP] construct", "options": ["false", "true"], "output": "true"}
+{"index": 209, "input": "The clarinet was out of tune. [SEP] He can not sing in tune. [SEP] tune", "options": ["false", "true"], "output": "true"}
+{"index": 3824, "input": "The children acted out a comic piece to amuse the guests. [SEP] An important piece of the evidence. [SEP] piece", "options": ["false", "true"], "output": "false"}
+{"index": 4352, "input": "She can hold an audience spellbound. [SEP] Hold this bowl for a moment, please. [SEP] hold", "options": ["false", "true"], "output": "false"}
+{"index": 2806, "input": "Fix breakfast for the guests, please. [SEP] That'll fix him good! [SEP] fix", "options": ["false", "true"], "output": "false"}
+{"index": 333, "input": "The automobile reduced the demand for buggywhips. [SEP] There were many demands on his time. [SEP] demand", "options": ["false", "true"], "output": "false"}
+{"index": 4215, "input": "From the window he could catch a glimpse of the lake. [SEP] I only got a glimpse of the car, so I can tell you the colour but not the registration number. [SEP] glimpse", "options": ["false", "true"], "output": "false"}
+{"index": 4887, "input": "She had to pay the penalty for speaking out rashly. [SEP] He paid her off the books and in kind where possible. [SEP] pay", "options": ["false", "true"], "output": "false"}
+{"index": 1648, "input": "Raise a family. [SEP] To raise somebody to office. [SEP] raise", "options": ["false", "true"], "output": "true"}
+{"index": 4480, "input": "I beg your pardon. I didn't mean to cause offence. [SEP] I begged to come. [SEP] beg", "options": ["false", "true"], "output": "true"}
+{"index": 4012, "input": "It was a miracle that he survived the drop from that height. [SEP] There was a drop in pressure in the pulmonary artery. [SEP] drop", "options": ["false", "true"], "output": "false"}
+{"index": 1530, "input": "You never understand what I mean! [SEP] I mean to go to Baddeck this summer. [SEP] mean", "options": ["false", "true"], "output": "false"}
+{"index": 3994, "input": "The rules forbid our smoking. [SEP] The rules forbid us from smoking. [SEP] forbid", "options": ["false", "true"], "output": "true"}
+{"index": 2494, "input": "Block the book cover. [SEP] His brother blocked him at every turn. [SEP] block", "options": ["false", "true"], "output": "false"}
+{"index": 4793, "input": "I'll offset the time difference locally. [SEP] Offset deposits and withdrawals. [SEP] offset", "options": ["false", "true"], "output": "true"}
+{"index": 1898, "input": "I have a house and a car. [SEP] Have an assistant. [SEP] have", "options": ["false", "true"], "output": "false"}
+{"index": 436, "input": "Under control. [SEP] He had lost control of his sphincters. [SEP] control", "options": ["false", "true"], "output": "false"}
+{"index": 2449, "input": "Shell the legumes. [SEP] Shell mussels. [SEP] shell", "options": ["false", "true"], "output": "true"}
+{"index": 3902, "input": "I have some free time tonight so I think I'll catch a movie. [SEP] The fashion did not catch. [SEP] catch", "options": ["false", "true"], "output": "false"}
+{"index": 162, "input": "The ocean was finally at rest. [SEP] A body will continue in a state of rest until acted upon. [SEP] rest", "options": ["false", "true"], "output": "true"}
+{"index": 4233, "input": "After the fire a still small voice. -- 1 Kings 19:12. [SEP] Conservatism has many voices. [SEP] voice", "options": ["false", "true"], "output": "false"}
+{"index": 3144, "input": "Have a lover. [SEP] We had a hard year last year, with the locust swarms and all that. [SEP] have", "options": ["false", "true"], "output": "false"}
+{"index": 1338, "input": "The sleeves come to your knuckles. [SEP] Come into the room. [SEP] come", "options": ["false", "true"], "output": "false"}
+{"index": 1543, "input": "To raise your walking stick to defend yourself. [SEP] A few important questions were raised after the attack. [SEP] raise", "options": ["false", "true"], "output": "false"}
+{"index": 2811, "input": "Give your home a facelift. [SEP] More than a facelift, the new model marks a fundamental change of direction. [SEP] facelift", "options": ["false", "true"], "output": "true"}
+{"index": 1809, "input": "He was suffering from museum fatigue. [SEP] After watching TV with her husband she had a bad case of football fatigue. [SEP] fatigue", "options": ["false", "true"], "output": "true"}
+{"index": 546, "input": "The gene inactivation system. [SEP] Thermal inactivation of serum samples. [SEP] inactivation", "options": ["false", "true"], "output": "true"}
+{"index": 5235, "input": "\"The harder the conflict the more glorious the triumph\" -- Thomas Paine. [SEP] The conflict between the government and the rebels began three years ago. [SEP] conflict", "options": ["false", "true"], "output": "true"}
+{"index": 234, "input": "The locus of points equidistant from a given point is a circle. [SEP] A circle is the locus of points from which the distance to the center is a given value, the radius. [SEP] locus", "options": ["false", "true"], "output": "true"}
+{"index": 3796, "input": "Your choice of colors was unfortunate. [SEP] The ice cream sundae is a popular choice for dessert. [SEP] choice", "options": ["false", "true"], "output": "true"}
+{"index": 5324, "input": "The fire-light gave a richness of coloring to that side of the room. [SEP] The richness all around unsettled him for he had expected to find poverty. [SEP] richness", "options": ["false", "true"], "output": "false"}
+{"index": 3282, "input": "I'll store these books in the attic. [SEP] Store grain for the winter. [SEP] store", "options": ["false", "true"], "output": "true"}
+{"index": 297, "input": "He wrote on the flap of the envelope. [SEP] The flap of a wing. [SEP] flap", "options": ["false", "true"], "output": "true"}
+{"index": 3152, "input": "View a show on television. [SEP] View an exhibition. [SEP] view", "options": ["false", "true"], "output": "true"}
+{"index": 240, "input": "An advance in health or knowledge. [SEP] She rejected his advances. [SEP] advance", "options": ["false", "true"], "output": "false"}
+{"index": 3580, "input": "He condemned religious sectarianism. [SEP] They were discussing sectarianism between Shias and Sunnis. [SEP] sectarianism", "options": ["false", "true"], "output": "true"}
+{"index": 3885, "input": "Let's get down to work now. [SEP] She didn't get the joke. [SEP] get", "options": ["false", "true"], "output": "false"}
+{"index": 3283, "input": "Such odd-shaped items do not pack well. [SEP] This singer always packs the concert halls. [SEP] pack", "options": ["false", "true"], "output": "false"}
+{"index": 3439, "input": "She can hold an audience spellbound. [SEP] Hold your breath. [SEP] hold", "options": ["false", "true"], "output": "false"}
+{"index": 2305, "input": "That year there was a crop failure. [SEP] He felt that his entire life had been a failure. [SEP] failure", "options": ["false", "true"], "output": "true"}
+{"index": 782, "input": "Look what I have here -- a frog I found on the street! [SEP] He had a cold last week. [SEP] have", "options": ["false", "true"], "output": "false"}
+{"index": 1323, "input": "We must strike the enemy's oil fields. [SEP] The Germans struck Poland on Sept. 1, 1939. [SEP] strike", "options": ["false", "true"], "output": "true"}
+{"index": 879, "input": "The rebels threaten to seize civilian hostages. [SEP] The terrorists seized the politicians. [SEP] seize", "options": ["false", "true"], "output": "true"}
+{"index": 4966, "input": "They served beer on draft. [SEP] He left the country to avoid the draft. [SEP] draft", "options": ["false", "true"], "output": "false"}
+{"index": 2166, "input": "Hold these truths to be self-evident. [SEP] Hold your temper. [SEP] hold", "options": ["false", "true"], "output": "false"}
+{"index": 1906, "input": "For your sake. [SEP] Died for the sake of his country. [SEP] sake", "options": ["false", "true"], "output": "true"}
+{"index": 4841, "input": "He turned the box over to examine the bottom side. [SEP] They painted all four sides of the house. [SEP] side", "options": ["false", "true"], "output": "true"}
+{"index": 4069, "input": "A system generating hydrogen peroxide. [SEP] In a static system oil can not be replaced by water on a surface. [SEP] system", "options": ["false", "true"], "output": "true"}
+{"index": 4879, "input": "They had too much furniture for the small apartment. [SEP] A chair is furniture. Sofas are also furniture. [SEP] furniture", "options": ["false", "true"], "output": "true"}
+{"index": 1421, "input": "How fast does your new car go? [SEP] This door goes to the basement. [SEP] go", "options": ["false", "true"], "output": "false"}
+{"index": 4780, "input": "The \"Ring of the Nibelung\" is a cycle of four operas by Richard Wagner, the famous nineteenth-century German composer. [SEP] Schubert's song cycles. [SEP] cycle", "options": ["false", "true"], "output": "true"}
+{"index": 1742, "input": "Although I don't speak Chinese I managed to talk with the villagers using signs and gestures. [SEP] The baby talks already. [SEP] talk", "options": ["false", "true"], "output": "true"}
+{"index": 3668, "input": "Civilization presupposes respect for the law. [SEP] By law, one is not allowed to own a wallaby in New York City. [SEP] law", "options": ["false", "true"], "output": "true"}
+{"index": 283, "input": "The family's fortune waned and they could not keep their household staff. [SEP] Keep count. [SEP] keep", "options": ["false", "true"], "output": "false"}
+{"index": 4392, "input": "A bedside stand. [SEP] The army made a final stand at the Rhone. [SEP] stand", "options": ["false", "true"], "output": "false"}
+{"index": 2874, "input": "A thread of smoke climbed upward. [SEP] From the air the road was a grey thread. [SEP] thread", "options": ["false", "true"], "output": "true"}
+{"index": 2422, "input": "To press a crowd back. [SEP] Press a record. [SEP] press", "options": ["false", "true"], "output": "false"}
+{"index": 3638, "input": "The institution of slavery. [SEP] The institution of marriage. [SEP] institution", "options": ["false", "true"], "output": "true"}
+{"index": 2999, "input": "Pull a bank robbery. [SEP] He regularly pulls 12-hour days, sometimes 14. [SEP] pull", "options": ["false", "true"], "output": "true"}
+{"index": 4059, "input": "The heart and soul of the Republican Party. [SEP] The heart and soul of any democracy is its electorate. [SEP] heart", "options": ["false", "true"], "output": "true"}
+{"index": 3557, "input": "Truck fresh vegetables across the mountains. [SEP] Amanda trucked the package from Philadelphia to her mother's house. [SEP] truck", "options": ["false", "true"], "output": "true"}
+{"index": 5288, "input": "We can not admit non-members into our club building. [SEP] They were admitted into his house. [SEP] admit", "options": ["false", "true"], "output": "true"}
+{"index": 2638, "input": "The scale of the map. [SEP] The scale of the model. [SEP] scale", "options": ["false", "true"], "output": "true"}
+{"index": 5255, "input": "Can you tell whether those flowers are real or silk, from this distance? [SEP] No, there's no way to tell. [SEP] tell", "options": ["false", "true"], "output": "false"}
+{"index": 1817, "input": "Pass along the good news. [SEP] She passed the new Jersey Bar Exam and can practice law now. [SEP] pass", "options": ["false", "true"], "output": "false"}
+{"index": 1575, "input": "It's a quarter til 4. [SEP] The wind is coming from that quarter. [SEP] quarter", "options": ["false", "true"], "output": "false"}
+{"index": 76, "input": "\"The quality of mercy is not strained\" -- Shakespeare. [SEP] While being impulsive can be great for artists, it is not a desirable quality for engineers. [SEP] quality", "options": ["false", "true"], "output": "true"}
+{"index": 280, "input": "When will the meeting be? [SEP] The postman has been today, but my tickets have still not yet come. [SEP] be", "options": ["false", "true"], "output": "true"}
+{"index": 2435, "input": "We take all major credit cards. [SEP] Do you take sugar in your coffee? [SEP] take", "options": ["false", "true"], "output": "true"}
+{"index": 2413, "input": "The company tried to project an altruistic image. [SEP] The image of f(x) = x^2 is the set of all non-negative real numbers if the domain of the function is the set of all real numbers. [SEP] image", "options": ["false", "true"], "output": "false"}
+{"index": 2852, "input": "An invasion of bees. [SEP] An invasion of mobile phones. [SEP] invasion", "options": ["false", "true"], "output": "true"}
+{"index": 5271, "input": "If the vase falls to the floor, it might break. [SEP] He broke the glass plate. [SEP] break", "options": ["false", "true"], "output": "true"}
+{"index": 3482, "input": "The Union action of emancipating Southern slaves. [SEP] Recent federal action undermined the segregationist position. [SEP] action", "options": ["false", "true"], "output": "true"}
+{"index": 5171, "input": "Many readers find the first book of A Tale of Two Cities to be confusing. [SEP] The book of Isaiah. [SEP] book", "options": ["false", "true"], "output": "true"}
+{"index": 1263, "input": "Infection can cause a lupus flare. [SEP] A colitis flare. [SEP] flare", "options": ["false", "true"], "output": "true"}
+{"index": 3834, "input": "To start a stream of water. [SEP] Start a new job. [SEP] start", "options": ["false", "true"], "output": "false"}
+{"index": 4320, "input": "An executive or judical office. [SEP] He rented an office in the new building. [SEP] office", "options": ["false", "true"], "output": "false"}
+{"index": 494, "input": "Paste the sign on the wall. [SEP] Cut and paste the sentence in the text. [SEP] paste", "options": ["false", "true"], "output": "true"}
+{"index": 2098, "input": "Puddle iron. [SEP] Puddle young plants. [SEP] puddle", "options": ["false", "true"], "output": "false"}
+{"index": 2490, "input": "The head of the stairs. [SEP] She gave great head. [SEP] head", "options": ["false", "true"], "output": "false"}
+{"index": 4772, "input": "Keep my seat, please. [SEP] Keep my job for me while I give birth. [SEP] keep", "options": ["false", "true"], "output": "true"}
+{"index": 167, "input": "Nothing good will come of this. [SEP] Come down here! [SEP] come", "options": ["false", "true"], "output": "false"}
+{"index": 2382, "input": "The mixer returned to the plant for another fill. [SEP] He ate his fill of potatoes. [SEP] fill", "options": ["false", "true"], "output": "false"}
+{"index": 1185, "input": "We stayed in Hawaii for a week. [SEP] I can only stay for an hour. [SEP] stay", "options": ["false", "true"], "output": "false"}
+{"index": 3085, "input": "I always stretch my muscles before exercising. [SEP] His mustache stretched all the way to his sideburns. [SEP] stretch", "options": ["false", "true"], "output": "false"}
+{"index": 3718, "input": "If you persist in that course you will surely fail. [SEP] Once a nation is embarked on a course of action it becomes extremely difficult for any retraction to take place. [SEP] course", "options": ["false", "true"], "output": "true"}
+{"index": 3666, "input": "Implement a procedure. [SEP] It's a good thought, but it will be a difficult thing to implement. [SEP] implement", "options": ["false", "true"], "output": "false"}
+{"index": 2252, "input": "They used the elephants to help put up the circus. [SEP] The circus will be in town next week. [SEP] circus", "options": ["false", "true"], "output": "false"}
+{"index": 4752, "input": "I have two sisters. [SEP] The dog down the street has a lax owner. [SEP] have", "options": ["false", "true"], "output": "true"}
+{"index": 3012, "input": "When the finish is too thin it is difficult to apply evenly. [SEP] The boat had a metallic finish. [SEP] finish", "options": ["false", "true"], "output": "true"}
+{"index": 2645, "input": "A leak in a roof. [SEP] The leaks by Chelsea Manning showed the secrets of the US military. [SEP] leak", "options": ["false", "true"], "output": "false"}
+{"index": 2002, "input": "I don't want to be bald, so just top my hair. [SEP] The towers were topped with conical roofs. [SEP] top", "options": ["false", "true"], "output": "false"}
+{"index": 70, "input": "Go about the world in a certain manner. [SEP] We should go farther in this matter. [SEP] go", "options": ["false", "true"], "output": "true"}
+{"index": 4578, "input": "Change per unit volume. [SEP] The dollar is the United States unit of currency. [SEP] unit", "options": ["false", "true"], "output": "true"}
+{"index": 2053, "input": "Catch fire. [SEP] The trees caught quickly in the dry wind. [SEP] catch", "options": ["false", "true"], "output": "true"}
+{"index": 4243, "input": "Katie's sick, so I need to check up on her and see if she needs anything. [SEP] Check the oil in your car once a month. [SEP] check", "options": ["false", "true"], "output": "true"}
+{"index": 3028, "input": "You really have to empathize. [SEP] You've really got to empathize with what they want. [SEP] empathize", "options": ["false", "true"], "output": "true"}
+{"index": 1561, "input": "We sat around the fire singing songs and telling stories. [SEP] Barbecue over an open fire. [SEP] fire", "options": ["false", "true"], "output": "false"}
+{"index": 4553, "input": "To stick an apple on a fork. [SEP] He stuck the cloth with the needle. [SEP] stick", "options": ["false", "true"], "output": "true"}
+{"index": 4373, "input": "This speech didn't play well with the American public. [SEP] His remarks played to the suspicions of the committee. [SEP] play", "options": ["false", "true"], "output": "true"}
+{"index": 2235, "input": "He put the lamp back in its place. [SEP] He has a special place in my thoughts. [SEP] place", "options": ["false", "true"], "output": "false"}
+{"index": 3936, "input": "Lift a ban. [SEP] Lift a load. [SEP] lift", "options": ["false", "true"], "output": "false"}
+{"index": 441, "input": "Make lead into gold. [SEP] How much do you make a month in your new job? [SEP] make", "options": ["false", "true"], "output": "false"}
+{"index": 3259, "input": "Pull a bank robbery. [SEP] The car pulls to the right. [SEP] pull", "options": ["false", "true"], "output": "false"}
+{"index": 4766, "input": "Screen a film. [SEP] Screen these samples. [SEP] screen", "options": ["false", "true"], "output": "false"}
+{"index": 683, "input": "Take the lift to the fourth floor. [SEP] He responded with a lift of his eyebrow. [SEP] lift", "options": ["false", "true"], "output": "false"}
+{"index": 21, "input": "The line stretched clear around the corner. [SEP] You must wait in a long line at the checkout counter. [SEP] line", "options": ["false", "true"], "output": "true"}
+{"index": 3108, "input": "Here I stand, wondering what to do next. [SEP] I am standing my ground and won't give in! [SEP] stand", "options": ["false", "true"], "output": "true"}
+{"index": 467, "input": "The breaks of my new car act quickly. [SEP] The dog acts ferocious, but he is really afraid of people. [SEP] act", "options": ["false", "true"], "output": "false"}
+{"index": 579, "input": "Moral bankruptcy. [SEP] Intellectual bankruptcy. [SEP] bankruptcy", "options": ["false", "true"], "output": "true"}
+{"index": 375, "input": "Any line joining two points on a plane lies wholly on that plane. [SEP] We will refer to the plane of the graph as the X-Y plane. [SEP] plane", "options": ["false", "true"], "output": "true"}
+{"index": 3412, "input": "An oil-in-water emulsion. [SEP] Mayonnaise is an emulsion where egg is used to keep oil and water mixed. [SEP] emulsion", "options": ["false", "true"], "output": "true"}
+{"index": 5357, "input": "He has just made his first sale. [SEP] They had to complete the sale before the banks closed. [SEP] sale", "options": ["false", "true"], "output": "true"}
+{"index": 1658, "input": "I'll see you to the door. [SEP] I want to see results. [SEP] see", "options": ["false", "true"], "output": "false"}
+{"index": 4726, "input": "I'm going for a dip before breakfast. [SEP] This onion dip is just scrumptious. [SEP] dip", "options": ["false", "true"], "output": "false"}
+{"index": 383, "input": "The trunk was full of stuff. [SEP] He didn't want his pockets to bulge so he was walking around with all his stuff in his hands. [SEP] stuff", "options": ["false", "true"], "output": "true"}
+{"index": 3890, "input": "Go to the supermarket and buy some tea. [SEP] Would you like some tea? [SEP] tea", "options": ["false", "true"], "output": "false"}
+{"index": 1032, "input": "The dog was taught to fetch and carry. [SEP] Carry a cause. [SEP] carry", "options": ["false", "true"], "output": "false"}
+{"index": 474, "input": "The telephone company finally put in lines to connect the towns in this area. [SEP] Did you finally connect with your long-lost cousin? [SEP] connect", "options": ["false", "true"], "output": "false"}
+{"index": 4084, "input": "Is there any news about the storm? [SEP] That's news to me. [SEP] news", "options": ["false", "true"], "output": "true"}
+{"index": 5200, "input": "Potatoes bake to a crisp. [SEP] She's been baking all day to prepare for the dinner. [SEP] bake", "options": ["false", "true"], "output": "true"}
+{"index": 3756, "input": "I work at night and sleep during the day. [SEP] The dawn turned night into day. [SEP] day", "options": ["false", "true"], "output": "true"}
+{"index": 1890, "input": "He attributes the disappointing results to softness in the economy. [SEP] And in softness almost beyond hearing. [SEP] softness", "options": ["false", "true"], "output": "false"}
+{"index": 1375, "input": "Who's got dibs on the chips? [SEP] Dibs means I get the hammock. [SEP] dibs", "options": ["false", "true"], "output": "true"}
+{"index": 4400, "input": "An angry face. [SEP] He looked out at a roomful of faces. [SEP] face", "options": ["false", "true"], "output": "false"}
+{"index": 3670, "input": "The path of a meteor, of a caravan, or of a storm. [SEP] Genius usually follows a revolutionary path. [SEP] path", "options": ["false", "true"], "output": "false"}
+{"index": 5333, "input": "Throw the car into reverse. [SEP] Have, throw, or make a party. [SEP] throw", "options": ["false", "true"], "output": "false"}
+{"index": 3432, "input": "Grade A milk. [SEP] He got a good grade on the test. [SEP] grade", "options": ["false", "true"], "output": "true"}
+{"index": 2145, "input": "He bought his brother's business. [SEP] A racially integrated business concern. [SEP] business", "options": ["false", "true"], "output": "true"}
+{"index": 2601, "input": "How would you classify these pottery shards -- are they prehistoric? [SEP] She classified the articles into different genres. [SEP] classify", "options": ["false", "true"], "output": "true"}
+{"index": 3504, "input": "You really have to empathize. [SEP] You really have to empathize with them. [SEP] empathize", "options": ["false", "true"], "output": "true"}
+{"index": 821, "input": "Bear a resemblance. [SEP] The unidentified plant bore gorgeous flowers. [SEP] bear", "options": ["false", "true"], "output": "false"}
+{"index": 3493, "input": "Do you want to work after the age of 60? [SEP] She never worked because she inherited a lot of money. [SEP] work", "options": ["false", "true"], "output": "true"}
+{"index": 2065, "input": "I could hear the breath of the runner behind me. [SEP] He took a deep breath and dived into the pool. [SEP] breath", "options": ["false", "true"], "output": "true"}
+{"index": 3253, "input": "The judge tried both father and son in separate trials. [SEP] The judge pronounced often before, but never so widely press-attended. [SEP] judge", "options": ["false", "true"], "output": "true"}
+{"index": 2525, "input": "Convention center. [SEP] It is a center's responsibility to get the football to the quarterback. [SEP] center", "options": ["false", "true"], "output": "false"}
+{"index": 113, "input": "He predicted that although it is of small account now it will rapidly increase in importance. [SEP] The account of his speech that was given on the evening news made the governor furious. [SEP] account", "options": ["false", "true"], "output": "false"}
+{"index": 792, "input": "Don't run that software unless you have permission. [SEP] Run rogue. [SEP] run", "options": ["false", "true"], "output": "false"}
+{"index": 2033, "input": "Efface the memory of the time in the camps. [SEP] Efface oneself. [SEP] efface", "options": ["false", "true"], "output": "false"}
+{"index": 4033, "input": "Please strike this remark from the record. [SEP] We must strike the enemy's oil fields. [SEP] strike", "options": ["false", "true"], "output": "false"}
+{"index": 2298, "input": "The band returned to the stage to play an encore. [SEP] He clambered up onto the stage and got the actors to help him into the box. [SEP] stage", "options": ["false", "true"], "output": "true"}
+{"index": 1355, "input": "She could not help watching the sad spectacle. [SEP] I can't help myself -- I have to smoke. [SEP] help", "options": ["false", "true"], "output": "true"}
+{"index": 1836, "input": "Fall prey to an imposter. [SEP] Fall in love. [SEP] fall", "options": ["false", "true"], "output": "true"}
+{"index": 2237, "input": "There is a demand for jobs. [SEP] There is a demand for voluntary health workers in the poorer parts of Africa and Asia. [SEP] demand", "options": ["false", "true"], "output": "true"}
+{"index": 2580, "input": "Our sense of sight enables us to locate objects in space. [SEP] Locate the boundaries of the property. [SEP] locate", "options": ["false", "true"], "output": "true"}
+{"index": 1484, "input": "He threw the ball into the air. [SEP] A smell of chemicals in the air. [SEP] air", "options": ["false", "true"], "output": "false"}
+{"index": 1096, "input": "She was granted leave to speak. [SEP] Might I beg leave to accompany you? [SEP] leave", "options": ["false", "true"], "output": "true"}
+{"index": 998, "input": "Players had to reserve a court in advance. [SEP] Pay court to the emperor. [SEP] court", "options": ["false", "true"], "output": "false"}
+{"index": 3569, "input": "Apologizing for losing your temper, even though you were badly provoked, showed real class. [SEP] The class of '97. [SEP] class", "options": ["false", "true"], "output": "false"}
+{"index": 3891, "input": "He studied the score of the sonata. [SEP] A score were sent out but only one returned. [SEP] score", "options": ["false", "true"], "output": "false"}
+{"index": 2773, "input": "I don't see the situation quite as negatively as you do. [SEP] I must see your passport before you can enter the country. [SEP] see", "options": ["false", "true"], "output": "false"}
+{"index": 250, "input": "He stared as she buttoned her top. [SEP] Put your books on top of the desk. [SEP] top", "options": ["false", "true"], "output": "false"}
+{"index": 85, "input": "They called for artillery support. [SEP] He applied to the state for support. [SEP] support", "options": ["false", "true"], "output": "false"}

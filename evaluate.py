@@ -25,11 +25,12 @@ SHOT_MAP = {
 BASELINES = [
     "incontext_influence_positive",
     "incontext_influence_negative",
-    "incontext_influence_neutral",
     "datamodel_influence",
     "oneshot_influence",
     "best_set",
-    "random"
+    "random",
+    "perplexity",
+    "dev_avg_roberta-large",
 ]
 
 
@@ -149,35 +150,27 @@ def main(args):
     else:
         raise
 
-    train_indices = [dp["index"] for dp in loader.data_template]
+    if args.method.startswith("incontext_influence") or args.method in ["perplexity", "datamodel_influence", "oneshot_influence", "best_set"]:
+        top_k = top_dict[args.task][model_abbr]
+    elif args.method == "random":
+        train_indices = [dp["index"] for dp in loader.data_template]
+        top_k = random.choices(train_indices, k=task_shot)
+    elif args.method in ["dev_avg_roberta-large", "dev_avg_mpnet_avg"]:
+        top_k = top_dict[args.task]
+    else:
+        raise
 
-    # iterate to get subsets
-    test_indices = [dp["index"] for dp in val_examples]
-    pred = []
-    true = []
+    # 1) Encode subset from right to left (do this once)
+    subset = {
+        "data": loader.get_subset_by_indices(top_k),
+        "subset_idx": top_k,
+    }
+
+    # 2) Evaluate
+    pred, true = [], []
+    demonstration_ids = encode_subset(subset, args.task, tokenizer)
     for val_ex in tqdm(val_examples):
-        test_idx = val_ex["index"]
-        if args.method in ["perplexity", "incontext_influence_positive", "incontext_influence_negative",
-                           "incontext_influence_neutral", "datamodel_influence", "oneshot_influence", "best_set"]:
-            top_k = top_dict[args.task][model_abbr]
-        # randomly choose demonstrations
-        elif args.method == "random":
-            top_k = random.choices(train_indices, k=task_shot)
-        elif args.method in ["dev_avg_roberta-large", "dev_avg_mpnet_avg"]:
-            top_k = top_dict[args.task]
-        else:
-            raise
-
-        # 1) Encode subset from right to left (do this once)
-        subset = {
-            "data": loader.get_subset_by_indices(top_k),
-            "subset_idx": top_k,
-        }
-
-        # 2) Evaluate
-        demonstration_ids = encode_subset(subset, args.task, tokenizer)
         prediction, subset_actual = inference(demonstration_ids, val_ex, args.task, max_seq_len, model, tokenizer)
-
         true.append(val_ex["output"])
         pred.append(prediction)
 

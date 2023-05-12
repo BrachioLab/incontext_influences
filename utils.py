@@ -47,7 +47,6 @@ def get_model(args):
         tokenizer.add_special_tokens({"pad_token": "<pad>"})
         tokenizer.padding_size = "left"
         config = AutoConfig.from_pretrained(model_name)
-        config.vocab_size = tokenizer.vocab_size
         config.eos_token_id = tokenizer.eos_token_id
         config.max_seq_length = 2048
         model = OPTForCausalLM.from_pretrained(
